@@ -1,0 +1,3277 @@
+date,league,top,jungle,mid,bottom,support
+2019-03-24,LCS,Lissandra,Nocturne,Irelia,Ezreal,Rakan
+2019-03-24,LCS,Poppy,Jarvan IV,Ryze,Lucian,Braum
+2019-03-24,LCS,Sylas,Sejuani,Irelia,Twitch,Galio
+2019-03-24,LCS,Jax,Nunu & Willump,Ryze,Vayne,Braum
+2019-03-24,LCS,Vladimir,Jarvan IV,Orianna,Varus,Tahm Kench
+2019-03-24,LCS,Akali,Kindred,Zilean,Lucian,Braum
+2019-03-24,LCS,Gangplank,Rek'Sai,Lissandra,Jinx,Braum
+2019-03-24,LCS,Lucian,Lee Sin,Karthus,Xayah,Rakan
+2019-03-24,LCS,Neeko,Rek'Sai,Zoe,Lucian,Thresh
+2019-03-24,LCS,Vladimir,Sejuani,Kassadin,Jinx,Morgana
+2019-03-24,LCS,Aatrox,Nocturne,Lissandra,Lucian,Braum
+2019-03-24,LCS,Cho'Gath,Rek'Sai,Vel'Koz,Varus,Tahm Kench
+2019-03-24,LCS,Akali,Jarvan IV,Galio,Xayah,Rakan
+2019-03-24,LCS,Poppy,Sejuani,Syndra,Kalista,Braum
+2019-03-23,LCS,Ornn,Jarvan IV,Morgana,Jinx,Tahm Kench
+2019-03-23,LCS,Vladimir,Rek'Sai,LeBlanc,Xayah,Rakan
+2019-03-23,LCS,Vayne,Elise,Lissandra,Xayah,Rakan
+2019-03-23,LCS,Akali,Skarner,Ryze,Lucian,Galio
+2019-03-23,LCS,Aatrox,Jarvan IV,Lissandra,Kog'Maw,Lulu
+2019-03-23,LCS,Urgot,Rek'Sai,Cassiopeia,Jinx,Tahm Kench
+2019-03-23,LCS,Aatrox,Kindred,Lissandra,Varus,Braum
+2019-03-23,LCS,Camille,Jarvan IV,Zilean,Kog'Maw,Tahm Kench
+2019-03-17,LCS,Vladimir,Nocturne,Lissandra,Kalista,Alistar
+2019-03-17,LCS,Neeko,Rek'Sai,Syndra,Lucian,Braum
+2019-03-17,LCS,Kennen,Rek'Sai,LeBlanc,Vayne,Rakan
+2019-03-17,LCS,Aatrox,Skarner,Corki,Ezreal,Braum
+2019-03-17,LCS,Vladimir,Jarvan IV,Swain,Xayah,Rakan
+2019-03-17,LCS,Ryze,Aatrox,Lissandra,Jinx,Thresh
+2019-03-17,LCS,Aatrox,Skarner,Lissandra,Ezreal,Thresh
+2019-03-17,LCS,Akali,Nocturne,Taliyah,Lucian,Galio
+2019-03-17,LCS,Lissandra,Nocturne,Syndra,Kai'Sa,Alistar
+2019-03-17,LCS,Ornn,Rek'Sai,Karthus,Jinx,Tahm Kench
+2019-03-17,LCS,Vladimir,Jarvan IV,Zoe,Ezreal,Braum
+2019-03-17,LCS,Aatrox,Rek'Sai,LeBlanc,Xayah,Rakan
+2019-03-17,LCS,Aatrox,Poppy,Swain,Vayne,Braum
+2019-03-17,LCS,Vladimir,Rek'Sai,Lissandra,Kalista,Galio
+2019-03-16,LCS,Aatrox,Rek'Sai,Akali,Vayne,Galio
+2019-03-16,LCS,Vladimir,Jarvan IV,Azir,Jinx,Braum
+2019-03-16,LCS,Lissandra,Rek'Sai,Syndra,Vayne,Braum
+2019-03-16,LCS,Ryze,Elise,Orianna,Lucian,Alistar
+2019-03-16,LCS,Jayce,Rek'Sai,Viktor,Sivir,Braum
+2019-03-16,LCS,Yorick,Sejuani,Vel'Koz,Ashe,Tahm Kench
+2019-03-10,LCS,Rumble,Jarvan IV,Lissandra,Irelia,Alistar
+2019-03-10,LCS,Aatrox,Zac,Syndra,Ashe,Tahm Kench
+2019-03-10,LCS,Aatrox,Sejuani,Syndra,Corki,Galio
+2019-03-10,LCS,Vladimir,Jarvan IV,Lissandra,Ezreal,Alistar
+2019-03-10,LCS,Vladimir,Jarvan IV,Corki,Ezreal,Galio
+2019-03-10,LCS,Irelia,Sejuani,LeBlanc,Draven,Tahm Kench
+2019-03-10,LCS,Aatrox,Sejuani,Ryze,Tristana,Alistar
+2019-03-10,LCS,Jax,Kindred,Lissandra,Jinx,Braum
+2019-03-10,LCS,Vladimir,Jarvan IV,Karthus,Tristana,Braum
+2019-03-10,LCS,Kennen,Lee Sin,LeBlanc,Ezreal,Tahm Kench
+2019-03-10,LCS,Jayce,Trundle,Orianna,Ezreal,Tahm Kench
+2019-03-10,LCS,Yorick,Sejuani,Corki,Kalista,Braum
+2019-03-10,LCS,Karma,Rek'Sai,Ryze,Kai'Sa,Alistar
+2019-03-10,LCS,Vladimir,Nocturne,Lissandra,Jinx,Braum
+2019-03-09,LCS,Aatrox,Jarvan IV,Syndra,Sivir,Alistar
+2019-03-09,LCS,Riven,Nocturne,LeBlanc,Ezreal,Tahm Kench
+2019-03-09,LCS,Jayce,Sejuani,Orianna,Kai'Sa,Galio
+2019-03-09,LCS,Poppy,Aatrox,Syndra,Xayah,Rakan
+2019-03-09,LCS,Sion,Jarvan IV,Ryze,Ezreal,Tahm Kench
+2019-03-09,LCS,Kennen,Aatrox,LeBlanc,Draven,Thresh
+2019-03-04,LCS,Kennen,Rek'Sai,Zilean,Tristana,Tahm Kench
+2019-03-04,LCS,Ryze,Jarvan IV,Lissandra,Kai'Sa,Galio
+2019-03-03,LCS,Jayce,Lee Sin,Syndra,Ezreal,Tahm Kench
+2019-03-03,LCS,Ornn,Jarvan IV,Orianna,Sivir,Braum
+2019-03-03,LCS,Aatrox,Kindred,Viktor,Cassiopeia,Galio
+2019-03-03,LCS,Neeko,Gragas,Zoe,Varus,Tahm Kench
+2019-03-03,LCS,Ryze,Gragas,Zoe,Lucian,Alistar
+2019-03-03,LCS,Riven,Zac,Viktor,Ezreal,Braum
+2019-03-03,LCS,Cassiopeia,Gragas,Yasuo,Irelia,Alistar
+2019-03-03,LCS,Yorick,Jarvan IV,Syndra,Ezreal,Galio
+2019-03-03,LCS,Kennen,Jarvan IV,LeBlanc,Ezreal,Galio
+2019-03-03,LCS,Maokai,Nocturne,Zoe,Sivir,Alistar
+2019-03-03,LCS,Riven,Olaf,Orianna,Ezreal,Alistar
+2019-03-03,LCS,Jax,Sejuani,Zoe,Sivir,Braum
+2019-03-03,LCS,Ornn,Rek'Sai,Orianna,Tristana,Alistar
+2019-03-03,LCS,Jayce,Elise,LeBlanc,Kalista,Tahm Kench
+2019-03-02,LCS,Kennen,Jarvan IV,Zoe,Tristana,Galio
+2019-03-02,LCS,Ryze,Sejuani,LeBlanc,Ezreal,Alistar
+2019-03-02,LCS,Karma,Nocturne,Sylas,Kai'Sa,Alistar
+2019-03-02,LCS,Riven,Jarvan IV,Ryze,Ezreal,Braum
+2019-02-25,LCS,Jarvan IV,Trundle,Orianna,Ezreal,Tahm Kench
+2019-02-25,LCS,Jayce,Sejuani,Sylas,Kai'Sa,Thresh
+2019-02-24,LCS,Jayce,Sejuani,Sylas,Varus,Tahm Kench
+2019-02-24,LCS,Camille,Nocturne,Zoe,Sivir,Alistar
+2019-02-24,LCS,Urgot,Sejuani,Sylas,Sivir,Alistar
+2019-02-24,LCS,Yorick,Jarvan IV,Orianna,Kai'Sa,Galio
+2019-02-24,LCS,Malphite,Nocturne,Syndra,Lucian,Braum
+2019-02-24,LCS,Vladimir,Jayce,Zoe,Kai'Sa,Thresh
+2019-02-24,LCS,Sion,Jarvan IV,Corki,Ezreal,Braum
+2019-02-24,LCS,Urgot,Lee Sin,Viktor,Kalista,Alistar
+2019-02-24,LCS,Jarvan IV,Aatrox,Viktor,Ezreal,Galio
+2019-02-24,LCS,Jayce,Sejuani,Taliyah,Kai'Sa,Thresh
+2019-02-24,LCS,Aatrox,Kindred,Sylas,Cassiopeia,Galio
+2019-02-24,LCS,Irelia,Sejuani,LeBlanc,Yasuo,Alistar
+2019-02-23,LCS,Kennen,Lee Sin,Viktor,Yasuo,Ornn
+2019-02-23,LCS,Cassiopeia,Sejuani,Vladimir,Irelia,Alistar
+2019-02-23,LCS,Sylas,Sejuani,Orianna,Ezreal,Tahm Kench
+2019-02-23,LCS,Jayce,Zac,Zoe,Kai'Sa,Braum
+2019-02-23,LCS,Urgot,Olaf,Lissandra,Ezreal,Braum
+2019-02-23,LCS,Aatrox,Nocturne,Ryze,Sivir,Tahm Kench
+2019-02-17,LCS,Urgot,Nocturne,Zoe,Xayah,Rakan
+2019-02-17,LCS,Sion,Olaf,Ahri,Kai'Sa,Ornn
+2019-02-17,LCS,Sion,Karthus,LeBlanc,Ezreal,Braum
+2019-02-17,LCS,Riven,Lee Sin,Zoe,Kai'Sa,Thresh
+2019-02-17,LCS,Yorick,Lee Sin,Syndra,Sivir,Alistar
+2019-02-17,LCS,Jax,Sejuani,Zoe,Kai'Sa,Thresh
+2019-02-17,LCS,Urgot,Lee Sin,Orianna,Ashe,Thresh
+2019-02-17,LCS,Aatrox,Gragas,Syndra,Sivir,Tahm Kench
+2019-02-17,LCS,Jayce,Olaf,Lissandra,Ashe,Tahm Kench
+2019-02-17,LCS,Malphite,Jarvan IV,Zoe,Sivir,Alistar
+2019-02-17,LCS,Rumble,Lee Sin,Corki,Sivir,Alistar
+2019-02-17,LCS,Sion,Jarvan IV,Kassadin,Jinx,Tahm Kench
+2019-02-17,LCS,Sylas,Jarvan IV,Aurelion Sol,Ashe,Tahm Kench
+2019-02-17,LCS,Riven,Sejuani,Zoe,Ezreal,Braum
+2019-02-16,LCS,Urgot,Gragas,Syndra,Sivir,Alistar
+2019-02-16,LCS,Sion,Lee Sin,Lissandra,Varus,Morgana
+2019-02-16,LCS,Urgot,Zac,Anivia,Ashe,Tahm Kench
+2019-02-16,LCS,Sion,Gragas,Syndra,Sivir,Alistar
+2019-02-16,LCS,Urgot,Gragas,Jayce,Cassiopeia,Alistar
+2019-02-16,LCS,Sion,Olaf,Zoe,Kalista,Thresh
+2019-02-10,LCS,Aatrox,Camille,Ryze,Ezreal,Braum
+2019-02-10,LCS,Ornn,Xin Zhao,Viktor,Lucian,Thresh
+2019-02-10,LCS,Urgot,Camille,Lissandra,Sivir,Alistar
+2019-02-10,LCS,Sion,Aatrox,Karthus,Ezreal,Tahm Kench
+2019-02-10,LCS,Urgot,Kha'Zix,Cassiopeia,Sivir,Alistar
+2019-02-10,LCS,Sion,Gragas,Syndra,Ezreal,Braum
+2019-02-10,LCS,Urgot,Lee Sin,Lissandra,Sivir,Alistar
+2019-02-10,LCS,Sion,Nocturne,Galio,Ezreal,Shen
+2019-02-10,LCS,Kennen,Nocturne,Lissandra,Lucian,Ornn
+2019-02-10,LCS,Jayce,Gragas,Swain,Ezreal,Braum
+2019-02-10,LCS,Urgot,Kha'Zix,Lissandra,Kai'Sa,Thresh
+2019-02-10,LCS,Sion,Nocturne,Karthus,Ezreal,Braum
+2019-02-10,LCS,Aatrox,Nocturne,Orianna,Kai'Sa,Thresh
+2019-02-10,LCS,Urgot,Sejuani,Syndra,Ezreal,Tahm Kench
+2019-02-10,LCS,Sion,Olaf,Lissandra,Lucian,Zilean
+2019-02-10,LCS,Sylas,Camille,Galio,Ezreal,Braum
+2019-02-09,LCS,Urgot,Nunu & Willump,LeBlanc,Xayah,Rakan
+2019-02-09,LCS,Aatrox,Gragas,Syndra,Kai'Sa,Alistar
+2019-02-09,LCS,Urgot,Aatrox,Lissandra,Vayne,Alistar
+2019-02-09,LCS,Zilean,Jayce,Zoe,Ezreal,Braum
+2019-02-03,LCS,Viktor,Lee Sin,Aatrox,Kai'Sa,Braum
+2019-02-03,LCS,Sion,Camille,Zilean,Ezreal,Tahm Kench
+2019-02-03,LCS,Urgot,Camille,Syndra,Ezreal,Braum
+2019-02-03,LCS,Aatrox,Kha'Zix,Zoe,Kai'Sa,Ornn
+2019-02-03,LCS,Akali,Lee Sin,Aatrox,Sivir,Braum
+2019-02-03,LCS,Rumble,Olaf,Lissandra,Caitlyn,Lulu
+2019-02-03,LCS,Ornn,Kha'Zix,Lissandra,Kai'Sa,Thresh
+2019-02-03,LCS,Urgot,Rengar,Zilean,Ezreal,Tahm Kench
+2019-02-03,LCS,Urgot,Nocturne,Lissandra,Kai'Sa,Soraka
+2019-02-03,LCS,Akali,Camille,Ryze,Ezreal,Braum
+2019-02-03,LCS,Jayce,Elise,Akali,Ezreal,Tahm Kench
+2019-02-03,LCS,Sion,Lee Sin,Rumble,Kai'Sa,Thresh
+2019-02-03,LCS,Aatrox,Lee Sin,Syndra,Draven,Braum
+2019-02-03,LCS,Sion,Xin Zhao,Orianna,Ezreal,Tahm Kench
+2019-02-02,LCS,Yorick,Sejuani,Urgot,Viktor,Braum
+2019-02-02,LCS,Sion,Lee Sin,Akali,Xayah,Rakan
+2019-02-02,LCS,Urgot,Camille,Zoe,Ezreal,Braum
+2019-02-02,LCS,Viktor,Lee Sin,LeBlanc,Draven,Tahm Kench
+2019-02-02,LCS,Aatrox,Lee Sin,Ryze,Jayce,Ornn
+2019-02-02,LCS,Irelia,Nocturne,Lissandra,Ezreal,Tahm Kench
+2019-01-27,LCS,Urgot,Karthus,Lucian,Xayah,Leona
+2019-01-27,LCS,Ryze,Lee Sin,Galio,Ezreal,Rakan
+2019-01-27,LCS,Viktor,Lee Sin,Akali,Ezreal,Tahm Kench
+2019-01-27,LCS,Aatrox,Gragas,Urgot,Kai'Sa,Thresh
+2019-01-27,LCS,Urgot,Lee Sin,Lissandra,Xayah,Rakan
+2019-01-27,LCS,Kennen,Camille,Orianna,Lucian,Alistar
+2019-01-27,LCS,Viktor,Camille,Aatrox,Ezreal,Braum
+2019-01-27,LCS,Urgot,Nocturne,Ryze,Kai'Sa,Alistar
+2019-01-27,LCS,Irelia,Kha'Zix,Lissandra,Kai'Sa,Ornn
+2019-01-27,LCS,Sion,Camille,Zoe,Sivir,Rakan
+2019-01-27,LCS,Rumble,Camille,Galio,Sivir,Leona
+2019-01-27,LCS,Sion,Karthus,Corki,Xayah,Rakan
+2019-01-27,LCS,Sion,Camille,Galio,Ezreal,Ornn
+2019-01-27,LCS,Vladimir,Olaf,Urgot,Lucian,Morgana
+2019-01-26,LCS,Akali,Sejuani,Xerath,Xayah,Rakan
+2019-01-26,LCS,Urgot,Camille,Lissandra,Ezreal,Leona
+2019-01-26,LCS,Viktor,Olaf,Urgot,Lucian,Thresh
+2019-01-26,LCS,Sion,Camille,Zilean,Ezreal,Alistar
+2019-01-26,LCS,Sion,Lee Sin,Cassiopeia,Lucian,Braum
+2019-01-26,LCS,Urgot,Nunu & Willump,Zoe,Ezreal,Alistar
+2019-04-13,LCS,Akali,Rek'Sai,Zoe,Ezreal,Galio
+2019-04-13,LCS,Vladimir,Skarner,LeBlanc,Kai'Sa,Braum
+2019-04-13,LCS,Akali,Rek'Sai,Lissandra,Ezreal,Braum
+2019-04-13,LCS,Kennen,Skarner,Zilean,Varus,Tahm Kench
+2019-04-13,LCS,Gangplank,Skarner,Syndra,Varus,Tahm Kench
+2019-04-13,LCS,Vladimir,Rek'Sai,LeBlanc,Kalista,Galio
+2019-04-13,LCS,Irelia,Hecarim,Lux,Sona,Taric
+2019-04-13,LCS,Kennen,Rek'Sai,Zoe,Ashe,Zyra
+2019-04-13,LCS,Kennen,Jarvan IV,Heimerdinger,Sivir,Galio
+2019-04-13,LCS,Vladimir,Rek'Sai,Zoe,Varus,Tahm Kench
+2019-04-07,LCS,Viktor,Olaf,Zoe,Ashe,Tahm Kench
+2019-04-07,LCS,Kennen,Rek'Sai,Orianna,Varus,Morgana
+2019-04-07,LCS,Jayce,Skarner,Zoe,Sivir,Alistar
+2019-04-07,LCS,Akali,Nocturne,LeBlanc,Ezreal,Galio
+2019-04-07,LCS,Kennen,Olaf,Jayce,Sona,Taric
+2019-04-07,LCS,Irelia,Rek'Sai,Zoe,Kai'Sa,Galio
+2019-04-07,LCS,Ornn,Rek'Sai,Zoe,Sivir,Alistar
+2019-04-07,LCS,Vladimir,Kindred,Zilean,Ezreal,Braum
+2019-04-06,LCS,Ryze,Jarvan IV,Zed,Lucian,Braum
+2019-04-06,LCS,Cho'Gath,Rek'Sai,Zoe,Ezreal,Galio
+2019-04-06,LCS,Jayce,Gragas,Akali,Ezreal,Alistar
+2019-04-06,LCS,Gangplank,Jarvan IV,Zilean,Jinx,Tahm Kench
+2019-04-06,LCS,Gangplank,Rek'Sai,Morgana,Ashe,Tahm Kench
+2019-04-06,LCS,Kennen,Jarvan IV,Corki,Varus,Braum
+2019-04-06,LCS,Akali,Gragas,Jayce,Vayne,Lulu
+2019-04-06,LCS,Poppy,Hecarim,Zoe,Sona,Taric
+2019-03-31,LCS,Akali,Jarvan IV,Syndra,Xayah,Rakan
+2019-03-31,LCS,Hecarim,Rek'Sai,Zoe,Lucian,Alistar
+2019-03-31,LCS,Aatrox,Jarvan IV,Swain,Kog'Maw,Braum
+2019-03-31,LCS,Hecarim,Rek'Sai,Lissandra,Kai'Sa,Galio
+2019-03-31,LCS,Cho'Gath,Jarvan IV,Corki,Jinx,Braum
+2019-03-31,LCS,Vladimir,Rek'Sai,Lissandra,Kalista,Galio
+2019-03-31,LCS,Aatrox,Kindred,Zoe,Varus,Braum
+2019-03-31,LCS,Jax,Jarvan IV,Zilean,Ezreal,Galio
+2019-03-31,LCS,Irelia,Lee Sin,Zoe,Varus,Morgana
+2019-03-31,LCS,Ornn,Kindred,Lissandra,Lucian,Braum
+2019-03-30,LCS,Ryze,Karthus,Irelia,Varus,Braum
+2019-03-30,LCS,Aatrox,Jarvan IV,Vel'Koz,Kai'Sa,Galio
+2019-03-30,LCS,Jayce,Elise,Syndra,Vayne,Braum
+2019-03-30,LCS,Poppy,Jarvan IV,Vel'Koz,Kalista,Galio
+2019-03-30,LCS,Jayce,Elise,Swain,Ezreal,Braum
+2019-03-30,LCS,Yorick,Jarvan IV,Lissandra,Lucian,Galio
+2019-03-30,LCS,Aatrox,Kindred,Lissandra,Kog'Maw,Braum
+2019-03-30,LCS,Kennen,Urgot,Karthus,Varus,Tahm Kench
+2019-08-05,LCS,Aatrox,Jarvan IV,Taliyah,Sivir,Bard
+2019-08-05,LCS,Gangplank,Lee Sin,Corki,Ezreal,Braum
+2019-08-05,LCS,Aatrox,Rek'Sai,Taliyah,Caitlyn,Morgana
+2019-08-05,LCS,Gangplank,Xin Zhao,Azir,Xayah,Rakan
+2019-08-04,LCS,Aatrox,Rek'Sai,Sylas,Tristana,Braum
+2019-08-04,LCS,Renekton,Jarvan IV,Karma,Ezreal,Bard
+2019-08-04,LCS,Aatrox,Sejuani,Corki,Lucian,Yuumi
+2019-08-04,LCS,Akali,Karthus,Tristana,Kai'Sa,Nautilus
+2019-08-04,LCS,Rumble,Jarvan IV,Irelia,Sivir,Nautilus
+2019-08-04,LCS,Aatrox,Gragas,Tristana,Kalista,Braum
+2019-08-04,LCS,Sylas,Sejuani,Zed,Sivir,Nautilus
+2019-08-04,LCS,Volibear,Nunu & Willump,Anivia,Ashe,Braum
+2019-08-04,LCS,Gangplank,Sejuani,Akali,Sivir,Pyke
+2019-08-04,LCS,Kennen,Jarvan IV,LeBlanc,Sona,Tahm Kench
+2019-08-04,LCS,Akali,Jarvan IV,Azir,Sivir,Tahm Kench
+2019-08-04,LCS,Kled,Sejuani,Irelia,Ezreal,Alistar
+2019-08-04,LCS,Gangplank,Trundle,Akali,Caitlyn,Morgana
+2019-08-04,LCS,Aatrox,Jarvan IV,Zoe,Xayah,Rakan
+2019-08-03,LCS,Aatrox,Jarvan IV,Syndra,Ezreal,Yuumi
+2019-08-03,LCS,Tristana,Sejuani,Zoe,Sivir,Nautilus
+2019-08-03,LCS,Akali,Gragas,Irelia,Xayah,Leona
+2019-08-03,LCS,Poppy,Jarvan IV,Corki,Kai'Sa,Rakan
+2019-08-03,LCS,Aatrox,Xin Zhao,Akali,Xayah,Rakan
+2019-08-03,LCS,Tristana,Jarvan IV,Karma,Viktor,Tahm Kench
+2019-08-03,LCS,Jayce,Sylas,Viktor,Ezreal,Nautilus
+2019-08-03,LCS,Rumble,Jarvan IV,Orianna,Xayah,Rakan
+2019-07-28,LCS,Akali,Jarvan IV,Azir,Sivir,Nautilus
+2019-07-28,LCS,Irelia,Sejuani,Corki,Tristana,Alistar
+2019-07-28,LCS,Camille,Jarvan IV,Corki,Caitlyn,Nami
+2019-07-28,LCS,Aatrox,Elise,Lucian,Morgana,Pyke
+2019-07-28,LCS,Aatrox,Gragas,Qiyana,Ezreal,Yuumi
+2019-07-28,LCS,Kennen,Jarvan IV,Twisted Fate,Sona,Tahm Kench
+2019-07-28,LCS,Renekton,Sejuani,Corki,Ezreal,Braum
+2019-07-28,LCS,Aatrox,Gragas,Twisted Fate,Sivir,Nautilus
+2019-07-28,LCS,Poppy,Sejuani,Corki,Ezreal,Rakan
+2019-07-28,LCS,Aatrox,Trundle,Vel'Koz,Kai'Sa,Braum
+2019-07-28,LCS,Neeko,Skarner,Corki,Sivir,Tahm Kench
+2019-07-28,LCS,Karma,Sejuani,Azir,Caitlyn,Braum
+2019-07-27,LCS,Kled,Sylas,Twisted Fate,Sona,Tahm Kench
+2019-07-27,LCS,Poppy,Elise,Corki,Xayah,Rakan
+2019-07-27,LCS,Tristana,Jarvan IV,Karthus,Ezreal,Braum
+2019-07-27,LCS,Kled,Skarner,Corki,Varus,Thresh
+2019-07-27,LCS,Kled,Jarvan IV,Twisted Fate,Ezreal,Yuumi
+2019-07-27,LCS,Aatrox,Sejuani,Yasuo,Kai'Sa,Nautilus
+2019-07-27,LCS,Aatrox,Gragas,Yasuo,Lucian,Yuumi
+2019-07-27,LCS,Poppy,Jarvan IV,Corki,Draven,Nautilus
+2019-07-21,LCS,Aatrox,Sejuani,Corki,Varus,Braum
+2019-07-21,LCS,Jax,Sylas,Azir,Caitlyn,Lux
+2019-07-21,LCS,Neeko,Skarner,Irelia,Kai'Sa,Lux
+2019-07-21,LCS,Gangplank,Jarvan IV,Corki,Ezreal,Tahm Kench
+2019-07-21,LCS,Aatrox,Sylas,Viktor,Ezreal,Lux
+2019-07-21,LCS,Rumble,Jarvan IV,Corki,Sivir,Tahm Kench
+2019-07-21,LCS,Jayce,Skarner,Corki,Sona,Tahm Kench
+2019-07-21,LCS,Malphite,Lee Sin,Vladimir,Sivir,Braum
+2019-07-21,LCS,Renekton,Sylas,Talon,Varus,Tahm Kench
+2019-07-21,LCS,Aatrox,Skarner,LeBlanc,Xayah,Rakan
+2019-07-21,LCS,Kennen,Jarvan IV,Corki,Xayah,Rakan
+2019-07-21,LCS,Aatrox,Olaf,Zoe,Ezreal,Lux
+2019-07-20,LCS,Karma,Skarner,Corki,Sivir,Yuumi
+2019-07-20,LCS,Rumble,Sylas,Zed,Lucian,Lux
+2019-07-20,LCS,Karma,Rek'Sai,Corki,Xayah,Rakan
+2019-07-20,LCS,Ryze,Jarvan IV,Cassiopeia,Sivir,Lux
+2019-07-20,LCS,Camille,Sejuani,Azir,Ezreal,Tahm Kench
+2019-07-20,LCS,Aatrox,Sylas,Twisted Fate,Kai'Sa,Braum
+2019-07-20,LCS,Kennen,Sejuani,Irelia,Kai'Sa,Braum
+2019-07-20,LCS,Aatrox,Jarvan IV,Lissandra,Sivir,Lux
+2019-07-14,LCS,Rumble,Rek'Sai,Qiyana,Lucian,Lux
+2019-07-14,LCS,Twisted Fate,Jarvan IV,Azir,Sivir,Tahm Kench
+2019-07-14,LCS,Kennen,Sejuani,Corki,Jinx,Tahm Kench
+2019-07-14,LCS,Aatrox,Sylas,Azir,Sivir,Pyke
+2019-07-14,LCS,Kennen,Jarvan IV,LeBlanc,Xayah,Thresh
+2019-07-14,LCS,Aatrox,Lee Sin,Lissandra,Ezreal,Rakan
+2019-07-14,LCS,Aatrox,Jarvan IV,Vladimir,Sivir,Lux
+2019-07-14,LCS,Jayce,Sejuani,Rumble,Varus,Tahm Kench
+2019-07-14,LCS,Kennen,Rek'Sai,Azir,Xayah,Rakan
+2019-07-14,LCS,Neeko,Jarvan IV,Corki,Caitlyn,Lux
+2019-07-14,LCS,Aatrox,Rek'Sai,Azir,Lucian,Thresh
+2019-07-14,LCS,Gangplank,Jarvan IV,Corki,Kai'Sa,Nautilus
+2019-07-13,LCS,Gangplank,Xin Zhao,Corki,Lucian,Yuumi
+2019-07-13,LCS,Jayce,Jarvan IV,Veigar,Ezreal,Lux
+2019-07-13,LCS,Aatrox,Sylas,Vel'Koz,Varus,Tahm Kench
+2019-07-13,LCS,Riven,Rek'Sai,Corki,Sona,Jarvan IV
+2019-07-13,LCS,Gangplank,Jarvan IV,Akali,Xayah,Rakan
+2019-07-13,LCS,Renekton,Elise,Azir,Ezreal,Tahm Kench
+2019-07-13,LCS,Azir,Gragas,Twisted Fate,Ezreal,Yuumi
+2019-07-13,LCS,Cassiopeia,Sejuani,Qiyana,Xayah,Rakan
+2019-07-07,LCS,Jax,Rek'Sai,Azir,Ezreal,Yuumi
+2019-07-07,LCS,Aatrox,Jarvan IV,Zoe,Sivir,Braum
+2019-07-07,LCS,Aatrox,Sylas,Corki,Sivir,Yuumi
+2019-07-07,LCS,Kennen,Jarvan IV,Cassiopeia,Yasuo,Gragas
+2019-07-07,LCS,Ornn,Gragas,Corki,Xayah,Rakan
+2019-07-07,LCS,Jayce,Jarvan IV,Zoe,Sona,Taric
+2019-07-07,LCS,Jayce,Lee Sin,Twisted Fate,Ezreal,Yuumi
+2019-07-07,LCS,Cassiopeia,Jarvan IV,Syndra,Zed,Nautilus
+2019-07-07,LCS,Gangplank,Sejuani,Yasuo,Syndra,Nautilus
+2019-07-07,LCS,Renekton,Gragas,Vel'Koz,Kalista,Lux
+2019-07-07,LCS,Rumble,Graves,Syndra,Sona,Tahm Kench
+2019-07-07,LCS,Jayce,Jarvan IV,LeBlanc,Sivir,Pyke
+2019-07-06,LCS,Fiora,Sejuani,Corki,Lucian,Yuumi
+2019-07-06,LCS,Aatrox,Jarvan IV,Azir,Draven,Nautilus
+2019-07-06,LCS,Gangplank,Sejuani,Corki,Sivir,Nautilus
+2019-07-06,LCS,Aatrox,Trundle,Azir,Xayah,Yuumi
+2019-07-06,LCS,Aatrox,Sejuani,Corki,Lucian,Braum
+2019-07-06,LCS,Jayce,Trundle,Veigar,Sivir,Lux
+2019-07-06,LCS,Kennen,Rek'Sai,Corki,Xayah,Yuumi
+2019-07-06,LCS,Aatrox,Olaf,Cassiopeia,Sivir,Nautilus
+2019-06-23,LCS,Aatrox,Jarvan IV,Akali,Xayah,Rakan
+2019-06-23,LCS,Jayce,Sejuani,Vladimir,Sivir,Yuumi
+2019-06-23,LCS,Aatrox,Trundle,Anivia,Sivir,Nautilus
+2019-06-23,LCS,Jayce,Skarner,Azir,Caitlyn,Lux
+2019-06-23,LCS,Jayce,Sejuani,Akali,Sona,Tahm Kench
+2019-06-23,LCS,Sylas,Skarner,Azir,Caitlyn,Lux
+2019-06-23,LCS,Camille,Sejuani,Zoe,Sivir,Tahm Kench
+2019-06-23,LCS,Kennen,Trundle,Viktor,Xayah,Rakan
+2019-06-23,LCS,Akali,Sejuani,Irelia,Kai'Sa,Braum
+2019-06-23,LCS,Gangplank,Trundle,Orianna,Ezreal,Tahm Kench
+2019-06-23,LCS,Aatrox,Olaf,Neeko,Xayah,Nautilus
+2019-06-23,LCS,Irelia,Jarvan IV,Twisted Fate,Sivir,Lux
+2019-06-22,LCS,Renekton,Trundle,Viktor,Sivir,Lux
+2019-06-22,LCS,Neeko,Skarner,Irelia,Lucian,Tahm Kench
+2019-06-22,LCS,Aatrox,Gragas,Viktor,Xayah,Rakan
+2019-06-22,LCS,Akali,Jarvan IV,Sylas,Ashe,Tahm Kench
+2019-06-22,LCS,Gangplank,Sejuani,Syndra,Sivir,Nautilus
+2019-06-22,LCS,Aatrox,Trundle,Vladimir,Xayah,Morgana
+2019-06-22,LCS,Aatrox,Skarner,Azir,Varus,Tahm Kench
+2019-06-22,LCS,Gangplank,Jarvan IV,Vel'Koz,Draven,Braum
+2019-06-16,LCS,Neeko,Sejuani,Irelia,Draven,Nautilus
+2019-06-16,LCS,Ryze,Trundle,Viktor,Ezreal,Lux
+2019-06-16,LCS,Sylas,Skarner,Akali,Xayah,Lux
+2019-06-16,LCS,Irelia,Elise,Ryze,Sivir,Nautilus
+2019-06-16,LCS,Poppy,Skarner,Sylas,Sivir,Nautilus
+2019-06-16,LCS,Irelia,Gragas,Yasuo,Varus,Braum
+2019-06-16,LCS,Akali,Skarner,Sylas,Sivir,Nautilus
+2019-06-16,LCS,Irelia,Sejuani,Neeko,Lucian,Thresh
+2019-06-16,LCS,Irelia,Sejuani,Azir,Ezreal,Nautilus
+2019-06-16,LCS,Gangplank,Trundle,Orianna,Xayah,Rakan
+2019-06-16,LCS,Rumble,Sejuani,Taliyah,Xayah,Rakan
+2019-06-16,LCS,Kennen,Olaf,Lux,Draven,Nautilus
+2019-06-15,LCS,Gangplank,Aatrox,Neeko,Xayah,Rakan
+2019-06-15,LCS,Irelia,Gragas,Twisted Fate,Caitlyn,Lux
+2019-06-15,LCS,Sylas,Trundle,Syndra,Xayah,Rakan
+2019-06-15,LCS,Gangplank,Sejuani,Ryze,Ezreal,Tahm Kench
+2019-06-15,LCS,Akali,Gragas,Yasuo,Ezreal,Braum
+2019-06-15,LCS,Gangplank,Skarner,Ryze,Sivir,Yuumi
+2019-06-15,LCS,Aatrox,Skarner,Ryze,Caitlyn,Lux
+2019-06-15,LCS,Riven,Rek'Sai,Sylas,Xayah,Nautilus
+2019-06-09,LCS,Kennen,Lee Sin,Jayce,Xayah,Lux
+2019-06-09,LCS,Poppy,Olaf,Twisted Fate,Sivir,Nautilus
+2019-06-09,LCS,Kennen,Olaf,Anivia,Varus,Tahm Kench
+2019-06-09,LCS,Neeko,Rek'Sai,Azir,Xayah,Lux
+2019-06-09,LCS,Rumble,Nocturne,Aatrox,Sivir,Nautilus
+2019-06-09,LCS,Kennen,Hecarim,Zilean,Lucian,Yuumi
+2019-06-09,LCS,Neeko,Jarvan IV,Azir,Sona,Taric
+2019-06-09,LCS,Rumble,Skarner,Lux,Xayah,Rakan
+2019-06-09,LCS,Aatrox,Sejuani,Viktor,Caitlyn,Lux
+2019-06-09,LCS,Kennen,Olaf,Sylas,Sivir,Karma
+2019-06-09,LCS,Rumble,Jarvan IV,Sylas,Jinx,Nautilus
+2019-06-09,LCS,Neeko,Sejuani,Corki,Ezreal,Thresh
+2019-06-08,LCS,Poppy,Sejuani,Sylas,Sivir,Thresh
+2019-06-08,LCS,Vladimir,Jarvan IV,Irelia,Xayah,Lux
+2019-06-08,LCS,Pyke,Hecarim,Ryze,Sona,Taric
+2019-06-08,LCS,Riven,Elise,Jayce,Caitlyn,Lux
+2019-06-08,LCS,Jayce,Trundle,Azir,Xayah,Rakan
+2019-06-08,LCS,Jarvan IV,Olaf,Orianna,Sivir,Nautilus
+2019-06-08,LCS,Neeko,Jarvan IV,Azir,Sona,Taric
+2019-06-08,LCS,Jayce,Gragas,Akali,Xayah,Veigar
+2019-06-02,LCS,Ornn,Sejuani,Akali,Sivir,Morgana
+2019-06-02,LCS,Jayce,Jarvan IV,Vladimir,Xayah,Nautilus
+2019-06-02,LCS,Jayce,Hecarim,Zilean,Sona,Taric
+2019-06-02,LCS,Rumble,Rek'Sai,Orianna,Varus,Zyra
+2019-06-02,LCS,Gangplank,Skarner,Sylas,Kai'Sa,Galio
+2019-06-02,LCS,Vladimir,Rek'Sai,Akali,Xayah,Rakan
+2019-06-02,LCS,Pyke,Jarvan IV,Ryze,Xayah,Rakan
+2019-06-02,LCS,Jayce,Rek'Sai,Anivia,Ezreal,Tahm Kench
+2019-06-02,LCS,Pyke,Lee Sin,Sylas,Xayah,Rakan
+2019-06-02,LCS,Camille,Rek'Sai,Akali,Sona,Taric
+2019-06-02,LCS,Sylas,Skarner,Irelia,Ezreal,Tahm Kench
+2019-06-02,LCS,Akali,Rek'Sai,Ryze,Sivir,Nautilus
+2019-06-01,LCS,Rumble,Lee Sin,Jayce,Varus,Braum
+2019-06-01,LCS,Poppy,Sejuani,Twisted Fate,Xayah,Nautilus
+2019-06-01,LCS,Kennen,Sejuani,Orianna,Sivir,Yuumi
+2019-06-01,LCS,Rumble,Jarvan IV,Azir,Xayah,Rakan
+2019-06-01,LCS,Kennen,Olaf,Sylas,Xayah,Rakan
+2019-06-01,LCS,Irelia,Sejuani,Azir,Ezreal,Galio
+2019-06-01,LCS,Aatrox,Hecarim,Sylas,Varus,Galio
+2019-06-01,LCS,Irelia,Vi,Ryze,Xayah,Braum
+2019-08-25,LCS,Shen,Xin Zhao,Akali,Kai'Sa,Rakan
+2019-08-25,LCS,Vladimir,Jarvan IV,Aatrox,Xayah,Alistar
+2019-08-25,LCS,Poppy,Gragas,Qiyana,Kai'Sa,Alistar
+2019-08-25,LCS,Aatrox,Skarner,LeBlanc,Ezreal,Braum
+2019-08-25,LCS,Renekton,Skarner,Akali,Kai'Sa,Rakan
+2019-08-25,LCS,Aatrox,Sejuani,Sylas,Xayah,Alistar
+2019-08-25,LCS,Kled,Sejuani,Irelia,Kai'Sa,Braum
+2019-08-25,LCS,Aatrox,Skarner,Vladimir,Varus,Tahm Kench
+2019-08-25,LCS,Aatrox,Sejuani,Azir,Xayah,Rakan
+2019-08-25,LCS,Karma,Xin Zhao,Veigar,Sivir,Thresh
+2019-08-24,LCS,Poppy,Skarner,Ahri,Xayah,Rakan
+2019-08-24,LCS,Karma,Sejuani,Irelia,Ezreal,Leona
+2019-08-24,LCS,Karma,Sylas,Qiyana,Sivir,Rakan
+2019-08-24,LCS,Aatrox,Sejuani,Orianna,Xayah,Thresh
+2019-08-24,LCS,Gangplank,Skarner,Corki,Ashe,Thresh
+2019-08-24,LCS,Viktor,Sejuani,Irelia,Kai'Sa,Nautilus
+2019-08-24,LCS,Karma,Gragas,Qiyana,Ezreal,Rakan
+2019-08-24,LCS,Aatrox,Sylas,Diana,Xayah,Nautilus
+2019-08-24,LCS,Aatrox,Gragas,Qiyana,Ezreal,Rakan
+2019-08-24,LCS,Gangplank,Skarner,Renekton,Kai'Sa,Leona
+2019-08-18,LCS,Aatrox,Trundle,Corki,Sona,Taric
+2019-08-18,LCS,Tristana,Sejuani,Karma,Sivir,Tahm Kench
+2019-08-18,LCS,Rumble,Skarner,Irelia,Sivir,Braum
+2019-08-18,LCS,Jayce,Sejuani,Sylas,Varus,Tahm Kench
+2019-08-18,LCS,Renekton,Sejuani,Akali,Caitlyn,Lux
+2019-08-18,LCS,Aatrox,Jarvan IV,Sylas,Xayah,Nautilus
+2019-08-18,LCS,Renekton,Jarvan IV,Akali,Kai'Sa,Nautilus
+2019-08-18,LCS,Aatrox,Gragas,Qiyana,Xayah,Leona
+2019-08-18,LCS,Renekton,Jarvan IV,Akali,Kai'Sa,Nautilus
+2019-08-18,LCS,Azir,Sejuani,Sylas,Xayah,Rakan
+2019-08-17,LCS,Akali,Jarvan IV,Orianna,Caitlyn,Morgana
+2019-08-17,LCS,Kled,Gragas,Sylas,Sivir,Rakan
+2019-08-17,LCS,Aatrox,Rek'Sai,Taliyah,Draven,Morgana
+2019-08-17,LCS,Jayce,Elise,Qiyana,Xayah,Rakan
+2019-08-17,LCS,Akali,Jarvan IV,Syndra,Varus,Tahm Kench
+2019-08-17,LCS,Gangplank,Gragas,Sylas,Caitlyn,Thresh
+2019-08-17,LCS,Aatrox,Gragas,Qiyana,Ezreal,Braum
+2019-08-17,LCS,Gangplank,Sejuani,Karma,Varus,Tahm Kench
+2019-08-11,LCS,Poppy,Sylas,Syndra,Caitlyn,Morgana
+2019-08-11,LCS,Jayce,Jarvan IV,Corki,Xayah,Karma
+2019-08-11,LCS,Aatrox,Trundle,Sylas,Draven,Morgana
+2019-08-11,LCS,Camille,Sejuani,Azir,Varus,Zyra
+2019-08-11,LCS,Jayce,Rek'Sai,Azir,Sivir,Braum
+2019-08-11,LCS,Poppy,Jarvan IV,Corki,Ezreal,Bard
+2019-08-10,LCS,Rumble,Rek'Sai,Sylas,Kai'Sa,Nautilus
+2019-08-10,LCS,Vladimir,Jarvan IV,Corki,Sivir,Braum
+2019-08-10,LCS,Aatrox,Sejuani,Akali,Xayah,Rakan
+2019-08-10,LCS,Azir,Skarner,Tristana,Sivir,Nautilus
+2019-08-10,LCS,Rumble,Sylas,Qiyana,Sivir,Tahm Kench
+2019-08-10,LCS,Kled,Sejuani,Corki,Vayne,Braum
+2019-08-10,LCS,Kled,Sejuani,Akali,Xayah,Rakan
+2019-08-10,LCS,Gangplank,Skarner,Karma,Sivir,Nautilus
+2019-09-08,LCS,Aatrox,Skarner,Corki,Kai'Sa,Braum
+2019-09-08,LCS,Irelia,Jarvan IV,Qiyana,Kog'Maw,Tahm Kench
+2019-09-08,LCS,Gnar,Skarner,Sylas,Ezreal,Tahm Kench
+2019-09-08,LCS,Aatrox,Sejuani,Azir,Xayah,Rakan
+2019-09-08,LCS,Aatrox,Sejuani,Sylas,Lucian,Rakan
+2019-09-08,LCS,Irelia,Jarvan IV,Qiyana,Ezreal,Tahm Kench
+2019-09-08,LCS,Gangplank,Elise,Irelia,Kai'Sa,Rakan
+2019-09-08,LCS,Aatrox,Sejuani,Sylas,Xayah,Nautilus
+2019-09-08,LCS,Jayce,Sejuani,Azir,Sona,Tahm Kench
+2019-09-08,LCS,Pantheon,Sylas,Neeko,Xayah,Rakan
+2019-09-07,LCS,Aatrox,Skarner,Qiyana,Kai'Sa,Rakan
+2019-09-07,LCS,Gangplank,Elise,Syndra,Xayah,Alistar
+2019-09-07,LCS,Gangplank,Nocturne,Azir,Kai'Sa,Rakan
+2019-09-07,LCS,Lucian,Gragas,Lux,Xayah,Nautilus
+2019-09-07,LCS,Irelia,Skarner,Sylas,Kai'Sa,Rakan
+2019-09-07,LCS,Jayce,Sejuani,Ziggs,Xayah,Alistar
+2019-09-07,LCS,Gnar,Sejuani,Azir,Tahm Kench,Sona
+2019-09-07,LCS,Irelia,Skarner,Lux,Xayah,Rakan
+2019-09-06,LCS,Riven,Sejuani,Karma,Kai'Sa,Rakan
+2019-09-06,LCS,Gnar,Sylas,Irelia,Ezreal,Tahm Kench
+2019-09-06,LCS,Gnar,Skarner,Karma,Caitlyn,Morgana
+2019-09-06,LCS,Aatrox,Karthus,Sylas,Xayah,Rakan
+2019-09-06,LCS,Aatrox,Skarner,Corki,Kai'Sa,Rakan
+2019-09-06,LCS,Renekton,Sejuani,Syndra,Xayah,Leona
+2019-09-06,LCS,Aatrox,Sejuani,Azir,Jinx,Tahm Kench
+2019-09-06,LCS,Gangplank,Skarner,Syndra,Kai'Sa,Braum
+2019-03-16,LEC,Karma,Lee Sin,Zoe,Tristana,Alistar
+2019-03-16,LEC,Kennen,Jarvan IV,Akali,Kai'Sa,Thresh
+2019-03-16,LEC,Jarvan IV,Skarner,Zoe,Vayne,Braum
+2019-03-16,LEC,Rumble,Aatrox,Lissandra,Draven,Thresh
+2019-03-16,LEC,Yorick,Sejuani,Lissandra,Kalista,Thresh
+2019-03-16,LEC,Kennen,Skarner,Swain,Ashe,Tahm Kench
+2019-03-16,LEC,Jarvan IV,Lee Sin,Ryze,Lucian,Galio
+2019-03-16,LEC,Jax,Rek'Sai,Lissandra,Jinx,Thresh
+2019-03-16,LEC,Jayce,Elise,Ryze,Ashe,Tahm Kench
+2019-03-16,LEC,Yorick,Jarvan IV,Lissandra,Kai'Sa,Galio
+2019-03-16,LEC,Camille,Rek'Sai,Zoe,Draven,Thresh
+2019-03-16,LEC,Jarvan IV,Elise,Syndra,Lucian,Alistar
+2019-03-15,LEC,Jarvan IV,Elise,Lissandra,Kai'Sa,Alistar
+2019-03-15,LEC,Poppy,Rek'Sai,Swain,Ezreal,Braum
+2019-03-15,LEC,Aatrox,Gragas,Yasuo,Lucian,Rakan
+2019-03-15,LEC,Renekton,Karthus,Akali,Vayne,Braum
+2019-03-15,LEC,Gangplank,Karthus,Irelia,Lucian,Rakan
+2019-03-15,LEC,Ryze,Jarvan IV,Zed,Cassiopeia,Alistar
+2019-03-15,LEC,Kennen,Skarner,LeBlanc,Tristana,Galio
+2019-03-15,LEC,Jarvan IV,Lee Sin,Syndra,Kai'Sa,Thresh
+2019-03-15,LEC,Yorick,Camille,Lissandra,Lucian,Fiddlesticks
+2019-03-15,LEC,Poppy,Aatrox,Azir,Vayne,Braum
+2019-03-09,LEC,Jarvan IV,Rek'Sai,Lissandra,Lucian,Trundle
+2019-03-09,LEC,Camille,Lee Sin,Ryze,Kalista,Galio
+2019-03-09,LEC,Jarvan IV,Ivern,Ryze,Tristana,Alistar
+2019-03-09,LEC,Renekton,Rek'Sai,Orianna,Kalista,Galio
+2019-03-09,LEC,Aatrox,Sejuani,Zoe,Kalista,Alistar
+2019-03-09,LEC,Renekton,Karthus,Neeko,Vayne,Braum
+2019-03-09,LEC,Yorick,Nocturne,Lissandra,Kai'Sa,Galio
+2019-03-09,LEC,Kennen,Aatrox,Zoe,Vayne,Thresh
+2019-03-09,LEC,Vladimir,Sejuani,Yasuo,Kalista,Braum
+2019-03-09,LEC,Kennen,Jarvan IV,Zoe,Tristana,Alistar
+2019-03-08,LEC,Aatrox,Sejuani,Lissandra,Lucian,Braum
+2019-03-08,LEC,Renekton,Jarvan IV,Ryze,Cassiopeia,Galio
+2019-03-08,LEC,Olaf,Rek'Sai,LeBlanc,Draven,Galio
+2019-03-08,LEC,Renekton,Riven,Lissandra,Cassiopeia,Thresh
+2019-03-08,LEC,Renekton,Gragas,Jayce,Ezreal,Braum
+2019-03-08,LEC,Yorick,Rek'Sai,LeBlanc,Sivir,Tahm Kench
+2019-03-08,LEC,Vladimir,Jarvan IV,Zoe,Kai'Sa,Alistar
+2019-03-08,LEC,Renekton,Sejuani,Yasuo,Cassiopeia,Thresh
+2019-03-08,LEC,Irelia,Karthus,LeBlanc,Kai'Sa,Galio
+2019-03-08,LEC,Renekton,Jarvan IV,Lissandra,Sivir,Thresh
+2019-03-02,LEC,Vladimir,Rek'Sai,Orianna,Draven,Thresh
+2019-03-02,LEC,Renekton,Sejuani,Zoe,Ezreal,Tahm Kench
+2019-03-02,LEC,Sylas,Rek'Sai,LeBlanc,Draven,Morgana
+2019-03-02,LEC,Jarvan IV,Nocturne,Syndra,Ezreal,Galio
+2019-03-02,LEC,Aatrox,Elise,Sylas,Xayah,Rakan
+2019-03-02,LEC,Camille,Lee Sin,Ryze,Ezreal,Braum
+2019-03-02,LEC,Kennen,Sejuani,Sylas,Ezreal,Tahm Kench
+2019-03-02,LEC,Cho'Gath,Jarvan IV,Ryze,Tristana,Galio
+2019-03-02,LEC,Irelia,Jarvan IV,Sylas,Kai'Sa,Alistar
+2019-03-02,LEC,Poppy,Rek'Sai,LeBlanc,Jinx,Thresh
+2019-03-01,LEC,Jarvan IV,Karthus,Sylas,Xayah,Rakan
+2019-03-01,LEC,Vladimir,Lee Sin,LeBlanc,Kai'Sa,Alistar
+2019-03-01,LEC,Irelia,Rek'Sai,Zoe,Lucian,Thresh
+2019-03-01,LEC,Jax,Olaf,Sylas,Ezreal,Alistar
+2019-03-01,LEC,Sylas,Jarvan IV,Ryze,Jinx,Tahm Kench
+2019-03-01,LEC,Urgot,Rek'Sai,Orianna,Kai'Sa,Rakan
+2019-03-01,LEC,Kennen,Karthus,Orianna,Kai'Sa,Alistar
+2019-03-01,LEC,Renekton,Sejuani,Zoe,Ezreal,Braum
+2019-03-01,LEC,Kennen,Jarvan IV,Sylas,Sivir,Thresh
+2019-03-01,LEC,Ryze,Nocturne,Zoe,Ezreal,Tahm Kench
+2019-02-23,LEC,Yorick,Nocturne,Zoe,Lucian,Rakan
+2019-02-23,LEC,Jarvan IV,Elise,Fizz,Ashe,Tahm Kench
+2019-02-23,LEC,Urgot,Olaf,Corki,Sivir,Braum
+2019-02-23,LEC,Aatrox,Lee Sin,LeBlanc,Ezreal,Pyke
+2019-02-23,LEC,Yorick,Karthus,Zoe,Tristana,Braum
+2019-02-23,LEC,Urgot,Ivern,Orianna,Kai'Sa,Alistar
+2019-02-23,LEC,Yorick,Nocturne,Lissandra,Ezreal,Pyke
+2019-02-23,LEC,Urgot,Olaf,Cassiopeia,Kai'Sa,Tahm Kench
+2019-02-23,LEC,Kennen,Gragas,Yasuo,Ezreal,Braum
+2019-02-23,LEC,Jarvan IV,Elise,Vladimir,Kai'Sa,Galio
+2019-02-22,LEC,Sion,Nocturne,Zoe,Kai'Sa,Galio
+2019-02-22,LEC,Urgot,Nunu & Willump,LeBlanc,Ezreal,Tahm Kench
+2019-02-22,LEC,Vladimir,Aatrox,Syndra,Lucian,Braum
+2019-02-22,LEC,Jarvan IV,Sejuani,Irelia,Cassiopeia,Galio
+2019-02-22,LEC,Ornn,Sylas,Zoe,Lucian,Blitzcrank
+2019-02-22,LEC,Jarvan IV,Elise,Ekko,Draven,Thresh
+2019-02-22,LEC,Yorick,Urgot,Orianna,Draven,Thresh
+2019-02-22,LEC,Sion,Olaf,Zoe,Lucian,Alistar
+2019-02-22,LEC,Yorick,Elise,LeBlanc,Jayce,Braum
+2019-02-22,LEC,Urgot,Nocturne,Lissandra,Ezreal,Shen
+2019-02-16,LEC,Sylas,Lee Sin,Cassiopeia,Sivir,Pyke
+2019-02-16,LEC,Kennen,Karthus,Zed,Ezreal,Rakan
+2019-02-16,LEC,Sion,Lee Sin,Ryze,Lucian,Shen
+2019-02-16,LEC,Urgot,Pantheon,Corki,Ezreal,Braum
+2019-02-16,LEC,Sylas,Sejuani,Yasuo,Sivir,Alistar
+2019-02-16,LEC,Urgot,Jarvan IV,Vladimir,Kai'Sa,Tahm Kench
+2019-02-16,LEC,Aatrox,Zac,Orianna,Draven,Braum
+2019-02-16,LEC,Jarvan IV,Nocturne,Zoe,Lucian,Thresh
+2019-02-16,LEC,Sion,Karthus,Syndra,Ezreal,Thresh
+2019-02-16,LEC,Urgot,Lee Sin,Kassadin,Tristana,Braum
+2019-02-15,LEC,Sion,Karthus,Ryze,Kalista,Thresh
+2019-02-15,LEC,Jarvan IV,Elise,Irelia,Yasuo,Alistar
+2019-02-15,LEC,Urgot,Poppy,Corki,Sivir,Braum
+2019-02-15,LEC,Jayce,Lee Sin,Ryze,Ezreal,Gragas
+2019-02-15,LEC,Urgot,Jarvan IV,Zoe,Caitlyn,Morgana
+2019-02-15,LEC,Sion,Lee Sin,Orianna,Jinx,Alistar
+2019-02-15,LEC,Urgot,Gragas,Corki,Sivir,Thresh
+2019-02-15,LEC,Yorick,Lee Sin,LeBlanc,Ezreal,Braum
+2019-02-15,LEC,Jayce,Olaf,Lissandra,Sivir,Braum
+2019-02-15,LEC,Kennen,Jarvan IV,Cassiopeia,Jinx,Thresh
+2019-02-09,LEC,Jayce,Olaf,Zoe,Lucian,Braum
+2019-02-09,LEC,Ornn,Lee Sin,Lissandra,Jinx,Thresh
+2019-02-09,LEC,Urgot,Camille,Ryze,Kai'Sa,Fiddlesticks
+2019-02-09,LEC,Sion,Sejuani,Syndra,Ezreal,Braum
+2019-02-09,LEC,Aatrox,Karthus,Syndra,Jhin,Tahm Kench
+2019-02-09,LEC,Kennen,Zac,Jayce,Kai'Sa,Alistar
+2019-02-09,LEC,Urgot,Gragas,Lissandra,Lucian,Pyke
+2019-02-09,LEC,Aatrox,Nocturne,Akali,Ashe,Thresh
+2019-02-09,LEC,Ryze,Camille,Lissandra,Ezreal,Pyke
+2019-02-09,LEC,Kennen,Sejuani,Yasuo,Kalista,Alistar
+2019-02-08,LEC,Jarvan IV,Karthus,Akali,Ezreal,Thresh
+2019-02-08,LEC,Rumble,Olaf,LeBlanc,Lucian,Braum
+2019-02-08,LEC,Urgot,Lee Sin,Syndra,Xayah,Rakan
+2019-02-08,LEC,Sylas,Aatrox,LeBlanc,Kai'Sa,Braum
+2019-02-08,LEC,Urgot,Nunu & Willump,Syndra,Draven,Morgana
+2019-02-08,LEC,Sylas,Kha'Zix,Zoe,Varus,Alistar
+2019-02-08,LEC,Kennen,Xin Zhao,Sion,Cassiopeia,Thresh
+2019-02-08,LEC,Urgot,Nocturne,LeBlanc,Lucian,Pyke
+2019-02-08,LEC,Jayce,Sejuani,Akali,Ezreal,Blitzcrank
+2019-02-08,LEC,Sylas,Lee Sin,Lissandra,Varus,Tahm Kench
+2019-02-02,LEC,Urgot,Olaf,LeBlanc,Kalista,Alistar
+2019-02-02,LEC,Sion,Zac,Kassadin,Kai'Sa,Morgana
+2019-02-02,LEC,Sion,Gragas,Akali,Lucian,Braum
+2019-02-02,LEC,Jayce,Olaf,Ryze,Ezreal,Alistar
+2019-02-02,LEC,Vladimir,Sejuani,Aatrox,Ezreal,Braum
+2019-02-02,LEC,Kennen,Kayn,Yasuo,Kalista,Alistar
+2019-02-02,LEC,Rumble,Olaf,Aatrox,Sivir,Alistar
+2019-02-02,LEC,Kennen,Camille,Ryze,Kai'Sa,Gragas
+2019-02-02,LEC,Jayce,Olaf,LeBlanc,Lucian,Pyke
+2019-02-02,LEC,Shen,Aatrox,Ryze,Viktor,Alistar
+2019-02-01,LEC,Urgot,Lee Sin,LeBlanc,Ezreal,Thresh
+2019-02-01,LEC,Sion,Sejuani,Malzahar,Lucian,Morgana
+2019-02-01,LEC,Urgot,Gragas,Yasuo,Sivir,Alistar
+2019-02-01,LEC,Kennen,Sejuani,Irelia,Kai'Sa,Morgana
+2019-02-01,LEC,Urgot,Zac,Syndra,Kai'Sa,Morgana
+2019-02-01,LEC,Aatrox,Sejuani,Yasuo,Vayne,Alistar
+2019-02-01,LEC,Ornn,Sejuani,Aatrox,Varus,Braum
+2019-02-01,LEC,Ryze,Olaf,LeBlanc,Ezreal,Gragas
+2019-02-01,LEC,Kennen,Lee Sin,LeBlanc,Lucian,Braum
+2019-02-01,LEC,Viktor,Sejuani,Urgot,Ezreal,Thresh
+2019-01-26,LEC,Aatrox,Karthus,Galio,Lucian,Alistar
+2019-01-26,LEC,Urgot,Olaf,LeBlanc,Draven,Gragas
+2019-01-26,LEC,Urgot,Nocturne,Lissandra,Kai'Sa,Braum
+2019-01-26,LEC,Irelia,Xin Zhao,Ryze,Ezreal,Alistar
+2019-01-26,LEC,Karma,Ivern,Irelia,Xayah,Rakan
+2019-01-26,LEC,Sion,Karthus,Riven,Lucian,Leona
+2019-01-26,LEC,Urgot,Gragas,Lissandra,Kai'Sa,Alistar
+2019-01-26,LEC,Sion,Karthus,Zoe,Xayah,Rakan
+2019-01-26,LEC,Kennen,Sejuani,Aatrox,Kai'Sa,Thresh
+2019-01-26,LEC,Viktor,Nocturne,Cassiopeia,Sivir,Braum
+2019-01-25,LEC,Urgot,Xin Zhao,Galio,Kog'Maw,Tahm Kench
+2019-01-25,LEC,Sion,Nunu & Willump,Akali,Vayne,Alistar
+2019-01-25,LEC,Swain,Camille,Lissandra,Kai'Sa,Morgana
+2019-01-25,LEC,Sion,Sejuani,Zoe,Ezreal,Alistar
+2019-01-25,LEC,Sejuani,Olaf,Akali,Draven,Morgana
+2019-01-25,LEC,Sion,Nocturne,Galio,Xayah,Rakan
+2019-01-25,LEC,Aatrox,Sejuani,Jayce,Ezreal,Braum
+2019-01-25,LEC,Urgot,Karthus,Lissandra,Lucian,Alistar
+2019-01-25,LEC,Jayce,Gragas,Irelia,Kai'Sa,Alistar
+2019-01-25,LEC,Poppy,Xin Zhao,Galio,Lucian,Braum
+2019-01-19,LEC,Urgot,Kha'Zix,Galio,Jhin,Alistar
+2019-01-19,LEC,Swain,Xin Zhao,Vayne,Lucian,Braum
+2019-01-19,LEC,Kennen,Camille,Galio,Lucian,Alistar
+2019-01-19,LEC,Sion,Nocturne,Lissandra,Sivir,Rakan
+2019-01-19,LEC,Sion,Zac,Cassiopeia,Sivir,Braum
+2019-01-19,LEC,Jayce,Sejuani,Karthus,Vayne,Morgana
+2019-01-19,LEC,Sion,Kha'Zix,Galio,Lucian,Zilean
+2019-01-19,LEC,Vladimir,Xin Zhao,Lissandra,Ezreal,Tahm Kench
+2019-01-19,LEC,Akali,Karthus,Aatrox,Kai'Sa,Alistar
+2019-01-19,LEC,Urgot,Kha'Zix,Lissandra,Ezreal,Thresh
+2019-01-18,LEC,Sion,Gragas,Cassiopeia,Draven,Morgana
+2019-01-18,LEC,Urgot,Karthus,Jayce,Zoe,Rakan
+2019-01-18,LEC,Urgot,Xin Zhao,Akali,Varus,Tahm Kench
+2019-01-18,LEC,Sion,Lee Sin,Lissandra,Draven,Rakan
+2019-01-18,LEC,Urgot,Sejuani,Yasuo,Viktor,Tahm Kench
+2019-01-18,LEC,Kennen,Olaf,Lissandra,Ezreal,Thresh
+2019-01-18,LEC,Sion,Sejuani,Aatrox,Caitlyn,Morgana
+2019-01-18,LEC,Rumble,Xin Zhao,Urgot,Kai'Sa,Rakan
+2019-01-18,LEC,Sion,Lee Sin,Akali,Lucian,Pyke
+2019-01-18,LEC,Poppy,Sejuani,Lissandra,Ezreal,Braum
+2019-04-14,LEC,Aatrox,Rek'Sai,Akali,Draven,Galio
+2019-04-14,LEC,Ryze,Jarvan IV,Jayce,Neeko,Tahm Kench
+2019-04-14,LEC,Kennen,Rek'Sai,Yasuo,Sona,Taric
+2019-04-14,LEC,Ryze,Morgana,Pyke,Xayah,Rakan
+2019-04-14,LEC,Irelia,Olaf,Lissandra,Sona,Taric
+2019-04-14,LEC,Hecarim,Nocturne,Ryze,Varus,Galio
+2019-04-13,LEC,Gangplank,Skarner,Sylas,Ashe,Tahm Kench
+2019-04-13,LEC,Aatrox,Rek'Sai,Lissandra,Kai'Sa,Pyke
+2019-04-13,LEC,Aatrox,Rek'Sai,Lissandra,Vayne,Pyke
+2019-04-13,LEC,Kennen,Jarvan IV,Ryze,Ezreal,Braum
+2019-04-13,LEC,Aatrox,Rek'Sai,Lissandra,Twitch,Annie
+2019-04-13,LEC,Jarvan IV,Skarner,Ryze,Sona,Taric
+2019-04-13,LEC,Kennen,Karthus,Zed,Varus,Blitzcrank
+2019-04-13,LEC,Aatrox,Kindred,Sion,Sona,Taric
+2019-04-06,LEC,Gangplank,Rek'Sai,Corki,Xayah,Rakan
+2019-04-06,LEC,Swain,Jarvan IV,Lissandra,Jinx,Tahm Kench
+2019-04-06,LEC,Irelia,Rek'Sai,Swain,Xayah,Rakan
+2019-04-06,LEC,Poppy,Jarvan IV,Lissandra,Varus,Tahm Kench
+2019-04-06,LEC,Hecarim,Rek'Sai,Ryze,Kalista,Braum
+2019-04-06,LEC,Urgot,Jarvan IV,Zoe,Kai'Sa,Galio
+2019-04-05,LEC,Shen,Hecarim,Sylas,Veigar,Tahm Kench
+2019-04-05,LEC,Lissandra,Jarvan IV,Vayne,Sivir,Alistar
+2019-04-05,LEC,Aatrox,Jarvan IV,Lissandra,Vayne,Rakan
+2019-04-05,LEC,Shen,Rek'Sai,Azir,Jinx,Thresh
+2019-04-05,LEC,Sion,Skarner,Ryze,Tristana,Braum
+2019-04-05,LEC,Cho'Gath,Rek'Sai,Kayle,Sivir,Thresh
+2019-04-05,LEC,Jarvan IV,Karthus,Syndra,Sivir,Alistar
+2019-04-05,LEC,Jayce,Rek'Sai,Corki,Zoe,Tahm Kench
+2019-03-30,LEC,Hecarim,Rek'Sai,Morgana,Kalista,Galio
+2019-03-30,LEC,Shen,Jarvan IV,Syndra,Vayne,Braum
+2019-03-30,LEC,Jayce,Rek'Sai,Lissandra,Vel'Koz,Tahm Kench
+2019-03-30,LEC,Jarvan IV,Gragas,Azir,Jinx,Thresh
+2019-03-30,LEC,Karma,Rek'Sai,Zoe,Ashe,Tahm Kench
+2019-03-30,LEC,Kennen,Skarner,Azir,Xayah,Rakan
+2019-03-30,LEC,Hecarim,Jarvan IV,LeBlanc,Ezreal,Braum
+2019-03-30,LEC,Gangplank,Urgot,Morgana,Xayah,Rakan
+2019-03-29,LEC,Jayce,Gragas,Yasuo,Jinx,Thresh
+2019-03-29,LEC,Sion,Rek'Sai,Kayle,Sivir,Braum
+2019-03-29,LEC,Aatrox,Karthus,Lissandra,Kai'Sa,Thresh
+2019-03-29,LEC,Kennen,Jarvan IV,Zoe,Tristana,Braum
+2019-03-29,LEC,Gangplank,Karthus,Lissandra,Vayne,Alistar
+2019-03-29,LEC,Lucian,Jarvan IV,Taliyah,Ezreal,Braum
+2019-08-17,LEC,Aatrox,Sejuani,Akali,Sivir,Yuumi
+2019-08-17,LEC,Renekton,Gragas,Corki,Lucian,Alistar
+2019-08-17,LEC,Kayn,Kha'Zix,Twitch,Janna,Zilean
+2019-08-17,LEC,Qiyana,Evelynn,Fizz,Yasuo,Bard
+2019-08-17,LEC,Renekton,Sejuani,Lee Sin,Lucian,Zilean
+2019-08-17,LEC,Quinn,Sylas,Draven,Rakan,Gragas
+2019-08-17,LEC,Rumble,Qiyana,Akali,Kai'Sa,Rakan
+2019-08-17,LEC,Gnar,Lee Sin,Sylas,Ezreal,Alistar
+2019-08-17,LEC,Kennen,Jarvan IV,Taliyah,Xayah,Rakan
+2019-08-17,LEC,Rumble,Gragas,Aatrox,Varus,Tahm Kench
+2019-08-17,LEC,Aatrox,Skarner,Sylas,Lucian,Yuumi
+2019-08-17,LEC,Jax,Gragas,Yasuo,Xayah,Volibear
+2019-08-16,LEC,Kha'Zix,Elise,Akali,Lucian,Poppy
+2019-08-16,LEC,Mordekaiser,Jarvan IV,Sylas,Kai'Sa,Alistar
+2019-08-16,LEC,Aatrox,Qiyana,Azir,Corki,Rakan
+2019-08-16,LEC,Renekton,Gragas,Sylas,Kai'Sa,Nautilus
+2019-08-16,LEC,Gangplank,Sejuani,Corki,Tristana,Alistar
+2019-08-16,LEC,Urgot,Gragas,Cassiopeia,Kai'Sa,Rakan
+2019-08-16,LEC,Rumble,Olaf,Akali,Xayah,Rakan
+2019-08-16,LEC,Karma,Gragas,Qiyana,Varus,Tahm Kench
+2019-08-16,LEC,Renekton,Jarvan IV,Corki,Caitlyn,Morgana
+2019-08-16,LEC,Aatrox,Gragas,Zed,Xayah,Tahm Kench
+2019-08-10,LEC,Jayce,Lee Sin,Corki,Garen,Yuumi
+2019-08-10,LEC,Karma,Olaf,Sylas,Lucian,Volibear
+2019-08-10,LEC,Soraka,Qiyana,Azir,Lucian,Yuumi
+2019-08-10,LEC,Kennen,Xin Zhao,Sylas,Xayah,Rakan
+2019-08-10,LEC,Aatrox,Gragas,Akali,Tristana,Nautilus
+2019-08-10,LEC,Renekton,Jarvan IV,Sylas,Kai'Sa,Rakan
+2019-08-10,LEC,Karma,Elise,Aatrox,Tristana,Braum
+2019-08-10,LEC,Qiyana,Sylas,Akali,Kai'Sa,Alistar
+2019-08-10,LEC,Corki,Sejuani,Renekton,Ashe,Tahm Kench
+2019-08-10,LEC,Gangplank,Gragas,Sylas,Xayah,Rakan
+2019-08-09,LEC,Akali,Sejuani,Qiyana,Varus,Tahm Kench
+2019-08-09,LEC,Sylas,Elise,Renekton,Kai'Sa,Pyke
+2019-08-09,LEC,Gangplank,Qiyana,Akali,Kai'Sa,Braum
+2019-08-09,LEC,Karma,Lee Sin,Twisted Fate,Varus,Tahm Kench
+2019-08-09,LEC,Gangplank,Lee Sin,Cassiopeia,Corki,Pyke
+2019-08-09,LEC,Aatrox,Sylas,Yasuo,Lucian,Nautilus
+2019-08-09,LEC,Rumble,Rek'Sai,Corki,Lucian,Yuumi
+2019-08-09,LEC,Mordekaiser,Lee Sin,Sylas,Xayah,Rakan
+2019-08-09,LEC,Gangplank,Sejuani,Aatrox,Lucian,Thresh
+2019-08-09,LEC,Vladimir,Gragas,Yasuo,Kai'Sa,Alistar
+2019-08-03,LEC,Aatrox,Gragas,Twisted Fate,Karma,Tahm Kench
+2019-08-03,LEC,Kled,Sejuani,Azir,Xayah,Pyke
+2019-08-03,LEC,Gangplank,Skarner,Corki,Ezreal,Alistar
+2019-08-03,LEC,Gnar,Jarvan IV,Akali,Kai'Sa,Thresh
+2019-08-03,LEC,Gangplank,Gragas,Corki,Kai'Sa,Nautilus
+2019-08-03,LEC,Kled,Skarner,Azir,Ezreal,Rakan
+2019-08-03,LEC,Aatrox,Jarvan IV,Corki,Ezreal,Tahm Kench
+2019-08-03,LEC,Akali,Gragas,Tristana,Lucian,Yuumi
+2019-08-03,LEC,Ryze,Evelynn,Aatrox,Ezreal,Yuumi
+2019-08-03,LEC,Gangplank,Sejuani,Zed,Lucian,Fiddlesticks
+2019-08-02,LEC,Aatrox,Ivern,Corki,Karma,Tahm Kench
+2019-08-02,LEC,Kennen,Sejuani,Akali,Lucian,Nautilus
+2019-08-02,LEC,Karma,Xin Zhao,Irelia,Ezreal,Rakan
+2019-08-02,LEC,Renekton,Gragas,Corki,Xayah,Nautilus
+2019-08-02,LEC,Karma,Lee Sin,Corki,Xayah,Fiddlesticks
+2019-08-02,LEC,Garen,Gragas,Azir,Lucian,Rakan
+2019-08-02,LEC,Gangplank,Sylas,Aatrox,Kai'Sa,Rakan
+2019-08-02,LEC,Kled,Sejuani,Akali,Corki,Nautilus
+2019-08-02,LEC,Karma,Qiyana,Sylas,Sivir,Nautilus
+2019-08-02,LEC,Neeko,Jarvan IV,Irelia,Ezreal,Tahm Kench
+2019-07-27,LEC,Kennen,Jarvan IV,Azir,Draven,Leona
+2019-07-27,LEC,Rengar,Elise,Twisted Fate,Karma,Rakan
+2019-07-27,LEC,Annie,Lee Sin,Tristana,Yasuo,Rakan
+2019-07-27,LEC,Poppy,Olaf,Karma,Ezreal,Braum
+2019-07-27,LEC,Aatrox,Skarner,Azir,Kai'Sa,Blitzcrank
+2019-07-27,LEC,Gnar,Qiyana,Corki,Jhin,Tahm Kench
+2019-07-27,LEC,Rumble,Sejuani,Camille,Ezreal,Yuumi
+2019-07-27,LEC,Vladimir,Gragas,Qiyana,Xayah,Rakan
+2019-07-27,LEC,Aatrox,Skarner,Corki,Xayah,Nautilus
+2019-07-27,LEC,Karma,Lee Sin,Tristana,Ezreal,Rakan
+2019-07-26,LEC,Kled,Elise,Corki,Yasuo,Gragas
+2019-07-26,LEC,Jax,Olaf,Azir,Ezreal,Rakan
+2019-07-26,LEC,Kennen,Olaf,Azir,Xayah,Rakan
+2019-07-26,LEC,Jarvan IV,Lee Sin,Corki,Kai'Sa,Nautilus
+2019-07-26,LEC,Irelia,Xin Zhao,Akali,Sivir,Nautilus
+2019-07-26,LEC,Renekton,Karthus,Aatrox,Ezreal,Pyke
+2019-07-26,LEC,Gnar,Jarvan IV,Akali,Sona,Taric
+2019-07-26,LEC,Irelia,Sylas,Corki,Ashe,Tahm Kench
+2019-07-26,LEC,Kled,Sejuani,Azir,Sivir,Morgana
+2019-07-26,LEC,Kennen,Skarner,Corki,Kai'Sa,Thresh
+2019-07-20,LEC,Viktor,Sejuani,Qiyana,Yasuo,Gragas
+2019-07-20,LEC,Gangplank,Sylas,Akali,Lucian,Lux
+2019-07-20,LEC,Neeko,Sylas,Yasuo,Ezreal,Nautilus
+2019-07-20,LEC,Aatrox,Lee Sin,Twisted Fate,Karma,Rakan
+2019-07-20,LEC,Gnar,Sylas,Ryze,Ezreal,Tahm Kench
+2019-07-20,LEC,Mordekaiser,Jarvan IV,Corki,Draven,Fiddlesticks
+2019-07-20,LEC,Aatrox,Sylas,Corki,Caitlyn,Lux
+2019-07-20,LEC,Jax,Elise,Qiyana,Sona,Tahm Kench
+2019-07-20,LEC,Renekton,Sejuani,Qiyana,Sivir,Braum
+2019-07-20,LEC,Karma,Sylas,Aatrox,Ezreal,Tahm Kench
+2019-07-19,LEC,Mordekaiser,Vi,Twisted Fate,Ezreal,Lux
+2019-07-19,LEC,Neeko,Jarvan IV,Corki,Sivir,Nautilus
+2019-07-19,LEC,Jayce,Olaf,Neeko,Sivir,Lux
+2019-07-19,LEC,Rengar,Sylas,Corki,Xayah,Rakan
+2019-07-19,LEC,Karma,Jarvan IV,Akali,Sivir,Lux
+2019-07-19,LEC,Jayce,Sylas,Neeko,Xayah,Rakan
+2019-07-19,LEC,Neeko,Sejuani,Azir,Xayah,Rakan
+2019-07-19,LEC,Qiyana,Gragas,Ekko,Caitlyn,Tahm Kench
+2019-07-19,LEC,Gnar,Skarner,Akali,Kai'Sa,Lux
+2019-07-19,LEC,Gangplank,Gragas,Sylas,Sivir,Rakan
+2019-07-13,LEC,Aatrox,Gragas,Twisted Fate,Ezreal,Rakan
+2019-07-13,LEC,Neeko,Jarvan IV,Qiyana,Xayah,Nautilus
+2019-07-13,LEC,Neeko,Xin Zhao,Azir,Jinx,Tahm Kench
+2019-07-13,LEC,Viktor,Sylas,Talon,Xayah,Rakan
+2019-07-13,LEC,Kennen,Olaf,Azir,Ashe,Tahm Kench
+2019-07-13,LEC,Viktor,Sejuani,Aatrox,Sivir,Lux
+2019-07-13,LEC,Karma,Lee Sin,Ekko,Kai'Sa,Nautilus
+2019-07-13,LEC,Aatrox,Olaf,Azir,Xayah,Lux
+2019-07-13,LEC,Vladimir,Xin Zhao,Azir,Varus,Braum
+2019-07-13,LEC,Rumble,Jarvan IV,Corki,Ashe,Tahm Kench
+2019-07-12,LEC,Karma,Lee Sin,Corki,Xayah,Rakan
+2019-07-12,LEC,Rumble,Jarvan IV,Azir,Lucian,Yuumi
+2019-07-12,LEC,Mordekaiser,Olaf,Corki,Xayah,Rakan
+2019-07-12,LEC,Vayne,Sejuani,Azir,Ashe,Tahm Kench
+2019-07-12,LEC,Neeko,Sylas,Renekton,Vayne,Yuumi
+2019-07-12,LEC,Vladimir,Sejuani,Irelia,Sivir,Nautilus
+2019-07-12,LEC,Karma,Olaf,Azir,Tristana,Braum
+2019-07-12,LEC,Ryze,Lee Sin,Corki,Ashe,Tahm Kench
+2019-07-12,LEC,Mordekaiser,Olaf,Syndra,Lucian,Braum
+2019-07-12,LEC,Aatrox,Lee Sin,Akali,Ezreal,Tahm Kench
+2019-06-22,LEC,Gnar,Sejuani,Akali,Sivir,Lux
+2019-06-22,LEC,Camille,Skarner,Azir,Xayah,Alistar
+2019-06-22,LEC,Aatrox,Lee Sin,Corki,Ezreal,Yuumi
+2019-06-22,LEC,Poppy,Jarvan IV,Akali,Sivir,Lux
+2019-06-22,LEC,Rumble,Gragas,Irelia,Draven,Morgana
+2019-06-22,LEC,Gnar,Elise,Akali,Xayah,Rakan
+2019-06-22,LEC,Aatrox,Sejuani,Yasuo,Ezreal,Braum
+2019-06-22,LEC,Jax,Skarner,Akali,Sivir,Tahm Kench
+2019-06-22,LEC,Aatrox,Jarvan IV,Sylas,Sivir,Nautilus
+2019-06-22,LEC,Kennen,Gragas,Irelia,Xayah,Yuumi
+2019-06-21,LEC,Irelia,Olaf,Akali,Ezreal,Yuumi
+2019-06-21,LEC,Renekton,Gragas,Twisted Fate,Karma,Pyke
+2019-06-21,LEC,Gnar,Skarner,Karma,Ezreal,Tahm Kench
+2019-06-21,LEC,Jarvan IV,Elise,Syndra,Xayah,Rakan
+2019-06-21,LEC,Kennen,Olaf,Neeko,Sivir,Braum
+2019-06-21,LEC,Viktor,Jarvan IV,Irelia,Ezreal,Lux
+2019-06-21,LEC,Aatrox,Skarner,Corki,Sivir,Nautilus
+2019-06-21,LEC,Gnar,Jarvan IV,Azir,Ezreal,Yuumi
+2019-06-21,LEC,Renekton,Olaf,Azir,Sona,Taric
+2019-06-21,LEC,Kennen,Jarvan IV,Sylas,Varus,Tahm Kench
+2019-06-15,LEC,Yorick,Elise,Neeko,Pyke,Yuumi
+2019-06-15,LEC,Jayce,Sejuani,Ekko,Xayah,Nautilus
+2019-06-15,LEC,Kennen,Olaf,Ryze,Xayah,Yuumi
+2019-06-15,LEC,Sylas,Rek'Sai,Twisted Fate,Sivir,Pyke
+2019-06-15,LEC,Jax,Jarvan IV,Ryze,Xayah,Rakan
+2019-06-15,LEC,Aatrox,Elise,Irelia,Ezreal,Tahm Kench
+2019-06-15,LEC,Vladimir,Vi,Sylas,Sivir,Nautilus
+2019-06-15,LEC,Renekton,Rek'Sai,Cassiopeia,Ezreal,Yuumi
+2019-06-15,LEC,Jayce,Jarvan IV,Sylas,Sivir,Braum
+2019-06-15,LEC,Poppy,Elise,Ryze,Xayah,Rakan
+2019-06-14,LEC,Viktor,Jarvan IV,Sylas,Sivir,Rakan
+2019-06-14,LEC,Kennen,Lee Sin,Neeko,Ezreal,Tahm Kench
+2019-06-14,LEC,Kennen,Sejuani,Irelia,Ashe,Tahm Kench
+2019-06-14,LEC,Rumble,Skarner,Sylas,Sivir,Braum
+2019-06-14,LEC,Shen,Gragas,Sylas,Sivir,Rakan
+2019-06-14,LEC,Kennen,Rek'Sai,Aatrox,Xayah,Lux
+2019-06-14,LEC,Jarvan IV,Olaf,Syndra,Sona,Taric
+2019-06-14,LEC,Hecarim,Elise,Zoe,Sivir,Yuumi
+2019-06-14,LEC,Jayce,Kindred,Azir,Sona,Tahm Kench
+2019-06-14,LEC,Rumble,Lee Sin,Ryze,Xayah,Rakan
+2019-06-08,LEC,Kennen,Sejuani,Jayce,Ezreal,Rakan
+2019-06-08,LEC,Vladimir,Jarvan IV,Syndra,Xayah,Morgana
+2019-06-08,LEC,Aatrox,Skarner,Sylas,Sivir,Lux
+2019-06-08,LEC,Jax,Lee Sin,Ryze,Xayah,Rakan
+2019-06-08,LEC,Poppy,Elise,Sylas,Sivir,Nautilus
+2019-06-08,LEC,Jayce,Olaf,LeBlanc,Ezreal,Yuumi
+2019-06-08,LEC,Renekton,Sejuani,Sylas,Ezreal,Braum
+2019-06-08,LEC,Irelia,Trundle,Ryze,Vayne,Thresh
+2019-06-08,LEC,Rumble,Lee Sin,Sylas,Ezreal,Yuumi
+2019-06-08,LEC,Renekton,Sejuani,Azir,Xayah,Rakan
+2019-06-07,LEC,Rumble,Elise,Aatrox,Vayne,Braum
+2019-06-07,LEC,Renekton,Sejuani,Jayce,Jinx,Tahm Kench
+2019-06-07,LEC,Gnar,Elise,Irelia,Sivir,Thresh
+2019-06-07,LEC,Neeko,Jarvan IV,Azir,Xayah,Nautilus
+2019-06-07,LEC,Rumble,Rek'Sai,Sylas,Kai'Sa,Rakan
+2019-06-07,LEC,Jarvan IV,Elise,Jayce,Lucian,Nautilus
+2019-06-07,LEC,Jarvan IV,Sejuani,Camille,Sona,Tahm Kench
+2019-06-07,LEC,Jayce,Olaf,Azir,Sivir,Taric
+2019-06-07,LEC,Neeko,Jarvan IV,Sylas,Lucian,Braum
+2019-06-07,LEC,Rumble,Rek'Sai,Ryze,Sivir,Rakan
+2019-09-08,LEC,Akali,Olaf,Renekton,Syndra,Thresh
+2019-09-08,LEC,Ornn,Gragas,Sylas,Xayah,Shen
+2019-09-08,LEC,Karma,Lee Sin,Akali,Tristana,Shen
+2019-09-08,LEC,Irelia,Gragas,Sylas,Xayah,Thresh
+2019-09-08,LEC,Kled,Sejuani,Sylas,Kai'Sa,Braum
+2019-09-08,LEC,Jax,Gragas,Akali,Tristana,Shen
+2019-09-08,LEC,Kled,Jarvan IV,Sylas,Kai'Sa,Thresh
+2019-09-08,LEC,Renekton,Gragas,Akali,Xayah,Morgana
+2019-09-08,LEC,Kled,Gragas,LeBlanc,Lucian,Pyke
+2019-09-08,LEC,Jax,Sylas,Akali,Xayah,Leona
+2019-09-07,LEC,Renekton,Lee Sin,Akali,Karma,Pyke
+2019-09-07,LEC,Aatrox,Sejuani,Corki,Xayah,Alistar
+2019-09-07,LEC,Karma,Lee Sin,Akali,Ezreal,Pyke
+2019-09-07,LEC,Rumble,Sejuani,Aatrox,Xayah,Thresh
+2019-09-07,LEC,Aatrox,Olaf,LeBlanc,Kai'Sa,Alistar
+2019-09-07,LEC,Gangplank,Gragas,Karma,Xayah,Morgana
+2019-08-31,LEC,Kled,Sejuani,Sylas,Ezreal,Rakan
+2019-08-31,LEC,Akali,Elise,Kassadin,Xayah,Braum
+2019-08-31,LEC,Shen,Gragas,Corki,Ezreal,Rakan
+2019-08-31,LEC,Akali,Lee Sin,Syndra,Xayah,Lux
+2019-08-31,LEC,Kled,Gragas,Sylas,Kai'Sa,Rakan
+2019-08-31,LEC,Renekton,Lee Sin,Akali,Xayah,Thresh
+2019-08-31,LEC,Renekton,Gragas,Twisted Fate,Ezreal,Rakan
+2019-08-31,LEC,Shen,Sejuani,Akali,Xayah,Morgana
+2019-08-31,LEC,Gangplank,Nocturne,Twisted Fate,Garen,Yuumi
+2019-08-31,LEC,Gnar,Lee Sin,Akali,Mordekaiser,Pyke
+2019-08-30,LEC,Aatrox,Olaf,Azir,Tristana,Alistar
+2019-08-30,LEC,Rumble,Sejuani,Corki,Lucian,Rakan
+2019-08-30,LEC,Aatrox,Sylas,Corki,Draven,Morgana
+2019-08-30,LEC,Kennen,Sejuani,Akali,Lucian,Alistar
+2019-08-30,LEC,Aatrox,Zac,Akali,Kai'Sa,Braum
+2019-08-30,LEC,Rumble,Xin Zhao,Sylas,Lucian,Alistar
+2019-08-30,LEC,Aatrox,Sylas,Corki,Kai'Sa,Rakan
+2019-08-30,LEC,Gnar,Sejuani,Akali,Lucian,Leona
+2019-08-24,LEC,Jayce,Skarner,Corki,Garen,Yuumi
+2019-08-24,LEC,Gnar,Gragas,Qiyana,Kai'Sa,Rakan
+2019-08-24,LEC,Mordekaiser,Qiyana,Akali,Kai'Sa,Morgana
+2019-08-24,LEC,Olaf,Sejuani,Corki,Sivir,Alistar
+2019-08-24,LEC,Karma,Olaf,Akali,Xayah,Gragas
+2019-08-24,LEC,Mordekaiser,Qiyana,Sylas,Kai'Sa,Alistar
+2019-08-24,LEC,Gnar,Sejuani,Sylas,Caitlyn,Morgana
+2019-08-24,LEC,Jayce,Graves,Karthus,Xayah,Rakan
+2019-08-23,LEC,Gnar,Gragas,Akali,Tristana,Braum
+2019-08-23,LEC,Kled,Olaf,Corki,Kai'Sa,Rakan
+2019-08-23,LEC,Aatrox,Sejuani,Akali,Kog'Maw,Tahm Kench
+2019-08-23,LEC,Gnar,Sylas,Azir,Kai'Sa,Nautilus
+2019-08-23,LEC,Aatrox,Elise,Corki,Garen,Yuumi
+2019-08-23,LEC,Renekton,Sylas,Akali,Lucian,Volibear
+2019-09-15,LEC,Vladimir,Ivern,Twisted Fate,Xayah,Leona
+2019-09-15,LEC,Gangplank,Sejuani,Yasuo,Kai'Sa,Shen
+2019-09-15,LEC,Gangplank,Nocturne,Cassiopeia,Garen,Yuumi
+2019-09-15,LEC,Aatrox,Sylas,Azir,Vayne,Lulu
+2019-09-15,LEC,Gnar,Gragas,Corki,Kai'Sa,Nautilus
+2019-09-15,LEC,Aatrox,Sylas,Cassiopeia,Xayah,Shen
+2019-09-14,LEC,Gnar,Olaf,Sylas,Xayah,Thresh
+2019-09-14,LEC,Gangplank,Gragas,Camille,Kai'Sa,Nautilus
+2019-09-14,LEC,Karma,Trundle,Sylas,Kai'Sa,Thresh
+2019-09-14,LEC,Gangplank,Olaf,Akali,Jinx,Tahm Kench
+2019-09-14,LEC,Karma,Qiyana,Sylas,Tristana,Leona
+2019-09-14,LEC,Gangplank,Nocturne,Akali,Kai'Sa,Thresh
+2019-09-13,LEC,Gangplank,Elise,Corki,Kai'Sa,Thresh
+2019-09-13,LEC,Kennen,Sylas,Zed,Tristana,Rakan
+2019-09-13,LEC,Kennen,Gragas,Yasuo,Xayah,Rakan
+2019-09-13,LEC,Renekton,Jarvan IV,Corki,Garen,Yuumi
+2019-09-13,LEC,Aatrox,Olaf,Corki,Kai'Sa,Nautilus
+2019-09-13,LEC,Gangplank,Trundle,Sylas,Lucian,Alistar
+2019-09-13,LEC,Gangplank,Gragas,Corki,Vayne,Thresh
+2019-09-13,LEC,Aatrox,Sejuani,Syndra,Kai'Sa,Nautilus
+2019-09-13,LEC,Jax,Gragas,Nautilus,Tristana,Rakan
+2019-09-13,LEC,Gnar,Elise,Sylas,Kai'Sa,Braum
+2019-03-31,LCK,Kayle,Rek'Sai,Akali,Ashe,Tahm Kench
+2019-03-31,LCK,Camille,Olaf,Ryze,Lucian,Braum
+2019-03-31,LCK,Kennen,Rek'Sai,Sylas,Lucian,Galio
+2019-03-31,LCK,Jayce,Lee Sin,LeBlanc,Ashe,Tahm Kench
+2019-03-31,LCK,Jayce,Rek'Sai,Zoe,Kai'Sa,Galio
+2019-03-31,LCK,Ryze,Jarvan IV,Lissandra,Lucian,Alistar
+2019-03-31,LCK,Jayce,Karthus,Lissandra,Lucian,Thresh
+2019-03-31,LCK,Ornn,Rek'Sai,Akali,Ezreal,Alistar
+2019-03-30,LCK,Akali,Elise,Taliyah,Kalista,Morgana
+2019-03-30,LCK,Jayce,Lee Sin,Azir,Vayne,Alistar
+2019-03-30,LCK,Jayce,Lee Sin,LeBlanc,Ezreal,Tahm Kench
+2019-03-30,LCK,Ryze,Jarvan IV,Syndra,Lucian,Lulu
+2019-03-30,LCK,Jayce,Lee Sin,Lissandra,Lucian,Morgana
+2019-03-30,LCK,Kennen,Jarvan IV,Aatrox,Ashe,Braum
+2019-03-30,LCK,Kennen,Olaf,Aatrox,Vayne,Braum
+2019-03-30,LCK,Lucian,Rek'Sai,Akali,Caitlyn,Morgana
+2019-03-30,LCK,Yorick,Kha'Zix,Zoe,Kalista,Galio
+2019-03-30,LCK,Kayle,Olaf,LeBlanc,Kog'Maw,Tahm Kench
+2019-03-29,LCK,Ornn,Rek'Sai,Morgana,Lucian,Shen
+2019-03-29,LCK,Jayce,Jarvan IV,Lissandra,Ezreal,Karma
+2019-03-29,LCK,Jayce,Elise,Lissandra,Vayne,Karma
+2019-03-29,LCK,Ornn,Jarvan IV,Corki,Viktor,Tahm Kench
+2019-03-29,LCK,Kayle,Rek'Sai,Lissandra,Ashe,Tahm Kench
+2019-03-29,LCK,Kennen,Jarvan IV,Taliyah,Lucian,Galio
+2019-03-29,LCK,Jayce,Jarvan IV,Corki,Kai'Sa,Galio
+2019-03-29,LCK,Akali,Rek'Sai,Lissandra,Lucian,Braum
+2019-03-28,LCK,Kayle,Gragas,Yasuo,Kalista,Braum
+2019-03-28,LCK,Aatrox,Rek'Sai,Morgana,Ezreal,Tahm Kench
+2019-03-28,LCK,Neeko,Jarvan IV,Morgana,Lucian,Braum
+2019-03-28,LCK,Ryze,Rek'Sai,Corki,Ashe,Tahm Kench
+2019-03-28,LCK,Aatrox,Elise,Sion,Kalista,Galio
+2019-03-28,LCK,Irelia,Jarvan IV,Lissandra,Vayne,Alistar
+2019-03-28,LCK,Jayce,Elise,Aatrox,Lucian,Alistar
+2019-03-28,LCK,Vladimir,Jarvan IV,Lissandra,Ezreal,Morgana
+2019-03-24,LCK,Akali,Jarvan IV,Lissandra,Kai'Sa,Gragas
+2019-03-24,LCK,Kennen,Camille,Ryze,Ezreal,Tahm Kench
+2019-03-24,LCK,Kennen,Rek'Sai,Ryze,Lucian,Shen
+2019-03-24,LCK,Aatrox,Lee Sin,Anivia,Kai'Sa,Alistar
+2019-03-24,LCK,Jayce,Elise,Galio,Lucian,Thresh
+2019-03-24,LCK,Ryze,Jarvan IV,Vayne,Ashe,Braum
+2019-03-24,LCK,Yorick,Jarvan IV,Taliyah,Kalista,Morgana
+2019-03-24,LCK,Jax,Rek'Sai,Lissandra,Varus,Braum
+2019-03-24,LCK,Jayce,Elise,LeBlanc,Ezreal,Tahm Kench
+2019-03-24,LCK,Yorick,Lee Sin,Ryze,Lucian,Rakan
+2019-03-23,LCK,Jayce,Elise,Swain,Xayah,Braum
+2019-03-23,LCK,Gnar,Jarvan IV,Lissandra,Lucian,Morgana
+2019-03-23,LCK,Aatrox,Elise,Sion,Kai'Sa,Galio
+2019-03-23,LCK,Kennen,Jarvan IV,Lissandra,Lucian,Braum
+2019-03-23,LCK,Neeko,Gragas,Yasuo,Ashe,Tahm Kench
+2019-03-23,LCK,Zed,Karthus,Kennen,Lucian,Braum
+2019-03-23,LCK,Ornn,Kindred,Ryze,Lucian,Braum
+2019-03-23,LCK,Neeko,Rek'Sai,Zoe,Ezreal,Shen
+2019-03-22,LCK,Ryze,Lee Sin,Aatrox,Jinx,Thresh
+2019-03-22,LCK,Fiora,Rek'Sai,Lissandra,Ezreal,Tahm Kench
+2019-03-22,LCK,Vladimir,Lee Sin,Lissandra,Xayah,Rakan
+2019-03-22,LCK,Irelia,Jarvan IV,Galio,Lucian,Braum
+2019-03-22,LCK,Neeko,Lee Sin,LeBlanc,Vayne,Tahm Kench
+2019-03-22,LCK,Irelia,Gragas,Zoe,Ezreal,Alistar
+2019-03-22,LCK,Ryze,Lee Sin,Zoe,Kalista,Alistar
+2019-03-22,LCK,Gnar,Olaf,Orianna,Ezreal,Tahm Kench
+2019-03-21,LCK,Akali,Xin Zhao,Lissandra,Vayne,Morgana
+2019-03-21,LCK,Gangplank,Rek'Sai,Ryze,Kog'Maw,Braum
+2019-03-21,LCK,Kennen,Rek'Sai,Lissandra,Ezreal,Tahm Kench
+2019-03-21,LCK,Aatrox,Jarvan IV,Galio,Draven,Thresh
+2019-03-21,LCK,Yorick,Lee Sin,Lissandra,Xayah,Rakan
+2019-03-21,LCK,Jayce,Jarvan IV,Ryze,Neeko,Morgana
+2019-03-21,LCK,Jax,Jarvan IV,Lissandra,Vayne,Morgana
+2019-03-21,LCK,Yorick,Zac,Zoe,Kalista,Nami
+2019-03-17,LCK,Gangplank,Karthus,Lissandra,Lucian,Rakan
+2019-03-17,LCK,Kennen,Jarvan IV,Taliyah,Ezreal,Braum
+2019-03-17,LCK,Aatrox,Jarvan IV,Orianna,Ezreal,Braum
+2019-03-17,LCK,Vladimir,Rek'Sai,Azir,Lucian,Nami
+2019-03-17,LCK,Vladimir,Gragas,Yasuo,Lucian,Blitzcrank
+2019-03-17,LCK,Kennen,Lee Sin,LeBlanc,Varus,Tahm Kench
+2019-03-17,LCK,Ryze,Lee Sin,Galio,Ashe,Tahm Kench
+2019-03-17,LCK,Vladimir,Rek'Sai,LeBlanc,Kai'Sa,Braum
+2019-03-17,LCK,Ryze,Olaf,Zoe,Jinx,Thresh
+2019-03-17,LCK,Irelia,Lee Sin,Akali,Vayne,Braum
+2019-03-16,LCK,Vladimir,Nocturne,LeBlanc,Draven,Braum
+2019-03-16,LCK,Aatrox,Kha'Zix,Ryze,Ezreal,Galio
+2019-03-16,LCK,Ryze,Olaf,LeBlanc,Ashe,Tahm Kench
+2019-03-16,LCK,Yorick,Kha'Zix,Lissandra,Draven,Braum
+2019-03-16,LCK,Aatrox,Rek'Sai,LeBlanc,Draven,Galio
+2019-03-16,LCK,Yorick,Jarvan IV,Ryze,Lucian,Braum
+2019-03-16,LCK,Akali,Kha'Zix,Galio,Lucian,Braum
+2019-03-16,LCK,Ryze,Olaf,Lissandra,Kai'Sa,Thresh
+2019-03-16,LCK,Urgot,Lee Sin,Ryze,Kalista,Galio
+2019-03-16,LCK,Jax,Kha'Zix,Lissandra,Lucian,Alistar
+2019-03-16,LCK,Aatrox,Kindred,Lissandra,Ezreal,Braum
+2019-03-16,LCK,Riven,Olaf,Galio,Vayne,Rakan
+2019-03-15,LCK,Vladimir,Lee Sin,LeBlanc,Vayne,Braum
+2019-03-15,LCK,Aatrox,Jarvan IV,Ryze,Xayah,Shen
+2019-03-15,LCK,Lissandra,Rek'Sai,LeBlanc,Lucian,Bard
+2019-03-15,LCK,Ryze,Lee Sin,Zoe,Ezreal,Braum
+2019-03-15,LCK,Jayce,Gragas,Akali,Ashe,Tahm Kench
+2019-03-15,LCK,Irelia,Zac,Ryze,Lucian,Braum
+2019-03-15,LCK,Jayce,Lee Sin,Kennen,Varus,Tahm Kench
+2019-03-15,LCK,Lucian,Gragas,Yasuo,Sivir,Thresh
+2019-03-15,LCK,Lissandra,Gragas,Yasuo,Lucian,Shen
+2019-03-15,LCK,Aatrox,Xin Zhao,Corki,Tristana,Galio
+2019-04-13,LCK,Aatrox,Elise,Sylas,Taliyah,Pantheon
+2019-04-13,LCK,Riven,Jarvan IV,Ryze,Ezreal,Braum
+2019-04-13,LCK,Akali,Jarvan IV,Azir,Lucian,Galio
+2019-04-13,LCK,Hecarim,Olaf,Lissandra,Ezreal,Braum
+2019-04-13,LCK,Sylas,Olaf,Akali,Taliyah,Pantheon
+2019-04-13,LCK,Hecarim,Rek'Sai,Ryze,Ezreal,Braum
+2019-04-07,LCK,Sylas,Kha'Zix,Akali,Ezreal,Galio
+2019-04-07,LCK,Kennen,Jarvan IV,Azir,Sivir,Tahm Kench
+2019-04-07,LCK,Ryze,Camille,LeBlanc,Lucian,Shen
+2019-04-07,LCK,Viktor,Jarvan IV,Sylas,Varus,Braum
+2019-04-07,LCK,Jayce,Jarvan IV,Lissandra,Varus,Braum
+2019-04-07,LCK,Akali,Vi,Corki,Sivir,Tahm Kench
+2019-04-05,LCK,Kennen,Rek'Sai,Lissandra,Lucian,Galio
+2019-04-05,LCK,Vladimir,Kindred,Zilean,Kai'Sa,Alistar
+2019-04-05,LCK,Jayce,Lee Sin,LeBlanc,Ashe,Tahm Kench
+2019-04-05,LCK,Akali,Jarvan IV,Ryze,Morgana,Pyke
+2019-04-05,LCK,Ornn,Nocturne,Sylas,Ashe,Thresh
+2019-04-05,LCK,Jayce,Jarvan IV,Corki,Lucian,Braum
+2019-04-03,LCK,Neeko,Jarvan IV,Lissandra,Kalista,Galio
+2019-04-03,LCK,Ryze,Lee Sin,Corki,Ashe,Tahm Kench
+2019-04-03,LCK,Sylas,Rek'Sai,Akali,Vayne,Nautilus
+2019-04-03,LCK,Jayce,Jarvan IV,Karma,Kalista,Thresh
+2019-04-03,LCK,Jayce,Jarvan IV,Lissandra,Ezreal,Galio
+2019-04-03,LCK,Ryze,Rek'Sai,Corki,Kalista,Thresh
+2019-08-18,LCK,Jayce,Kha'Zix,Irelia,Kai'Sa,Volibear
+2019-08-18,LCK,Aatrox,Jarvan IV,LeBlanc,Xayah,Thresh
+2019-08-18,LCK,Irelia,Sejuani,Azir,Kai'Sa,Alistar
+2019-08-18,LCK,Mordekaiser,Elise,Aatrox,Ashe,Tahm Kench
+2019-08-18,LCK,Irelia,Sylas,Karma,Kai'Sa,Alistar
+2019-08-18,LCK,Gnar,Sejuani,Aatrox,Varus,Tahm Kench
+2019-08-18,LCK,Poppy,Sylas,Aatrox,Kalista,Jarvan IV
+2019-08-18,LCK,Camille,Sejuani,Irelia,Kai'Sa,Pyke
+2019-08-18,LCK,Ryze,Sejuani,Aatrox,Varus,Tahm Kench
+2019-08-18,LCK,Gangplank,Sylas,Vel'Koz,Kai'Sa,Yuumi
+2019-08-17,LCK,Jayce,Elise,Corki,Varus,Braum
+2019-08-17,LCK,Vladimir,Lee Sin,Azir,Xayah,Tahm Kench
+2019-08-17,LCK,Renekton,Lee Sin,Azir,Xayah,Rakan
+2019-08-17,LCK,Karma,Jarvan IV,Akali,Ashe,Tahm Kench
+2019-08-17,LCK,Kennen,Kha'Zix,Azir,Karma,Tahm Kench
+2019-08-17,LCK,Vladimir,Lee Sin,Corki,Varus,Braum
+2019-08-17,LCK,Akali,Xin Zhao,Karma,Ezreal,Braum
+2019-08-17,LCK,Camille,Gragas,Corki,Xayah,Nautilus
+2019-08-17,LCK,Renekton,Skarner,Azir,Xayah,Alistar
+2019-08-17,LCK,Camille,Karthus,Vel'Koz,Jinx,Thresh
+2019-08-17,LCK,Akali,Xin Zhao,Vel'Koz,Varus,Thresh
+2019-08-17,LCK,Aatrox,Skarner,Azir,Xayah,Alistar
+2019-08-16,LCK,Jayce,Kindred,Taliyah,Kai'Sa,Nautilus
+2019-08-16,LCK,Vladimir,Elise,Azir,Xayah,Thresh
+2019-08-16,LCK,Renekton,Sejuani,Azir,Varus,Morgana
+2019-08-16,LCK,Aatrox,Sylas,Ryze,Lucian,Thresh
+2019-08-16,LCK,Aatrox,Lee Sin,Azir,Sivir,Yuumi
+2019-08-16,LCK,Renekton,Sejuani,Akali,Varus,Karma
+2019-08-16,LCK,Karma,Jarvan IV,Azir,Lucian,Yuumi
+2019-08-16,LCK,Mordekaiser,Kha'Zix,Aatrox,Kai'Sa,Volibear
+2019-08-16,LCK,Kennen,Olaf,Jayce,Ezreal,Yuumi
+2019-08-16,LCK,Aatrox,Sejuani,Taliyah,Yasuo,Volibear
+2019-08-15,LCK,Aatrox,Gragas,Xerath,Lucian,Nautilus
+2019-08-15,LCK,Renekton,Sejuani,Azir,Draven,Thresh
+2019-08-15,LCK,Aatrox,Jarvan IV,Akali,Draven,Braum
+2019-08-15,LCK,Camille,Gragas,Azir,Xayah,Nautilus
+2019-08-15,LCK,Camille,Sejuani,Corki,Xayah,Braum
+2019-08-15,LCK,Aatrox,Jarvan IV,Sylas,Ezreal,Morgana
+2019-08-15,LCK,Camille,Sylas,Akali,Xayah,Leona
+2019-08-15,LCK,Renekton,Sejuani,Karma,Kai'Sa,Volibear
+2019-08-15,LCK,Kennen,Skarner,Karma,Varus,Tahm Kench
+2019-08-15,LCK,Jayce,Sejuani,Akali,Xayah,Braum
+2019-08-11,LCK,Kennen,Trundle,Aatrox,Varus,Tahm Kench
+2019-08-11,LCK,Renekton,Lee Sin,Corki,Ezreal,Braum
+2019-08-11,LCK,Aatrox,Trundle,Azir,Vayne,Braum
+2019-08-11,LCK,Karma,Sejuani,Akali,Ezreal,Tahm Kench
+2019-08-11,LCK,Aatrox,Sylas,Qiyana,Xayah,Rakan
+2019-08-11,LCK,Kennen,Elise,Azir,Ezreal,Alistar
+2019-08-11,LCK,Kennen,Gragas,Ryze,Lucian,Yuumi
+2019-08-11,LCK,Aatrox,Skarner,Vladimir,Ezreal,Volibear
+2019-08-11,LCK,Aatrox,Sejuani,Kassadin,Ezreal,Tahm Kench
+2019-08-11,LCK,Gangplank,Jarvan IV,Corki,Kai'Sa,Gragas
+2019-08-10,LCK,Aatrox,Sejuani,Akali,Xayah,Alistar
+2019-08-10,LCK,Kled,Karthus,Jayce,Kai'Sa,Nautilus
+2019-08-10,LCK,Renekton,Evelynn,Jayce,Ezreal,Tahm Kench
+2019-08-10,LCK,Aatrox,Sejuani,Akali,Kai'Sa,Volibear
+2019-08-10,LCK,Renekton,Sejuani,Azir,Kalista,Volibear
+2019-08-10,LCK,Aatrox,Jarvan IV,Karma,Xayah,Rakan
+2019-08-10,LCK,Renekton,Olaf,Corki,Lucian,Yuumi
+2019-08-10,LCK,Quinn,Rek'Sai,Akali,Xayah,Rakan
+2019-08-10,LCK,Aatrox,Sejuani,Azir,Kai'Sa,Nautilus
+2019-08-10,LCK,Kennen,Trundle,Akali,Xayah,Volibear
+2019-08-10,LCK,Renekton,Skarner,Corki,Xayah,Thresh
+2019-08-10,LCK,Aatrox,Sejuani,Sylas,Kai'Sa,Nautilus
+2019-08-09,LCK,Vladimir,Skarner,Renekton,Ezreal,Tahm Kench
+2019-08-09,LCK,Neeko,Olaf,Sylas,Kai'Sa,Sejuani
+2019-08-09,LCK,Kennen,Gragas,Renekton,Kai'Sa,Volibear
+2019-08-09,LCK,Vladimir,Sejuani,Aatrox,Xayah,Rakan
+2019-08-09,LCK,Neeko,Sejuani,Lissandra,Xayah,Yuumi
+2019-08-09,LCK,Kennen,Elise,Jayce,Kai'Sa,Volibear
+2019-08-09,LCK,Kennen,Gragas,Ryze,Kai'Sa,Leona
+2019-08-09,LCK,Jayce,Sejuani,Sylas,Xayah,Rakan
+2019-08-09,LCK,Renekton,Xin Zhao,Akali,Draven,Thresh
+2019-08-09,LCK,Aatrox,Elise,Azir,Varus,Nautilus
+2019-08-09,LCK,Aatrox,Lee Sin,Taliyah,Kai'Sa,Nautilus
+2019-08-09,LCK,Kennen,Jarvan IV,LeBlanc,Xayah,Rakan
+2019-08-08,LCK,Camille,Sejuani,Aatrox,Sona,Tahm Kench
+2019-08-08,LCK,Vladimir,Sylas,Irelia,Kai'Sa,Alistar
+2019-08-08,LCK,Jayce,Taliyah,Renekton,Kai'Sa,Alistar
+2019-08-08,LCK,Aatrox,Gragas,Neeko,Kalista,Volibear
+2019-08-08,LCK,Kled,Gragas,Azir,Xayah,Rakan
+2019-08-08,LCK,Aatrox,Sylas,Irelia,Varus,Tahm Kench
+2019-08-08,LCK,Aatrox,Olaf,Azir,Varus,Tahm Kench
+2019-08-08,LCK,Camille,Elise,Corki,Xayah,Rakan
+2019-08-04,LCK,Jayce,Xin Zhao,Akali,Karma,Tahm Kench
+2019-08-04,LCK,Aatrox,Skarner,Azir,Varus,Braum
+2019-08-04,LCK,Kled,Karthus,Corki,Varus,Tahm Kench
+2019-08-04,LCK,Karma,Jarvan IV,Akali,Ashe,Braum
+2019-08-04,LCK,Jayce,Trundle,Azir,Lucian,Yuumi
+2019-08-04,LCK,Camille,Sejuani,Neeko,Kai'Sa,Volibear
+2019-08-04,LCK,Irelia,Jarvan IV,Corki,Kai'Sa,Nautilus
+2019-08-04,LCK,Jayce,Karthus,Azir,Ezreal,Alistar
+2019-08-03,LCK,Akali,Lee Sin,Sylas,Kai'Sa,Gragas
+2019-08-03,LCK,Aatrox,Skarner,Karma,Varus,Tahm Kench
+2019-08-03,LCK,Kennen,Sejuani,Azir,Kai'Sa,Rakan
+2019-08-03,LCK,Jayce,Trundle,Corki,Xayah,Alistar
+2019-08-03,LCK,Neeko,Trundle,Azir,Xayah,Rakan
+2019-08-03,LCK,Aatrox,Sejuani,Ekko,Varus,Tahm Kench
+2019-08-03,LCK,Kennen,Sylas,Veigar,Xayah,Rakan
+2019-08-03,LCK,Aatrox,Sejuani,Tristana,Viktor,Tahm Kench
+2019-08-03,LCK,Aatrox,Skarner,Azir,Lucian,Yuumi
+2019-08-03,LCK,Gnar,Sejuani,Vel'Koz,Kalista,Volibear
+2019-08-02,LCK,Jayce,Jarvan IV,Zoe,Lucian,Braum
+2019-08-02,LCK,Aatrox,Sejuani,Irelia,Xayah,Tahm Kench
+2019-08-02,LCK,Sylas,Jarvan IV,Corki,Kog'Maw,Braum
+2019-08-02,LCK,Aatrox,Xin Zhao,Azir,Ashe,Tahm Kench
+2019-08-02,LCK,Aatrox,Jarvan IV,Sylas,Kalista,Thresh
+2019-08-02,LCK,Gangplank,Sejuani,Akali,Ashe,Tahm Kench
+2019-08-02,LCK,Aatrox,Elise,Zoe,Ashe,Tahm Kench
+2019-08-02,LCK,Camille,Sejuani,Akali,Lucian,Nautilus
+2019-08-02,LCK,Camille,Sejuani,Corki,Kai'Sa,Nautilus
+2019-08-02,LCK,Aatrox,Olaf,Sylas,Ezreal,Tahm Kench
+2019-08-01,LCK,Vladimir,Lee Sin,LeBlanc,Ezreal,Tahm Kench
+2019-08-01,LCK,Aatrox,Elise,Taliyah,Kai'Sa,Gragas
+2019-08-01,LCK,Renekton,Elise,Ryze,Xayah,Rakan
+2019-08-01,LCK,Camille,Sylas,LeBlanc,Varus,Tahm Kench
+2019-08-01,LCK,Vladimir,Lee Sin,Vel'Koz,Xayah,Leona
+2019-08-01,LCK,Sylas,Trundle,Azir,Kai'Sa,Rakan
+2019-08-01,LCK,Aatrox,Sylas,Neeko,Ezreal,Braum
+2019-08-01,LCK,Camille,Rek'Sai,Azir,Sivir,Rakan
+2019-07-28,LCK,Gangplank,Jarvan IV,Zoe,Ezreal,Yuumi
+2019-07-28,LCK,Camille,Sylas,LeBlanc,Kai'Sa,Sejuani
+2019-07-28,LCK,Camille,Evelynn,Corki,Ezreal,Alistar
+2019-07-28,LCK,Aatrox,Karthus,Zed,Kai'Sa,Volibear
+2019-07-28,LCK,Kennen,Jarvan IV,Sylas,Viktor,Tahm Kench
+2019-07-28,LCK,Aatrox,Sejuani,LeBlanc,Xayah,Rakan
+2019-07-28,LCK,Gangplank,Sejuani,Corki,Sivir,Braum
+2019-07-28,LCK,Kennen,Jarvan IV,Sylas,Ezreal,Tahm Kench
+2019-07-28,LCK,Akali,Jarvan IV,Sylas,Ezreal,Tahm Kench
+2019-07-28,LCK,Gangplank,Sejuani,Corki,Sivir,Braum
+2019-07-27,LCK,Renekton,Sylas,Azir,Ezreal,Rakan
+2019-07-27,LCK,Karma,Skarner,Vel'Koz,Xayah,Nautilus
+2019-07-27,LCK,Karma,Lee Sin,Veigar,Xayah,Yuumi
+2019-07-27,LCK,Sylas,Skarner,Azir,Lucian,Pyke
+2019-07-27,LCK,Neeko,Rek'Sai,Corki,Tristana,Volibear
+2019-07-27,LCK,Kennen,Gragas,Yasuo,Kai'Sa,Leona
+2019-07-27,LCK,Renekton,Xin Zhao,Corki,Ezreal,Tahm Kench
+2019-07-27,LCK,Camille,Gragas,Yasuo,Kai'Sa,Pyke
+2019-07-27,LCK,Kennen,Sejuani,Viktor,Sivir,Lux
+2019-07-27,LCK,Ryze,Trundle,Azir,Ezreal,Alistar
+2019-07-26,LCK,Kennen,Lee Sin,Corki,Ashe,Thresh
+2019-07-26,LCK,Gangplank,Karthus,Zed,Ezreal,Blitzcrank
+2019-07-26,LCK,Kled,Sejuani,Corki,Kai'Sa,Karma
+2019-07-26,LCK,Aatrox,Jarvan IV,Zoe,Ezreal,Tahm Kench
+2019-07-26,LCK,Camille,Sylas,Akali,Kai'Sa,Rakan
+2019-07-26,LCK,Renekton,Sejuani,Karma,Ezreal,Braum
+2019-07-26,LCK,Karma,Jarvan IV,Sylas,Lucian,Yuumi
+2019-07-26,LCK,Renekton,Karthus,Zoe,Ezreal,Volibear
+2019-07-26,LCK,Karma,Jarvan IV,Corki,Ezreal,Braum
+2019-07-26,LCK,Kled,Xin Zhao,Sylas,Sona,Tahm Kench
+2019-07-25,LCK,Camille,Sejuani,Zoe,Sona,Tahm Kench
+2019-07-25,LCK,Fiora,Trundle,Neeko,Ezreal,Braum
+2019-07-25,LCK,Aatrox,Sejuani,Neeko,Ezreal,Braum
+2019-07-25,LCK,Gangplank,Trundle,Lux,Sona,Tahm Kench
+2019-07-25,LCK,Irelia,Sejuani,Corki,Lucian,Lux
+2019-07-25,LCK,Kennen,Sylas,Ryze,Ezreal,Tahm Kench
+2019-07-25,LCK,Aatrox,Skarner,Sylas,Sivir,Tahm Kench
+2019-07-25,LCK,Neeko,Jarvan IV,Corki,Ezreal,Nami
+2019-07-21,LCK,Camille,Jarvan IV,Corki,Kai'Sa,Galio
+2019-07-21,LCK,Renekton,Sejuani,Azir,Xayah,Rakan
+2019-07-21,LCK,Neeko,Jarvan IV,Corki,Varus,Braum
+2019-07-21,LCK,Kennen,Rek'Sai,Zoe,Ezreal,Tahm Kench
+2019-07-21,LCK,Jayce,Jarvan IV,Corki,Ezreal,Braum
+2019-07-21,LCK,Renekton,Sejuani,Lucian,Varus,Tahm Kench
+2019-07-21,LCK,Kennen,Lee Sin,Twisted Fate,Kai'Sa,Nautilus
+2019-07-21,LCK,Karma,Sejuani,Azir,Xayah,Morgana
+2019-07-21,LCK,Neeko,Skarner,Corki,Kalista,Tahm Kench
+2019-07-21,LCK,Kennen,Elise,Azir,Varus,Nautilus
+2019-07-20,LCK,Gnar,Sejuani,Taliyah,Lucian,Yuumi
+2019-07-20,LCK,Camille,Trundle,Azir,Varus,Lux
+2019-07-20,LCK,Neeko,Zac,Azir,Varus,Tahm Kench
+2019-07-20,LCK,Karma,Skarner,Veigar,Ezreal,Lux
+2019-07-20,LCK,Gnar,Skarner,Taliyah,Ezreal,Yuumi
+2019-07-20,LCK,Jayce,Gragas,Yasuo,Varus,Lux
+2019-07-20,LCK,Jayce,Lee Sin,Corki,Kai'Sa,Rakan
+2019-07-20,LCK,Irelia,Zac,Aatrox,Ezreal,Braum
+2019-07-20,LCK,Vladimir,Sejuani,Aatrox,Kai'Sa,Nautilus
+2019-07-20,LCK,Jayce,Sylas,Corki,Ezreal,Alistar
+2019-07-19,LCK,Aatrox,Sejuani,Karma,Xayah,Rakan
+2019-07-19,LCK,Neeko,Trundle,Corki,Lucian,Nautilus
+2019-07-19,LCK,Karma,Sylas,Qiyana,Kai'Sa,Galio
+2019-07-19,LCK,Kled,Sejuani,Neeko,Xayah,Rakan
+2019-07-19,LCK,Gnar,Xin Zhao,Neeko,Sivir,Yuumi
+2019-07-19,LCK,Kennen,Jarvan IV,Azir,Kalista,Nautilus
+2019-07-19,LCK,Aatrox,Sejuani,Azir,Kai'Sa,Lux
+2019-07-19,LCK,Mordekaiser,Xin Zhao,Zoe,Ezreal,Tahm Kench
+2019-07-19,LCK,Aatrox,Sylas,Azir,Ezreal,Tahm Kench
+2019-07-19,LCK,Fiora,Sejuani,Corki,Varus,Braum
+2019-07-18,LCK,Neeko,Jarvan IV,Azir,Ezreal,Karma
+2019-07-18,LCK,Kennen,Sejuani,Qiyana,Caitlyn,Lux
+2019-07-18,LCK,Camille,Sejuani,Taliyah,Ashe,Thresh
+2019-07-18,LCK,Vladimir,Gragas,Jayce,Varus,Morgana
+2019-07-18,LCK,Camille,Karthus,Azir,Varus,Braum
+2019-07-18,LCK,Kennen,Taliyah,Qiyana,Ashe,Thresh
+2019-07-18,LCK,Kennen,Skarner,Taliyah,Kalista,Tahm Kench
+2019-07-18,LCK,Karma,Olaf,LeBlanc,Varus,Morgana
+2019-07-18,LCK,Irelia,Sejuani,Azir,Lucian,Braum
+2019-07-18,LCK,Kennen,Trundle,Karma,Ashe,Lux
+2019-07-14,LCK,Vladimir,Sejuani,Veigar,Ezreal,Tahm Kench
+2019-07-14,LCK,Gangplank,Lee Sin,Azir,Kalista,Rakan
+2019-07-14,LCK,Karma,Jarvan IV,Corki,Jinx,Thresh
+2019-07-14,LCK,Kennen,Sejuani,Lux,Ezreal,Rakan
+2019-07-14,LCK,Jayce,Elise,Karma,Ezreal,Galio
+2019-07-14,LCK,Aatrox,Xin Zhao,Corki,Xayah,Rakan
+2019-07-14,LCK,Jayce,Jarvan IV,Akali,Xayah,Rakan
+2019-07-14,LCK,Camille,Sejuani,Karma,Ezreal,Galio
+2019-07-14,LCK,Jayce,Lee Sin,Taliyah,Ezreal,Galio
+2019-07-14,LCK,Aatrox,Karthus,Talon,Kai'Sa,Nautilus
+2019-07-13,LCK,Karma,Jarvan IV,Corki,Kai'Sa,Alistar
+2019-07-13,LCK,Akali,Rek'Sai,Ryze,Jinx,Tahm Kench
+2019-07-13,LCK,Kennen,Trundle,Azir,Ezreal,Tahm Kench
+2019-07-13,LCK,Gangplank,Sejuani,Irelia,Lucian,Braum
+2019-07-13,LCK,Vladimir,Jarvan IV,Corki,Ezreal,Karma
+2019-07-13,LCK,Irelia,Sejuani,Orianna,Lucian,Lux
+2019-07-13,LCK,Renekton,Jarvan IV,Karma,Ezreal,Morgana
+2019-07-13,LCK,Irelia,Lee Sin,Corki,Xayah,Rakan
+2019-07-13,LCK,Kennen,Sejuani,Irelia,Draven,Braum
+2019-07-13,LCK,Neeko,Elise,Renekton,Ezreal,Tahm Kench
+2019-07-12,LCK,Aatrox,Jarvan IV,Azir,Sivir,Lux
+2019-07-12,LCK,Camille,Sejuani,Zoe,Jinx,Tahm Kench
+2019-07-12,LCK,Jayce,Sylas,Azir,Ezreal,Tahm Kench
+2019-07-12,LCK,Vladimir,Lee Sin,Corki,Varus,Braum
+2019-07-12,LCK,Gangplank,Sejuani,Lux,Kalista,Galio
+2019-07-12,LCK,Camille,Karthus,Morgana,Kai'Sa,Nautilus
+2019-07-12,LCK,Karma,Karthus,Irelia,Kai'Sa,Nautilus
+2019-07-12,LCK,Camille,Sejuani,Lux,Kalista,Volibear
+2019-07-11,LCK,Neeko,Skarner,Irelia,Kalista,Thresh
+2019-07-11,LCK,Renekton,Sylas,Akali,Ezreal,Tahm Kench
+2019-07-11,LCK,Camille,Sejuani,Neeko,Xayah,Yuumi
+2019-07-11,LCK,Jayce,Olaf,Azir,Lucian,Nautilus
+2019-07-11,LCK,Jayce,Sylas,Karma,Ezreal,Yuumi
+2019-07-11,LCK,Aatrox,Olaf,Akali,Varus,Nautilus
+2019-07-11,LCK,Renekton,Olaf,Akali,Ezreal,Yuumi
+2019-07-11,LCK,Camille,Lee Sin,LeBlanc,Yasuo,Sejuani
+2019-07-10,LCK,Vladimir,Jarvan IV,Azir,Kalista,Lux
+2019-07-10,LCK,Jayce,Lee Sin,Akali,Varus,Tahm Kench
+2019-07-10,LCK,Aatrox,Jarvan IV,LeBlanc,Sivir,Lux
+2019-07-10,LCK,Kennen,Olaf,Zoe,Kai'Sa,Galio
+2019-07-10,LCK,Irelia,Sejuani,Zoe,Kai'Sa,Lux
+2019-07-10,LCK,Akali,Trundle,Orianna,Sivir,Yuumi
+2019-07-10,LCK,Kennen,Rek'Sai,Karma,Lucian,Yuumi
+2019-07-10,LCK,Viktor,Lee Sin,Azir,Kalista,Nautilus
+2019-07-10,LCK,Jayce,Lee Sin,Azir,Xayah,Nautilus
+2019-07-10,LCK,Vladimir,Jarvan IV,Orianna,Kai'Sa,Taric
+2019-06-30,LCK,Jayce,Evelynn,Irelia,Caitlyn,Lux
+2019-06-30,LCK,Akali,Elise,Renekton,Varus,Yuumi
+2019-06-30,LCK,Kled,Xin Zhao,Twisted Fate,Sona,Tahm Kench
+2019-06-30,LCK,Aatrox,Sejuani,Irelia,Vladimir,Yuumi
+2019-06-30,LCK,Sion,Gragas,Yasuo,Sivir,Nautilus
+2019-06-30,LCK,Jayce,Karthus,Camille,Xayah,Rakan
+2019-06-30,LCK,Jayce,Karthus,Vladimir,Kai'Sa,Alistar
+2019-06-30,LCK,Yorick,Jarvan IV,Corki,Sivir,Nautilus
+2019-06-29,LCK,Renekton,Elise,Taliyah,Ezreal,Yuumi
+2019-06-29,LCK,Kennen,Nocturne,Zoe,Xayah,Rakan
+2019-06-29,LCK,Jayce,Jarvan IV,LeBlanc,Xayah,Rakan
+2019-06-29,LCK,Vladimir,Xin Zhao,Taliyah,Ezreal,Galio
+2019-06-29,LCK,Aatrox,Skarner,Zoe,Varus,Tahm Kench
+2019-06-29,LCK,Neeko,Rek'Sai,LeBlanc,Ezreal,Lux
+2019-06-29,LCK,Tahm Kench,Jax,Corki,Ezreal,Yuumi
+2019-06-29,LCK,Gangplank,Xin Zhao,Akali,Kalista,Nautilus
+2019-06-28,LCK,Renekton,Xin Zhao,Corki,Sona,Tahm Kench
+2019-06-28,LCK,Aatrox,Karthus,Azir,Jinx,Lux
+2019-06-28,LCK,Neeko,Xin Zhao,Corki,Varus,Tahm Kench
+2019-06-28,LCK,Pyke,Lee Sin,Azir,Lucian,Braum
+2019-06-28,LCK,Vladimir,Jarvan IV,Azir,Sivir,Nautilus
+2019-06-28,LCK,Neeko,Rek'Sai,Corki,Jinx,Tahm Kench
+2019-06-28,LCK,Akali,Rek'Sai,Azir,Sivir,Taric
+2019-06-28,LCK,Jayce,Jarvan IV,Vel'Koz,Kai'Sa,Nautilus
+2019-06-28,LCK,Gangplank,Jarvan IV,Azir,Kai'Sa,Nautilus
+2019-06-28,LCK,Camille,Karthus,Akali,Xayah,Rakan
+2019-06-27,LCK,Aatrox,Xin Zhao,Lulu,Kalista,Galio
+2019-06-27,LCK,Akali,Lee Sin,Neeko,Varus,Nautilus
+2019-06-27,LCK,Aatrox,Jarvan IV,Neeko,Varus,Tahm Kench
+2019-06-27,LCK,Jayce,Rek'Sai,Azir,Xayah,Lux
+2019-06-27,LCK,Jayce,Gragas,Azir,Sivir,Lux
+2019-06-27,LCK,Vladimir,Lee Sin,Corki,Ashe,Nautilus
+2019-06-27,LCK,Jayce,Jarvan IV,Zoe,Sona,Tahm Kench
+2019-06-27,LCK,Aatrox,Elise,Corki,Sivir,Nautilus
+2019-06-26,LCK,Aatrox,Xin Zhao,Neeko,Sona,Tahm Kench
+2019-06-26,LCK,Jayce,Trundle,Taliyah,Caitlyn,Lux
+2019-06-26,LCK,Aatrox,Kai'Sa,Lissandra,Sivir,Pyke
+2019-06-26,LCK,Neeko,Sejuani,Corki,Lucian,Lux
+2019-06-26,LCK,Aatrox,Jarvan IV,Corki,Varus,Tahm Kench
+2019-06-26,LCK,Gangplank,Lee Sin,Azir,Sivir,Braum
+2019-06-26,LCK,Gangplank,Rek'Sai,LeBlanc,Sona,Tahm Kench
+2019-06-26,LCK,Vladimir,Skarner,Azir,Xayah,Lux
+2019-06-23,LCK,Aatrox,Xin Zhao,Azir,Sona,Pyke
+2019-06-23,LCK,Jayce,Rek'Sai,Taliyah,Ezreal,Tahm Kench
+2019-06-23,LCK,Renekton,Sejuani,Taliyah,Kalista,Nautilus
+2019-06-23,LCK,Kennen,Kayn,Zoe,Sivir,Yuumi
+2019-06-23,LCK,Jayce,Lee Sin,LeBlanc,Xayah,Lux
+2019-06-23,LCK,Kennen,Olaf,Azir,Pyke,Yuumi
+2019-06-23,LCK,Gnar,Sejuani,Lissandra,Sivir,Yuumi
+2019-06-23,LCK,Aatrox,Hecarim,Sylas,Sona,Tahm Kench
+2019-06-23,LCK,Aatrox,Lee Sin,Azir,Lucian,Yuumi
+2019-06-23,LCK,Tahm Kench,Rek'Sai,LeBlanc,Xayah,Rakan
+2019-06-22,LCK,Jayce,Xin Zhao,Lulu,Sona,Tahm Kench
+2019-06-22,LCK,Aatrox,Elise,Irelia,Xayah,Rakan
+2019-06-22,LCK,Sion,Skarner,Azir,Kalista,Tahm Kench
+2019-06-22,LCK,Aatrox,Karthus,Akali,Lucian,Lux
+2019-06-22,LCK,Jayce,Olaf,Taliyah,Sivir,Yuumi
+2019-06-22,LCK,Camille,Rek'Sai,Neeko,Sona,Tahm Kench
+2019-06-22,LCK,Camille,Sejuani,Irelia,Varus,Lux
+2019-06-22,LCK,Jayce,Karthus,Aatrox,Xayah,Tahm Kench
+2019-06-21,LCK,Aatrox,Gragas,Neeko,Sivir,Lux
+2019-06-21,LCK,Camille,Karthus,Akali,Varus,Tahm Kench
+2019-06-21,LCK,Irelia,Lee Sin,Akali,Ezreal,Lux
+2019-06-21,LCK,Vladimir,Gragas,Jayce,Xayah,Rakan
+2019-06-21,LCK,Gragas,Aatrox,Azir,Ashe,Lux
+2019-06-21,LCK,Jayce,Rek'Sai,Corki,Sona,Tahm Kench
+2019-06-21,LCK,Jayce,Aatrox,Lissandra,Xayah,Rakan
+2019-06-21,LCK,Kennen,Lee Sin,Sylas,Varus,Nautilus
+2019-06-21,LCK,Rumble,Lee Sin,Azir,Varus,Nautilus
+2019-06-21,LCK,Neeko,Jarvan IV,LeBlanc,Sivir,Yuumi
+2019-06-21,LCK,Sejuani,Xin Zhao,Lucian,Sivir,Yuumi
+2019-06-21,LCK,Viktor,Kayn,Taliyah,Ezreal,Lux
+2019-06-20,LCK,Gangplank,Elise,Azir,Kalista,Nautilus
+2019-06-20,LCK,Vladimir,Lee Sin,LeBlanc,Ezreal,Lux
+2019-06-20,LCK,Kennen,Olaf,Zoe,Sivir,Lux
+2019-06-20,LCK,Aatrox,Karthus,Lucian,Xayah,Rakan
+2019-06-20,LCK,Gangplank,Skarner,Azir,Kalista,Tahm Kench
+2019-06-20,LCK,Aatrox,Xin Zhao,Zoe,Lucian,Pyke
+2019-06-20,LCK,Irelia,Sejuani,Azir,Ezreal,Lux
+2019-06-20,LCK,Aatrox,Olaf,Zoe,Pyke,Yuumi
+2019-06-20,LCK,Jayce,Xin Zhao,Akali,Ezreal,Yuumi
+2019-06-20,LCK,Poppy,Gragas,Aatrox,Sivir,Nautilus
+2019-06-19,LCK,Irelia,Evelynn,Jayce,Ezreal,Lux
+2019-06-19,LCK,Vladimir,Gragas,Yasuo,Xayah,Rakan
+2019-06-19,LCK,Aatrox,Rek'Sai,Azir,Sivir,Nautilus
+2019-06-19,LCK,Jayce,Jarvan IV,Zoe,Ezreal,Yuumi
+2019-06-19,LCK,Irelia,Lee Sin,Vladimir,Lucian,Braum
+2019-06-19,LCK,Aatrox,Gragas,Yasuo,Ashe,Tahm Kench
+2019-06-19,LCK,Aatrox,Xin Zhao,Lulu,Sona,Pyke
+2019-06-19,LCK,Fiora,Karthus,Jayce,Sivir,Tahm Kench
+2019-06-19,LCK,Karma,Lee Sin,Akali,Ezreal,Tahm Kench
+2019-06-19,LCK,Aatrox,Gragas,Azir,Kalista,Lux
+2019-06-16,LCK,Aatrox,Lee Sin,Lissandra,Sivir,Lux
+2019-06-16,LCK,Akali,Jarvan IV,Corki,Ezreal,Karma
+2019-06-16,LCK,Vladimir,Sejuani,Camille,Ezreal,Lux
+2019-06-16,LCK,Kennen,Olaf,Sylas,Xayah,Nautilus
+2019-06-16,LCK,Gangplank,Olaf,Lissandra,Ezreal,Yuumi
+2019-06-16,LCK,Kennen,Lee Sin,Akali,Xayah,Rakan
+2019-06-16,LCK,Sylas,Karthus,Aatrox,Kalista,Nautilus
+2019-06-16,LCK,Kennen,Olaf,Karma,Lucian,Yuumi
+2019-06-16,LCK,Kennen,Sejuani,Vladimir,Sona,Tahm Kench
+2019-06-16,LCK,Aatrox,Gragas,Yasuo,Xayah,Rakan
+2019-06-16,LCK,Irelia,Rek'Sai,Azir,Sivir,Nautilus
+2019-06-16,LCK,Aatrox,Olaf,Karma,Vayne,Yuumi
+2019-06-15,LCK,Jayce,Xin Zhao,Taliyah,Sona,Tahm Kench
+2019-06-15,LCK,Ryze,Elise,Camille,Sivir,Braum
+2019-06-15,LCK,Aatrox,Jarvan IV,Taliyah,Xayah,Rakan
+2019-06-15,LCK,Jayce,Jax,Ryze,Ezreal,Lux
+2019-06-15,LCK,Camille,Sejuani,Taliyah,Varus,Lux
+2019-06-15,LCK,Aatrox,Olaf,Sylas,Ezreal,Yuumi
+2019-06-15,LCK,Sylas,Urgot,Neeko,Sona,Nautilus
+2019-06-15,LCK,Ryze,Olaf,Taliyah,Ashe,Tahm Kench
+2019-06-15,LCK,Irelia,Sejuani,Jayce,Varus,Nautilus
+2019-06-15,LCK,Aatrox,Karthus,Neeko,Morgana,Pyke
+2019-06-14,LCK,Jayce,Sejuani,Ryze,Kalista,Thresh
+2019-06-14,LCK,Aatrox,Lee Sin,Sylas,Kai'Sa,Lux
+2019-06-14,LCK,Ornn,Sejuani,Yasuo,Sona,Tahm Kench
+2019-06-14,LCK,Jayce,Olaf,Zoe,Kai'Sa,Lux
+2019-06-14,LCK,Aatrox,Jarvan IV,Zoe,Ezreal,Nautilus
+2019-06-14,LCK,Kennen,Lee Sin,Sylas,Xayah,Rakan
+2019-06-14,LCK,Ryze,Jarvan IV,Akali,Sivir,Lux
+2019-06-14,LCK,Jayce,Olaf,Galio,Ashe,Yuumi
+2019-06-14,LCK,Aatrox,Rek'Sai,Akali,Kalista,Alistar
+2019-06-14,LCK,Jayce,Gragas,Ryze,Sivir,Nautilus
+2019-06-13,LCK,Neeko,Aatrox,Ryze,Ezreal,Tahm Kench
+2019-06-13,LCK,Kennen,Rek'Sai,Zoe,Xayah,Rakan
+2019-06-13,LCK,Aatrox,Gragas,Yasuo,Sivir,Lux
+2019-06-13,LCK,Ryze,Kha'Zix,Lissandra,Ezreal,Tahm Kench
+2019-06-13,LCK,Kled,Sejuani,Azir,Xayah,Rakan
+2019-06-13,LCK,Aatrox,Olaf,Ryze,Sivir,Lux
+2019-06-13,LCK,Aatrox,Elise,Renekton,Sivir,Yuumi
+2019-06-13,LCK,Kennen,Rek'Sai,Azir,Yasuo,Gragas
+2019-06-13,LCK,Gangplank,Trundle,Sylas,Xayah,Rakan
+2019-06-13,LCK,Vladimir,Olaf,Aatrox,Sivir,Lux
+2019-06-12,LCK,Aatrox,Lee Sin,Akali,Sona,Galio
+2019-06-12,LCK,Ryze,Elise,Jayce,Draven,Tahm Kench
+2019-06-12,LCK,Sylas,Xin Zhao,Zoe,Sivir,Nautilus
+2019-06-12,LCK,Jayce,Lee Sin,Akali,Lucian,Yuumi
+2019-06-12,LCK,Jayce,Olaf,Vladimir,Sona,Taric
+2019-06-12,LCK,Sylas,Lee Sin,Cassiopeia,Varus,Tahm Kench
+2019-06-12,LCK,Aatrox,Sejuani,Yasuo,Sivir,Tahm Kench
+2019-06-12,LCK,Fiora,Trundle,Sylas,Kai'Sa,Lux
+2019-06-12,LCK,Irelia,Skarner,Taliyah,Xayah,Thresh
+2019-06-12,LCK,Aatrox,Lee Sin,Corki,Ezreal,Lux
+2019-06-09,LCK,Aatrox,Gragas,Yasuo,Varus,Nautilus
+2019-06-09,LCK,Jayce,Elise,Akali,Kalista,Galio
+2019-06-09,LCK,Jayce,Elise,Sylas,Xayah,Rakan
+2019-06-09,LCK,Aatrox,Lee Sin,Taliyah,Kai'Sa,Galio
+2019-06-09,LCK,Aatrox,Xin Zhao,Sylas,Sona,Galio
+2019-06-09,LCK,Jax,Lee Sin,Ryze,Ezreal,Karma
+2019-06-09,LCK,Camille,Sejuani,Neeko,Sona,Galio
+2019-06-09,LCK,Irelia,Olaf,Aatrox,Vladimir,Shen
+2019-06-09,LCK,Jayce,Aatrox,Syndra,Varus,Tahm Kench
+2019-06-09,LCK,Camille,Sejuani,Ryze,Sivir,Taric
+2019-06-08,LCK,Aatrox,Olaf,Lissandra,Ezreal,Lux
+2019-06-08,LCK,Fiora,Sejuani,Camille,Sivir,Tahm Kench
+2019-08-31,LCK,Akali,Trundle,Azir,Xayah,Rakan
+2019-08-31,LCK,Jayce,Sejuani,Aatrox,Kai'Sa,Volibear
+2019-08-31,LCK,Aatrox,Sejuani,Akali,Lucian,Braum
+2019-08-31,LCK,Jayce,Elise,Renekton,Ezreal,Shen
+2019-08-31,LCK,Camille,Sejuani,Akali,Ezreal,Braum
+2019-08-31,LCK,Gangplank,Elise,Sylas,Ashe,Tahm Kench
+2019-08-31,LCK,Akali,Elise,Renekton,Ezreal,Rakan
+2019-08-31,LCK,Mordekaiser,Sejuani,Sylas,Xayah,Tahm Kench
+2019-08-25,LCK,Gangplank,Sylas,Corki,Varus,Tahm Kench
+2019-08-25,LCK,Renekton,Elise,Neeko,Kai'Sa,Pyke
+2019-08-25,LCK,Jayce,Sejuani,Karma,Xayah,Braum
+2019-08-25,LCK,Ryze,Sylas,Qiyana,Varus,Tahm Kench
+2019-08-25,LCK,Quinn,Sylas,LeBlanc,Lucian,Braum
+2019-08-25,LCK,Renekton,Taliyah,Qiyana,Kai'Sa,Rakan
+2019-08-23,LCK,Aatrox,Elise,Akali,Kai'Sa,Leona
+2019-08-23,LCK,Karma,Lee Sin,LeBlanc,Xayah,Rakan
+2019-08-23,LCK,Karma,Jarvan IV,Azir,Ezreal,Alistar
+2019-08-23,LCK,Aatrox,Elise,Kassadin,Xayah,Rakan
+2019-08-23,LCK,Aatrox,Jarvan IV,Taliyah,Draven,Morgana
+2019-08-23,LCK,Renekton,Sylas,Ekko,Xayah,Karma
+2019-08-21,LCK,Camille,Sejuani,Lissandra,Draven,Thresh
+2019-08-21,LCK,Jax,Sylas,Qiyana,Kai'Sa,Alistar
+2019-08-21,LCK,Kennen,Skarner,Neeko,Ezreal,Tahm Kench
+2019-08-21,LCK,Ryze,Sejuani,Yasuo,Draven,Thresh
+2019-08-21,LCK,Gangplank,Gragas,Qiyana,Ezreal,Alistar
+2019-08-21,LCK,Vladimir,Skarner,Renekton,Varus,Tahm Kench
+2019-09-07,LCK,Camille,Sejuani,Akali,Lucian,Shen
+2019-09-07,LCK,Kennen,Sylas,Aatrox,Kai'Sa,Gragas
+2019-09-07,LCK,Gangplank,Gragas,Yasuo,Vayne,Tahm Kench
+2019-09-07,LCK,Camille,Sejuani,Azir,Kai'Sa,Pyke
+2019-09-07,LCK,Aatrox,Gragas,Yasuo,Lucian,Braum
+2019-09-07,LCK,Camille,Elise,Renekton,Kai'Sa,Alistar
+2019-09-07,LCK,Kennen,Gragas,Yasuo,Lucian,Braum
+2019-09-07,LCK,Ryze,Sylas,Renekton,Kai'Sa,Alistar
+2019-09-07,LCK,Aatrox,Jarvan IV,LeBlanc,Lucian,Braum
+2019-09-07,LCK,Renekton,Gragas,Yasuo,Kai'Sa,Alistar
+2019-09-05,LCK,Sylas,Lee Sin,Renekton,Varus,Tahm Kench
+2019-09-05,LCK,Kennen,Jarvan IV,Jayce,Xayah,Rakan
+2019-09-05,LCK,Jayce,Olaf,Sylas,Kalista,Rakan
+2019-09-05,LCK,Irelia,Nidalee,Renekton,Xayah,Thresh
+2019-09-05,LCK,Renekton,Olaf,Ryze,Karma,Tahm Kench
+2019-09-05,LCK,Kled,Sejuani,Sylas,Xayah,Pyke
+2019-09-05,LCK,Jayce,Kha'Zix,Sylas,Xayah,Rakan
+2019-09-05,LCK,Karma,Olaf,LeBlanc,Ezreal,Tahm Kench
+2019-09-03,LCK,Aatrox,Jarvan IV,LeBlanc,Lucian,Braum
+2019-09-03,LCK,Kennen,Sylas,Jayce,Kai'Sa,Nautilus
+2019-09-03,LCK,Jayce,Gragas,Taliyah,Ezreal,Nautilus
+2019-09-03,LCK,Karma,Rek'Sai,LeBlanc,Kai'Sa,Shen
+2019-09-03,LCK,Karma,Lee Sin,Ryze,Draven,Thresh
+2019-09-03,LCK,Sylas,Gragas,Yasuo,Kai'Sa,Pyke
+2019-09-03,LCK,Jayce,Gragas,Ryze,Vayne,Braum
+2019-09-03,LCK,Irelia,Jax,Karma,Ezreal,Tahm Kench
+2019-03-31,LPL,Ryze,Rek'Sai,Jayce,Ezreal,Alistar
+2019-03-31,LPL,Yorick,Jarvan IV,LeBlanc,Caitlyn,Morgana
+2019-03-31,LPL,Kennen,Lee Sin,Lissandra,Kalista,Galio
+2019-03-31,LPL,Malphite,Jarvan IV,Karthus,Ashe,Braum
+2019-03-31,LPL,Yorick,Olaf,Lissandra,Kai'Sa,Alistar
+2019-03-31,LPL,Kennen,Evelynn,Jayce,Vayne,Galio
+2019-03-31,LPL,Jayce,Lee Sin,Lissandra,Ezreal,Braum
+2019-03-31,LPL,Malphite,Jarvan IV,Ryze,Kalista,Galio
+2019-03-31,LPL,Gangplank,Lee Sin,Lissandra,Vayne,Karma
+2019-03-31,LPL,Vladimir,Jarvan IV,Cassiopeia,Kalista,Braum
+2019-03-31,LPL,Sion,Rek'Sai,Cassiopeia,Kog'Maw,Braum
+2019-03-31,LPL,Irelia,Olaf,Lissandra,Twitch,Thresh
+2019-03-31,LPL,Poppy,Rek'Sai,Orianna,Caitlyn,Thresh
+2019-03-31,LPL,Gangplank,Nidalee,Jayce,Kai'Sa,Alistar
+2019-03-30,LPL,Jayce,Lee Sin,Lissandra,Vayne,Galio
+2019-03-30,LPL,Ornn,Skarner,Corki,Ezreal,Tahm Kench
+2019-03-30,LPL,Akali,Rek'Sai,Swain,Xayah,Rakan
+2019-03-30,LPL,Renekton,Lee Sin,Lissandra,Vayne,Braum
+2019-03-30,LPL,Kennen,Vi,LeBlanc,Kalista,Thresh
+2019-03-30,LPL,Akali,Xin Zhao,Ahri,Kog'Maw,Braum
+2019-03-30,LPL,Ryze,Jarvan IV,Morgana,Jinx,Braum
+2019-03-30,LPL,Gangplank,Zac,LeBlanc,Kog'Maw,Tahm Kench
+2019-03-30,LPL,Gangplank,Jarvan IV,Morgana,Jinx,Braum
+2019-03-30,LPL,Ryze,Kindred,LeBlanc,Ashe,Tahm Kench
+2019-03-30,LPL,Sion,Olaf,Zoe,Kai'Sa,Alistar
+2019-03-30,LPL,Gangplank,Jarvan IV,Taliyah,Kalista,Morgana
+2019-03-30,LPL,Jayce,Kindred,Galio,Jinx,Tahm Kench
+2019-03-30,LPL,Akali,Jarvan IV,Corki,Kog'Maw,Braum
+2019-03-30,LPL,Poppy,Sylas,Yasuo,Kog'Maw,Braum
+2019-03-30,LPL,Vladimir,Jarvan IV,Jayce,Viktor,Tahm Kench
+2019-03-29,LPL,Ryze,Jarvan IV,LeBlanc,Vayne,Galio
+2019-03-29,LPL,Renekton,Rek'Sai,Zoe,Kog'Maw,Tahm Kench
+2019-03-29,LPL,Jayce,Jarvan IV,Zoe,Ezreal,Gragas
+2019-03-29,LPL,Kennen,Nocturne,Lissandra,Kai'Sa,Tahm Kench
+2019-03-29,LPL,Renekton,Rek'Sai,Lissandra,Kai'Sa,Braum
+2019-03-29,LPL,Yorick,Elise,Sion,Yasuo,Alistar
+2019-03-29,LPL,Jayce,Olaf,Lissandra,Kalista,Alistar
+2019-03-29,LPL,Jarvan IV,Rek'Sai,Corki,Ezreal,Galio
+2019-03-27,LPL,Irelia,Taliyah,Sion,Varus,Galio
+2019-03-27,LPL,Yorick,Kindred,Vladimir,Vayne,Tahm Kench
+2019-03-27,LPL,Urgot,Taliyah,Sylas,Kalista,Galio
+2019-03-27,LPL,Sion,Evelynn,Riven,Ashe,Tahm Kench
+2019-03-27,LPL,Vladimir,Jarvan IV,Cassiopeia,Kai'Sa,Galio
+2019-03-27,LPL,Kennen,Rek'Sai,Zoe,Vayne,Tahm Kench
+2019-03-27,LPL,Sion,Jarvan IV,Sylas,Kai'Sa,Gragas
+2019-03-27,LPL,Poppy,Elise,Riven,Ashe,Tahm Kench
+2019-03-26,LPL,Gangplank,Jarvan IV,Corki,Vayne,Alistar
+2019-03-26,LPL,Kennen,Kindred,Lissandra,Kai'Sa,Galio
+2019-03-26,LPL,Kennen,Lee Sin,Sylas,Kog'Maw,Galio
+2019-03-26,LPL,Yorick,Jarvan IV,LeBlanc,Vayne,Braum
+2019-03-26,LPL,Kennen,Aatrox,Lissandra,Kog'Maw,Tahm Kench
+2019-03-26,LPL,Ryze,Olaf,Corki,Vayne,Thresh
+2019-03-26,LPL,Lissandra,Lee Sin,Sylas,Kai'Sa,Braum
+2019-03-26,LPL,Swain,Jarvan IV,Jayce,Vayne,Galio
+2019-03-26,LPL,Neeko,Jarvan IV,Syndra,Vayne,Braum
+2019-03-26,LPL,Sion,Aatrox,Ryze,Kalista,Galio
+2019-03-26,LPL,Gangplank,Jarvan IV,Zoe,Vayne,Alistar
+2019-03-26,LPL,Kennen,Vi,Ryze,Kalista,Galio
+2019-03-25,LPL,Sion,Lee Sin,Lissandra,Kai'Sa,Galio
+2019-03-25,LPL,Yorick,Jarvan IV,Zoe,Vayne,Morgana
+2019-03-25,LPL,Sion,Lee Sin,Corki,Kai'Sa,Galio
+2019-03-25,LPL,Kayle,Jarvan IV,Lissandra,Vayne,Tahm Kench
+2019-03-25,LPL,Vladimir,Jarvan IV,Syndra,Pyke,Alistar
+2019-03-25,LPL,Akali,Xin Zhao,Lissandra,Sivir,Thresh
+2019-03-25,LPL,Kennen,Rek'Sai,Galio,Jinx,Janna
+2019-03-25,LPL,Akali,Jarvan IV,Lissandra,Vayne,Thresh
+2019-03-25,LPL,Kayle,Jarvan IV,Sylas,Jinx,Tahm Kench
+2019-03-25,LPL,Karma,Rek'Sai,Lissandra,Kai'Sa,Braum
+2019-03-24,LPL,Kennen,Xin Zhao,Lissandra,Varus,Tahm Kench
+2019-03-24,LPL,Camille,Jarvan IV,LeBlanc,Kalista,Pyke
+2019-03-24,LPL,Renekton,Olaf,Sylas,Caitlyn,Nami
+2019-03-24,LPL,Sion,Jarvan IV,Vayne,Viktor,Tahm Kench
+2019-03-24,LPL,Sion,Nocturne,Lissandra,Vayne,Braum
+2019-03-24,LPL,Poppy,Olaf,LeBlanc,Varus,Morgana
+2019-03-24,LPL,Kennen,Jarvan IV,Lissandra,Caitlyn,Tahm Kench
+2019-03-24,LPL,Sion,Olaf,Vladimir,Xayah,Rakan
+2019-03-24,LPL,Yorick,Olaf,Lissandra,Vayne,Nautilus
+2019-03-24,LPL,Jax,Jarvan IV,Galio,Jinx,Thresh
+2019-03-24,LPL,Gangplank,Jarvan IV,Cassiopeia,Kalista,Galio
+2019-03-24,LPL,Sion,Aatrox,Viktor,Ashe,Tahm Kench
+2019-03-24,LPL,Kennen,Jarvan IV,Yasuo,Vayne,Braum
+2019-03-24,LPL,Jayce,Aatrox,Kayle,Taliyah,Galio
+2019-03-23,LPL,Kennen,Rek'Sai,Zoe,Ashe,Braum
+2019-03-23,LPL,Vladimir,Olaf,Galio,Kalista,Karma
+2019-03-23,LPL,Ryze,Rek'Sai,Syndra,Kai'Sa,Tahm Kench
+2019-03-23,LPL,Vladimir,Jarvan IV,Zoe,Kalista,Galio
+2019-03-23,LPL,Sylas,Olaf,Syndra,Kalista,Morgana
+2019-03-23,LPL,Fiora,Lee Sin,Ryze,Tristana,Galio
+2019-03-23,LPL,Yorick,Rek'Sai,Morgana,Lucian,Thresh
+2019-03-23,LPL,Fiora,Aatrox,LeBlanc,Neeko,Braum
+2019-03-23,LPL,Vladimir,Jarvan IV,Lissandra,Kalista,Thresh
+2019-03-23,LPL,Kennen,Aatrox,Zoe,Vayne,Galio
+2019-03-23,LPL,Irelia,Rek'Sai,Sylas,Caitlyn,Thresh
+2019-03-23,LPL,Poppy,Jarvan IV,Lissandra,Kai'Sa,Braum
+2019-03-23,LPL,Kennen,Rek'Sai,Syndra,Ezreal,Galio
+2019-03-23,LPL,Jarvan IV,Nocturne,Zoe,Jhin,Tahm Kench
+2019-03-23,LPL,Kennen,Rek'Sai,Sylas,Ashe,Tahm Kench
+2019-03-23,LPL,Gangplank,Lee Sin,Zoe,Lucian,Braum
+2019-03-22,LPL,Riven,Jarvan IV,Sylas,Vayne,Alistar
+2019-03-22,LPL,Sion,Lee Sin,Kassadin,Kai'Sa,Braum
+2019-03-22,LPL,Sion,Evelynn,Irelia,Vayne,Braum
+2019-03-22,LPL,Jayce,Jarvan IV,Akali,Kai'Sa,Galio
+2019-03-22,LPL,Kennen,Nocturne,Sylas,Vayne,Alistar
+2019-03-22,LPL,Akali,Jarvan IV,Irelia,Tristana,Galio
+2019-03-22,LPL,Sion,Lee Sin,Corki,Kalista,Galio
+2019-03-22,LPL,Vladimir,Nocturne,Viktor,Kai'Sa,Braum
+2019-03-22,LPL,Jayce,Lee Sin,LeBlanc,Jinx,Braum
+2019-03-22,LPL,Sylas,Kindred,Ryze,Xayah,Galio
+2019-03-22,LPL,Sion,Jarvan IV,Cassiopeia,Kai'Sa,Galio
+2019-03-22,LPL,Yorick,Lee Sin,Lissandra,Vayne,Braum
+2019-03-20,LPL,Yorick,Skarner,Syndra,Kalista,Gragas
+2019-03-20,LPL,Jax,Lee Sin,Ryze,Kai'Sa,Alistar
+2019-03-20,LPL,Vladimir,Zac,Irelia,Kai'Sa,Galio
+2019-03-20,LPL,Yorick,Kindred,Zoe,Kalista,Thresh
+2019-03-20,LPL,Vladimir,Rek'Sai,Jayce,Vayne,Braum
+2019-03-20,LPL,Poppy,Olaf,Galio,Neeko,Karma
+2019-03-20,LPL,Sion,Jarvan IV,Zoe,Vayne,Galio
+2019-03-20,LPL,Urgot,Karthus,Zed,Ezreal,Tahm Kench
+2019-03-20,LPL,Sion,Olaf,Zoe,Neeko,Alistar
+2019-03-20,LPL,Ornn,Evelynn,Jayce,Ezreal,Tahm Kench
+2019-03-20,LPL,Sion,Jarvan IV,LeBlanc,Neeko,Alistar
+2019-03-20,LPL,Swain,Lee Sin,Zoe,Kai'Sa,Tahm Kench
+2019-03-19,LPL,Kennen,Aatrox,Corki,Ashe,Tahm Kench
+2019-03-19,LPL,Vladimir,Jarvan IV,Neeko,Varus,Braum
+2019-03-19,LPL,Neeko,Rek'Sai,Galio,Kalista,Alistar
+2019-03-19,LPL,Jayce,Olaf,Vladimir,Lucian,Thresh
+2019-03-19,LPL,Yorick,Olaf,Ahri,Vayne,Braum
+2019-03-19,LPL,Irelia,Sejuani,Jayce,Viktor,Tahm Kench
+2019-03-19,LPL,Sion,Rek'Sai,Lissandra,Vayne,Galio
+2019-03-19,LPL,Aatrox,Jarvan IV,Syndra,Ezreal,Tahm Kench
+2019-03-19,LPL,Kennen,Jarvan IV,Lissandra,Lucian,Morgana
+2019-03-19,LPL,Sion,Rek'Sai,Corki,Kai'Sa,Galio
+2019-03-18,LPL,Yorick,Jarvan IV,Syndra,Vayne,Morgana
+2019-03-18,LPL,Irelia,Gragas,Kassadin,Kalista,Galio
+2019-03-18,LPL,Kennen,Jarvan IV,LeBlanc,Kai'Sa,Braum
+2019-03-18,LPL,Vladimir,Lee Sin,Galio,Vayne,Alistar
+2019-03-18,LPL,Viktor,Jarvan IV,Lissandra,Vayne,Alistar
+2019-03-18,LPL,Renekton,Gragas,Ryze,Kalista,Galio
+2019-03-18,LPL,Aatrox,Sejuani,LeBlanc,Neeko,Braum
+2019-03-18,LPL,Vladimir,Jarvan IV,Ryze,Ezreal,Alistar
+2019-03-18,LPL,Jayce,Rek'Sai,LeBlanc,Lucian,Braum
+2019-03-18,LPL,Sion,Jarvan IV,Syndra,Kalista,Alistar
+2019-03-18,LPL,Ryze,Rek'Sai,Corki,Neeko,Tahm Kench
+2019-03-18,LPL,Jayce,Jarvan IV,Lissandra,Ezreal,Alistar
+2019-03-17,LPL,Poppy,Lee Sin,Kassadin,Kalista,Thresh
+2019-03-17,LPL,Maokai,Nocturne,Corki,Varus,Tahm Kench
+2019-03-17,LPL,Sion,Lee Sin,Corki,Kai'Sa,Galio
+2019-03-17,LPL,Irelia,Jarvan IV,Vladimir,Kalista,Alistar
+2019-03-17,LPL,Irelia,Lee Sin,Cassiopeia,Kalista,Galio
+2019-03-17,LPL,Vladimir,Jarvan IV,Vel'Koz,Vayne,Alistar
+2019-03-17,LPL,Sion,Rek'Sai,Zoe,Neeko,Braum
+2019-03-17,LPL,Kennen,Zac,Yasuo,Lucian,Galio
+2019-03-17,LPL,Urgot,Lee Sin,Lissandra,Tristana,Alistar
+2019-03-17,LPL,Gangplank,Sejuani,Zoe,Kalista,Braum
+2019-03-17,LPL,Gangplank,Rek'Sai,LeBlanc,Neeko,Morgana
+2019-03-17,LPL,Poppy,Jarvan IV,Ryze,Lucian,Galio
+2019-03-17,LPL,Yorick,Rek'Sai,Lissandra,Kai'Sa,Braum
+2019-03-17,LPL,Jax,Kindred,Ryze,Vladimir,Alistar
+2019-03-17,LPL,Vladimir,Lee Sin,Lissandra,Neeko,Braum
+2019-03-17,LPL,Kennen,Xin Zhao,Corki,Lucian,Alistar
+2019-03-17,LPL,Kennen,Rek'Sai,Lissandra,Neeko,Galio
+2019-03-17,LPL,Sion,Kindred,Cassiopeia,Kalista,Alistar
+2019-03-16,LPL,Yorick,Jarvan IV,Taliyah,Ezreal,Alistar
+2019-03-16,LPL,Renekton,Elise,Yasuo,Kai'Sa,Lissandra
+2019-03-16,LPL,Vladimir,Nocturne,Lissandra,Lucian,Braum
+2019-03-16,LPL,Irelia,Jarvan IV,Galio,Ezreal,Alistar
+2019-03-16,LPL,Yorick,Olaf,Galio,Kalista,Thresh
+2019-03-16,LPL,Irelia,Jarvan IV,Lissandra,Lucian,Braum
+2019-03-16,LPL,Neeko,Jarvan IV,Lissandra,Kalista,Galio
+2019-03-16,LPL,Kennen,Rek'Sai,Irelia,Ezreal,Morgana
+2019-03-16,LPL,Gangplank,Rek'Sai,Lissandra,Kalista,Galio
+2019-03-16,LPL,Jax,Olaf,Twisted Fate,Neeko,Braum
+2019-03-16,LPL,Yorick,Rek'Sai,Corki,Ezreal,Tahm Kench
+2019-03-16,LPL,Aatrox,Jarvan IV,Syndra,Lucian,Galio
+2019-03-16,LPL,Poppy,Jarvan IV,Lissandra,Ashe,Tahm Kench
+2019-03-16,LPL,Kennen,Aatrox,Zoe,Kai'Sa,Alistar
+2019-03-15,LPL,Poppy,Kindred,Ryze,Neeko,Braum
+2019-03-15,LPL,Gangplank,Jarvan IV,LeBlanc,Lucian,Galio
+2019-03-15,LPL,Aatrox,Sejuani,LeBlanc,Vayne,Galio
+2019-03-15,LPL,Irelia,Nocturne,Syndra,Kalista,Braum
+2019-03-15,LPL,Gangplank,Nocturne,Galio,Ashe,Tahm Kench
+2019-03-15,LPL,Karma,Jarvan IV,Corki,Lucian,Alistar
+2019-03-15,LPL,Jayce,Xin Zhao,Lissandra,Vayne,Rakan
+2019-03-15,LPL,Poppy,Rek'Sai,Galio,Kalista,Braum
+2019-03-15,LPL,Poppy,Lee Sin,Corki,Kalista,Alistar
+2019-03-15,LPL,Viktor,Jarvan IV,Irelia,Ezreal,Galio
+2019-03-13,LPL,Poppy,Jarvan IV,Ryze,Kai'Sa,Galio
+2019-03-13,LPL,Kled,Elise,Irelia,Ezreal,Alistar
+2019-03-13,LPL,Poppy,Rek'Sai,Lissandra,Ezreal,Alistar
+2019-03-13,LPL,Kled,Jarvan IV,Ekko,Vayne,Morgana
+2019-03-13,LPL,Irelia,Nocturne,Lissandra,Lucian,Alistar
+2019-03-13,LPL,Vladimir,Skarner,Corki,Kalista,Galio
+2019-03-13,LPL,Jayce,Jarvan IV,LeBlanc,Ezreal,Gragas
+2019-03-13,LPL,Yorick,Lee Sin,Lissandra,Lucian,Alistar
+2019-03-13,LPL,Kennen,Kha'Zix,Zoe,Ashe,Tahm Kench
+2019-03-13,LPL,Irelia,Lee Sin,LeBlanc,Kalista,Braum
+2019-03-12,LPL,Viktor,Jarvan IV,Neeko,Lucian,Braum
+2019-03-12,LPL,Vladimir,Olaf,Corki,Ezreal,Galio
+2019-03-12,LPL,Gangplank,Aatrox,Zoe,Ashe,Tahm Kench
+2019-03-12,LPL,Renekton,Jarvan IV,Taliyah,Lucian,Braum
+2019-03-12,LPL,Sion,Aatrox,Lissandra,Vayne,Alistar
+2019-03-12,LPL,Riven,Nocturne,Corki,Ezreal,Tahm Kench
+2019-03-12,LPL,Yorick,Olaf,Syndra,Kalista,Braum
+2019-03-12,LPL,Kennen,Aatrox,Lissandra,Ashe,Tahm Kench
+2019-03-12,LPL,Poppy,Rek'Sai,Lulu,Ashe,Tahm Kench
+2019-03-12,LPL,Gangplank,Gragas,Yasuo,Kalista,Galio
+2019-03-12,LPL,Sion,Jax,Lissandra,Ezreal,Tahm Kench
+2019-03-12,LPL,Gangplank,Jarvan IV,LeBlanc,Jinx,Braum
+2019-03-11,LPL,Camille,Olaf,Zoe,Vayne,Galio
+2019-03-11,LPL,Riven,Rek'Sai,Lissandra,Kai'Sa,Tahm Kench
+2019-03-11,LPL,Irelia,Aatrox,Zoe,Vayne,Braum
+2019-03-11,LPL,Renekton,Sejuani,Jayce,Kai'Sa,Galio
+2019-03-11,LPL,Ryze,Karthus,Jayce,Lucian,Tahm Kench
+2019-03-11,LPL,Camille,Sejuani,Cassiopeia,Neeko,Galio
+2019-03-11,LPL,Gangplank,Nocturne,Zoe,Neeko,Galio
+2019-03-11,LPL,Kennen,Lee Sin,LeBlanc,Vayne,Alistar
+2019-03-11,LPL,Kennen,Skarner,Zoe,Neeko,Braum
+2019-03-11,LPL,Yorick,Nocturne,LeBlanc,Vayne,Galio
+2019-03-10,LPL,Vladimir,Gragas,Irelia,Kai'Sa,Braum
+2019-03-10,LPL,Kennen,Jarvan IV,Zoe,Vayne,Alistar
+2019-03-10,LPL,Aatrox,Lee Sin,Vladimir,Kai'Sa,Braum
+2019-03-10,LPL,Kennen,Jarvan IV,Zoe,Vayne,Alistar
+2019-03-10,LPL,Kennen,Jarvan IV,LeBlanc,Ezreal,Alistar
+2019-03-10,LPL,Vladimir,Kha'Zix,Lissandra,Kalista,Galio
+2019-03-10,LPL,Gangplank,Lee Sin,LeBlanc,Ashe,Tahm Kench
+2019-03-10,LPL,Vladimir,Olaf,Lissandra,Kalista,Galio
+2019-03-10,LPL,Jayce,Elise,Urgot,Lucian,Braum
+2019-03-10,LPL,Irelia,Gragas,Corki,Kalista,Galio
+2019-03-10,LPL,Vladimir,Aatrox,LeBlanc,Kalista,Galio
+2019-03-10,LPL,Yorick,Olaf,Karma,Lucian,Alistar
+2019-03-10,LPL,Gangplank,Rek'Sai,Ryze,Lucian,Thresh
+2019-03-10,LPL,Renekton,Jax,LeBlanc,Kai'Sa,Galio
+2019-03-09,LPL,Gangplank,Kindred,Zoe,Tristana,Braum
+2019-03-09,LPL,Ryze,Jarvan IV,Lissandra,Vayne,Alistar
+2019-03-09,LPL,Gangplank,Jarvan IV,LeBlanc,Tristana,Braum
+2019-03-09,LPL,Vladimir,Kindred,Zoe,Kai'Sa,Alistar
+2019-03-09,LPL,Poppy,Rek'Sai,Zoe,Kalista,Braum
+2019-03-09,LPL,Gangplank,Jarvan IV,Irelia,Corki,Galio
+2019-03-09,LPL,Jayce,Xin Zhao,Ryze,Lucian,Alistar
+2019-03-09,LPL,Sion,Jarvan IV,LeBlanc,Kalista,Braum
+2019-03-09,LPL,Irelia,Jarvan IV,Lissandra,Kalista,Alistar
+2019-03-09,LPL,Jax,Rek'Sai,Ryze,Lucian,Braum
+2019-03-09,LPL,Camille,Aatrox,Lissandra,Kalista,Alistar
+2019-03-09,LPL,Kled,Rek'Sai,Irelia,Kai'Sa,Thresh
+2019-03-08,LPL,Kennen,Rek'Sai,Lissandra,Ezreal,Tahm Kench
+2019-03-08,LPL,Yorick,Jarvan IV,Syndra,Kalista,Galio
+2019-03-08,LPL,Vladimir,Olaf,Syndra,Ezreal,Braum
+2019-03-08,LPL,Kennen,Jarvan IV,Viktor,Kai'Sa,Alistar
+2019-03-08,LPL,Vladimir,Gragas,Yasuo,Varus,Tahm Kench
+2019-03-08,LPL,Gangplank,Aatrox,Ryze,Sivir,Alistar
+2019-03-08,LPL,Vladimir,Aatrox,Lissandra,Kai'Sa,Gragas
+2019-03-08,LPL,Irelia,Jarvan IV,Ryze,Ezreal,Tahm Kench
+2019-03-06,LPL,Vladimir,Lee Sin,Lissandra,Vayne,Alistar
+2019-03-06,LPL,Urgot,Aatrox,Syndra,Kai'Sa,Thresh
+2019-03-06,LPL,Aatrox,Rek'Sai,LeBlanc,Ezreal,Gragas
+2019-03-06,LPL,Riven,Jarvan IV,Ryze,Lucian,Alistar
+2019-03-06,LPL,Gangplank,Lee Sin,Syndra,Kai'Sa,Alistar
+2019-03-06,LPL,Aatrox,Elise,Sion,Varus,Tahm Kench
+2019-03-06,LPL,Poppy,Kha'Zix,Lissandra,Vayne,Morgana
+2019-03-06,LPL,Gangplank,Lee Sin,Corki,Kai'Sa,Alistar
+2019-03-06,LPL,Poppy,Rek'Sai,Zoe,Kai'Sa,Galio
+2019-03-06,LPL,Vladimir,Lee Sin,Ryze,Varus,Tahm Kench
+2019-03-05,LPL,Kled,Sejuani,Vladimir,Lucian,Galio
+2019-03-05,LPL,Urgot,Jarvan IV,Lissandra,Kai'Sa,Alistar
+2019-03-05,LPL,Yorick,Jarvan IV,Akali,Varus,Galio
+2019-03-05,LPL,Urgot,Nocturne,LeBlanc,Kalista,Alistar
+2019-03-05,LPL,Aatrox,Jarvan IV,Lissandra,Lucian,Thresh
+2019-03-05,LPL,Urgot,Gragas,Vladimir,Varus,Tahm Kench
+2019-03-05,LPL,Sion,Kindred,Cassiopeia,Varus,Tahm Kench
+2019-03-05,LPL,Kennen,Riven,Akali,Lucian,Galio
+2019-03-05,LPL,Sion,Kindred,Cassiopeia,Varus,Tahm Kench
+2019-03-05,LPL,Urgot,Riven,Viktor,Lucian,Galio
+2019-03-04,LPL,Ryze,Sejuani,Jayce,Kai'Sa,Braum
+2019-03-04,LPL,Urgot,Jarvan IV,Lissandra,Sivir,Alistar
+2019-03-04,LPL,Aatrox,Lee Sin,Lissandra,Ezreal,Braum
+2019-03-04,LPL,Fiora,Jarvan IV,Corki,Kai'Sa,Alistar
+2019-03-04,LPL,Sion,Jarvan IV,Corki,Kai'Sa,Braum
+2019-03-04,LPL,Urgot,Lee Sin,Lissandra,Tristana,Alistar
+2019-03-04,LPL,Urgot,Jarvan IV,Ryze,Kalista,Galio
+2019-03-04,LPL,Kled,Nocturne,Akali,Ezreal,Tahm Kench
+2019-03-04,LPL,Jayce,Jarvan IV,LeBlanc,Ezreal,Tahm Kench
+2019-03-04,LPL,Urgot,Lee Sin,Ryze,Varus,Alistar
+2019-03-03,LPL,Gangplank,Jarvan IV,Ryze,Kai'Sa,Alistar
+2019-03-03,LPL,Renekton,Lee Sin,Syndra,Cassiopeia,Tahm Kench
+2019-03-03,LPL,Sion,Olaf,Lissandra,Kai'Sa,Alistar
+2019-03-03,LPL,Darius,Lee Sin,Ryze,Ezreal,Galio
+2019-03-03,LPL,Sion,Jarvan IV,Lissandra,Kai'Sa,Alistar
+2019-03-03,LPL,Aatrox,Kayn,Syndra,Ezreal,Galio
+2019-03-03,LPL,Urgot,Gragas,Syndra,Sivir,Alistar
+2019-03-03,LPL,Jax,Xin Zhao,Lissandra,Ezreal,Braum
+2019-03-03,LPL,Aatrox,Nocturne,Lissandra,Varus,Tahm Kench
+2019-03-03,LPL,Sion,Riven,Zoe,Ezreal,Galio
+2019-03-03,LPL,Aatrox,Jarvan IV,Zoe,Ezreal,Tahm Kench
+2019-03-03,LPL,Camille,Riven,Ryze,Kalista,Galio
+2019-03-03,LPL,Sion,Rek'Sai,Ryze,Lucian,Galio
+2019-03-03,LPL,Urgot,Skarner,Lissandra,Kai'Sa,Alistar
+2019-03-03,LPL,Vladimir,Camille,Zoe,Vayne,Galio
+2019-03-03,LPL,Yorick,Jarvan IV,Lissandra,Kai'Sa,Alistar
+2019-03-03,LPL,Aatrox,Xin Zhao,LeBlanc,Ezreal,Galio
+2019-03-03,LPL,Vladimir,Jarvan IV,Ryze,Sivir,Alistar
+2019-03-03,LPL,Vladimir,Jarvan IV,LeBlanc,Ezreal,Galio
+2019-03-03,LPL,Yorick,Lee Sin,Ryze,Vayne,Alistar
+2019-03-02,LPL,Poppy,Kindred,Lissandra,Ezreal,Tahm Kench
+2019-03-02,LPL,Urgot,Olaf,Sion,Kai'Sa,Thresh
+2019-03-02,LPL,Jayce,Nocturne,Lissandra,Cassiopeia,Alistar
+2019-03-02,LPL,Yorick,Olaf,Ryze,Lucian,Galio
+2019-03-02,LPL,Vladimir,Gragas,Urgot,Ashe,Braum
+2019-03-02,LPL,Yorick,Skarner,Akali,Varus,Tahm Kench
+2019-03-02,LPL,Sion,Jarvan IV,Viktor,Ezreal,Tahm Kench
+2019-03-02,LPL,Yorick,Olaf,LeBlanc,Varus,Galio
+2019-03-02,LPL,Kennen,Lee Sin,Lucian,Sivir,Galio
+2019-03-02,LPL,Ryze,Skarner,Akali,Varus,Tahm Kench
+2019-03-01,LPL,Sion,Lee Sin,Zoe,Vayne,Alistar
+2019-03-01,LPL,Jayce,Jarvan IV,Akali,Kai'Sa,Galio
+2019-03-01,LPL,Sion,Olaf,Viktor,Lucian,Thresh
+2019-03-01,LPL,Urgot,Jarvan IV,Jayce,Kai'Sa,Galio
+2019-03-01,LPL,Poppy,Olaf,Ryze,Ezreal,Alistar
+2019-03-01,LPL,Sion,Lee Sin,Lissandra,Kai'Sa,Braum
+2019-03-01,LPL,Poppy,Olaf,Syndra,Ezreal,Galio
+2019-03-01,LPL,Viktor,Camille,Lissandra,Kai'Sa,Braum
+2019-02-28,LPL,Riven,Gragas,Urgot,Lucian,Braum
+2019-02-28,LPL,Renekton,Jarvan IV,LeBlanc,Kai'Sa,Alistar
+2019-02-28,LPL,Yorick,Jarvan IV,Zoe,Kai'Sa,Galio
+2019-02-28,LPL,Jax,Gragas,Yasuo,Lucian,Thresh
+2019-02-28,LPL,Urgot,Camille,Ryze,Kai'Sa,Galio
+2019-02-28,LPL,Jayce,Aatrox,Syndra,Vayne,Alistar
+2019-02-27,LPL,Akali,Kha'Zix,Lissandra,Ezreal,Galio
+2019-02-27,LPL,Urgot,Olaf,Jayce,Kalista,Gragas
+2019-02-27,LPL,Sion,Aatrox,Syndra,Lucian,Braum
+2019-02-27,LPL,Urgot,Nidalee,Ryze,Kalista,Galio
+2019-02-26,LPL,Fiora,Nocturne,Urgot,Ezreal,Tahm Kench
+2019-02-26,LPL,Gangplank,Gragas,Renekton,Lucian,Soraka
+2019-02-26,LPL,Urgot,Jarvan IV,Cassiopeia,Kai'Sa,Gragas
+2019-02-26,LPL,Kennen,Rek'Sai,Jayce,Xayah,Galio
+2019-02-26,LPL,Vladimir,Aatrox,Lissandra,Lucian,Braum
+2019-02-26,LPL,Ryze,Jarvan IV,Cassiopeia,Kai'Sa,Alistar
+2019-02-26,LPL,Gangplank,Rek'Sai,Zoe,Varus,Tahm Kench
+2019-02-26,LPL,Aatrox,Jarvan IV,Syndra,Kalista,Thresh
+2019-02-26,LPL,Jayce,Olaf,LeBlanc,Kai'Sa,Alistar
+2019-02-26,LPL,Cassiopeia,Aatrox,Ryze,Xayah,Galio
+2019-02-25,LPL,Sion,Olaf,LeBlanc,Ezreal,Tahm Kench
+2019-02-25,LPL,Irelia,Lee Sin,Lissandra,Kalista,Gragas
+2019-02-25,LPL,Sion,Jarvan IV,Akali,Kalista,Pyke
+2019-02-25,LPL,Yorick,Olaf,LeBlanc,Ezreal,Galio
+2019-02-25,LPL,Renekton,Camille,Lissandra,Vayne,Thresh
+2019-02-25,LPL,Urgot,Olaf,Corki,Lucian,Galio
+2019-02-25,LPL,Renekton,Olaf,Akali,Lucian,Fiddlesticks
+2019-02-25,LPL,Urgot,Lee Sin,Vladimir,Varus,Tahm Kench
+2019-02-24,LPL,Vladimir,Olaf,LeBlanc,Ezreal,Pyke
+2019-02-24,LPL,Jayce,Jarvan IV,Lissandra,Kai'Sa,Tahm Kench
+2019-02-24,LPL,Jayce,Gragas,Urgot,Vayne,Galio
+2019-02-24,LPL,Vladimir,Jarvan IV,LeBlanc,Ezreal,Tahm Kench
+2019-02-24,LPL,Akali,Nocturne,Lissandra,Ezreal,Tahm Kench
+2019-02-24,LPL,Sion,Kindred,Ryze,Lucian,Braum
+2019-02-24,LPL,Vladimir,Kindred,Jayce,Kai'Sa,Galio
+2019-02-24,LPL,Sion,Olaf,Ryze,Sivir,Alistar
+2019-02-24,LPL,Sylas,Nocturne,Lissandra,Varus,Tahm Kench
+2019-02-24,LPL,Fiora,Skarner,Zoe,Sivir,Galio
+2019-02-24,LPL,Jayce,Jarvan IV,Corki,Kalista,Galio
+2019-02-24,LPL,Yorick,Xin Zhao,LeBlanc,Kai'Sa,Alistar
+2019-02-24,LPL,Renekton,Xin Zhao,Urgot,Cassiopeia,Tahm Kench
+2019-02-24,LPL,Yorick,Jarvan IV,Lissandra,Kalista,Galio
+2019-02-23,LPL,Jayce,Jarvan IV,LeBlanc,Ezreal,Galio
+2019-02-23,LPL,Urgot,Xin Zhao,Akali,Kalista,Alistar
+2019-02-23,LPL,Urgot,Nocturne,Ryze,Kai'Sa,Alistar
+2019-02-23,LPL,Sion,Lee Sin,LeBlanc,Xayah,Galio
+2019-02-23,LPL,Yorick,Xin Zhao,Lissandra,Kalista,Thresh
+2019-02-23,LPL,Urgot,Aatrox,Sylas,Ashe,Tahm Kench
+2019-02-23,LPL,Riven,Gragas,Urgot,Lucian,Galio
+2019-02-23,LPL,Sion,Camille,LeBlanc,Ezreal,Fiddlesticks
+2019-02-23,LPL,Akali,Camille,Sion,Lucian,Galio
+2019-02-23,LPL,Vladimir,Poppy,Syndra,Kai'Sa,Alistar
+2019-02-23,LPL,Kennen,Poppy,Lissandra,Varus,Galio
+2019-02-23,LPL,Sion,Zac,Syndra,Kai'Sa,Alistar
+2019-02-23,LPL,Kennen,Poppy,Zoe,Ashe,Tahm Kench
+2019-02-23,LPL,Vladimir,Jarvan IV,Viktor,Kalista,Thresh
+2019-02-22,LPL,Urgot,Lee Sin,Lulu,Kai'Sa,Thresh
+2019-02-22,LPL,Sion,Gragas,Zoe,Sivir,Galio
+2019-02-22,LPL,Yorick,Xin Zhao,Syndra,Kai'Sa,Thresh
+2019-02-22,LPL,Ryze,Skarner,Urgot,Sivir,Galio
+2019-02-22,LPL,Akali,Gragas,Jayce,Ezreal,Galio
+2019-02-22,LPL,Sion,Nidalee,Lissandra,Kai'Sa,Alistar
+2019-02-22,LPL,Sylas,Lee Sin,Lissandra,Kai'Sa,Braum
+2019-02-22,LPL,Fiora,Aatrox,Ryze,Kalista,Alistar
+2019-02-20,LPL,Urgot,Lee Sin,Vladimir,Lucian,Gragas
+2019-02-20,LPL,Sion,Aatrox,LeBlanc,Sivir,Braum
+2019-02-20,LPL,Sion,Olaf,Akali,Ezreal,Alistar
+2019-02-20,LPL,Urgot,Aatrox,Lissandra,Vayne,Braum
+2019-02-20,LPL,Sion,Kayn,Zoe,Ezreal,Galio
+2019-02-20,LPL,Jax,Lee Sin,Urgot,Cassiopeia,Tahm Kench
+2019-02-20,LPL,Yorick,Olaf,LeBlanc,Ezreal,Braum
+2019-02-20,LPL,Urgot,Camille,Lissandra,Kai'Sa,Rakan
+2019-02-20,LPL,Urgot,Olaf,Syndra,Ezreal,Tahm Kench
+2019-02-20,LPL,Vladimir,Jarvan IV,LeBlanc,Kai'Sa,Alistar
+2019-02-20,LPL,Urgot,Lee Sin,Zoe,Vayne,Braum
+2019-02-20,LPL,Sion,Gragas,Jayce,Ashe,Tahm Kench
+2019-02-19,LPL,Jax,Jarvan IV,Syndra,Ezreal,Tahm Kench
+2019-02-19,LPL,Urgot,Xin Zhao,Lissandra,Viktor,Soraka
+2019-02-19,LPL,Urgot,Olaf,Syndra,Lucian,Braum
+2019-02-19,LPL,Sion,Lee Sin,Lissandra,Kai'Sa,Alistar
+2019-04-21,LPL,Jayce,Rek'Sai,Syndra,Kai'Sa,Leona
+2019-04-21,LPL,Vladimir,Lee Sin,Ryze,Draven,Tahm Kench
+2019-04-21,LPL,Jayce,Sejuani,Ryze,Kai'Sa,Braum
+2019-04-21,LPL,Sion,Lee Sin,Syndra,Varus,Fiddlesticks
+2019-04-21,LPL,Ryze,Xin Zhao,Zoe,Xayah,Rakan
+2019-04-21,LPL,Ornn,Nocturne,Lissandra,Kai'Sa,Braum
+2019-04-17,LPL,Renekton,Sejuani,Sylas,Lucian,Braum
+2019-04-17,LPL,Hecarim,Lee Sin,Lissandra,Varus,Tahm Kench
+2019-04-17,LPL,Hecarim,Rek'Sai,LeBlanc,Varus,Braum
+2019-04-17,LPL,Sylas,Lee Sin,Corki,Lucian,Galio
+2019-04-17,LPL,Kennen,Urgot,Sylas,Ezreal,Braum
+2019-04-17,LPL,Akali,Rek'Sai,Renekton,Kai'Sa,Galio
+2019-04-17,LPL,Vladimir,Olaf,Sylas,Lucian,Braum
+2019-04-17,LPL,Irelia,Kindred,Lissandra,Kai'Sa,Galio
+2019-04-14,LPL,Jayce,Olaf,Zoe,Kalista,Braum
+2019-04-14,LPL,Vladimir,Rek'Sai,Syndra,Varus,Nautilus
+2019-04-14,LPL,Kennen,Urgot,Akali,Varus,Braum
+2019-04-14,LPL,Viktor,Rek'Sai,Cassiopeia,Kalista,Galio
+2019-04-14,LPL,Ryze,Lee Sin,Akali,Kog'Maw,Braum
+2019-04-14,LPL,Gangplank,Gragas,Jayce,Varus,Morgana
+2019-04-14,LPL,Jayce,Olaf,Corki,Kalista,Thresh
+2019-04-14,LPL,Ryze,Rek'Sai,LeBlanc,Kai'Sa,Galio
+2019-04-13,LPL,Vladimir,Jarvan IV,Cassiopeia,Kog'Maw,Braum
+2019-04-13,LPL,Gangplank,Elise,LeBlanc,Varus,Galio
+2019-04-13,LPL,Poppy,Nocturne,Ryze,Kog'Maw,Braum
+2019-04-13,LPL,Jayce,Rek'Sai,Malzahar,Varus,Bard
+2019-04-13,LPL,Kennen,Rek'Sai,Ryze,Varus,Braum
+2019-04-13,LPL,Yorick,Lee Sin,Zoe,Ashe,Galio
+2019-04-13,LPL,Sylas,Kindred,Syndra,Ashe,Braum
+2019-04-13,LPL,Renekton,Olaf,Ryze,Kalista,Galio
+2019-04-13,LPL,Kennen,Olaf,Morgana,Kalista,Braum
+2019-04-13,LPL,Ryze,Rek'Sai,Corki,Varus,Tahm Kench
+2019-04-07,LPL,Vladimir,Jarvan IV,Taliyah,Vayne,Braum
+2019-04-07,LPL,Sion,Lee Sin,Corki,Kai'Sa,Morgana
+2019-04-07,LPL,Swain,Kindred,Karma,Kai'Sa,Galio
+2019-04-07,LPL,Renekton,Jarvan IV,Orianna,Vayne,Braum
+2019-04-07,LPL,Vladimir,Gragas,Jayce,Varus,Morgana
+2019-04-07,LPL,Sion,Lee Sin,Lulu,Kai'Sa,Alistar
+2019-04-06,LPL,Ornn,Taliyah,Syndra,Vayne,Alistar
+2019-04-06,LPL,Kayle,Lee Sin,Zoe,Kai'Sa,Gragas
+2019-04-06,LPL,Swain,Rek'Sai,Lissandra,Vayne,Galio
+2019-04-06,LPL,Kennen,Lee Sin,Sion,Kai'Sa,Alistar
+2019-04-06,LPL,Hecarim,Lee Sin,Lissandra,Vayne,Galio
+2019-04-06,LPL,Jayce,Xin Zhao,Syndra,Kai'Sa,Alistar
+2019-04-06,LPL,Kennen,Lee Sin,Azir,Kai'Sa,Alistar
+2019-04-06,LPL,Hecarim,Olaf,Syndra,Xayah,Morgana
+2019-04-06,LPL,Ornn,Rek'Sai,Taliyah,Xayah,Rakan
+2019-04-06,LPL,Kennen,Lee Sin,Syndra,Kai'Sa,Leona
+2019-04-05,LPL,Swain,Rek'Sai,Jayce,Kai'Sa,Braum
+2019-04-05,LPL,Gnar,Olaf,LeBlanc,Sivir,Morgana
+2019-04-05,LPL,Sion,Nidalee,Jayce,Xayah,Rakan
+2019-04-05,LPL,Akali,Gragas,Irelia,Vayne,Alistar
+2019-04-05,LPL,Cassiopeia,Olaf,Lissandra,Kai'Sa,Galio
+2019-04-05,LPL,Kayle,Jarvan IV,Corki,Lucian,Braum
+2019-04-04,LPL,Yorick,Olaf,LeBlanc,Vayne,Braum
+2019-04-04,LPL,Gnar,Jarvan IV,Syndra,Kai'Sa,Fiddlesticks
+2019-04-04,LPL,Poppy,Olaf,Morgana,Kai'Sa,Thresh
+2019-04-04,LPL,Gangplank,Jarvan IV,LeBlanc,Vayne,Alistar
+2019-04-04,LPL,Yorick,Jarvan IV,Lissandra,Vayne,Braum
+2019-04-04,LPL,Vladimir,Skarner,Ryze,Kai'Sa,Rakan
+2019-04-04,LPL,Kennen,Nocturne,Galio,Kai'Sa,Rakan
+2019-04-04,LPL,Jayce,Rek'Sai,Lissandra,Vayne,Braum
+2019-08-18,LPL,Sylas,Aatrox,Nocturne,Lucian,Pyke
+2019-08-18,LPL,Camille,Elise,Renekton,Ezreal,Tahm Kench
+2019-08-18,LPL,Mordekaiser,Aatrox,Skarner,Irelia,Sejuani
+2019-08-18,LPL,Vladimir,Trundle,Zoe,Lucian,Yuumi
+2019-08-18,LPL,Sylas,Xin Zhao,Azir,Xayah,Rakan
+2019-08-18,LPL,Akali,Jarvan IV,Corki,Kai'Sa,Alistar
+2019-08-18,LPL,Aatrox,Gragas,Qiyana,Kai'Sa,Volibear
+2019-08-18,LPL,Jayce,Jarvan IV,Karma,Corki,Leona
+2019-08-18,LPL,Vladimir,Xin Zhao,Sylas,Ezreal,Yuumi
+2019-08-18,LPL,Mordekaiser,Rek'Sai,Zoe,Lucian,Alistar
+2019-08-18,LPL,Camille,Gragas,Qiyana,Lucian,Alistar
+2019-08-18,LPL,Fiora,Sejuani,Aatrox,Ezreal,Taric
+2019-08-18,LPL,Aatrox,Xin Zhao,Akali,Jhin,Tahm Kench
+2019-08-18,LPL,Corki,Rek'Sai,Sylas,Ezreal,Braum
+2019-08-17,LPL,Aatrox,Olaf,Karma,Kai'Sa,Morgana
+2019-08-17,LPL,Camille,Jarvan IV,Zoe,Lucian,Leona
+2019-08-17,LPL,Aatrox,Jarvan IV,Akali,Ashe,Tahm Kench
+2019-08-17,LPL,Camille,Lee Sin,Corki,Kai'Sa,Gragas
+2019-08-17,LPL,Gangplank,Lee Sin,Zoe,Lucian,Gragas
+2019-08-17,LPL,Vladimir,Sejuani,Karma,Xayah,Volibear
+2019-08-17,LPL,Kennen,Olaf,Azir,Xayah,Nautilus
+2019-08-17,LPL,Corki,Rek'Sai,Karma,Kai'Sa,Alistar
+2019-08-17,LPL,Gnar,Karthus,Corki,Ezreal,Braum
+2019-08-17,LPL,Akali,Sejuani,Qiyana,Sivir,Nautilus
+2019-08-17,LPL,Akali,Jarvan IV,Yasuo,Xayah,Nautilus
+2019-08-17,LPL,Aatrox,Sejuani,Irelia,Ezreal,Alistar
+2019-08-17,LPL,Kennen,Jarvan IV,Akali,Swain,Nautilus
+2019-08-17,LPL,Irelia,Sejuani,Corki,Ezreal,Braum
+2019-08-16,LPL,Gangplank,Sylas,Akali,Varus,Tahm Kench
+2019-08-16,LPL,Camille,Gragas,Jayce,Lucian,Pyke
+2019-08-16,LPL,Ryze,Jarvan IV,Irelia,Kai'Sa,Braum
+2019-08-16,LPL,Gangplank,Gragas,Yasuo,Xayah,Rakan
+2019-08-16,LPL,Irelia,Trundle,Corki,Xayah,Yuumi
+2019-08-16,LPL,Renekton,Elise,Pantheon,Kai'Sa,Sejuani
+2019-08-16,LPL,Irelia,Gragas,Ryze,Lucian,Yuumi
+2019-08-16,LPL,Aatrox,Poppy,Neeko,Xayah,Volibear
+2019-08-14,LPL,Gnar,Gragas,Azir,Xayah,Alistar
+2019-08-14,LPL,Vladimir,Olaf,Taliyah,Tristana,Nautilus
+2019-08-14,LPL,Camille,Sejuani,Azir,Xayah,Nautilus
+2019-08-14,LPL,Aatrox,Gragas,Jayce,Kai'Sa,Volibear
+2019-08-14,LPL,Aatrox,Sejuani,Sylas,Lucian,Nautilus
+2019-08-14,LPL,Gangplank,Jarvan IV,Akali,Kai'Sa,Leona
+2019-08-14,LPL,Aatrox,Jarvan IV,Sylas,Xayah,Rakan
+2019-08-14,LPL,Akali,Gragas,Qiyana,Ezreal,Leona
+2019-08-13,LPL,Akali,Olaf,Lissandra,Xayah,Karma
+2019-08-13,LPL,Gangplank,Karthus,Qiyana,Kai'Sa,Gragas
+2019-08-13,LPL,Kennen,Sylas,Lucian,Xayah,Rakan
+2019-08-13,LPL,Camille,Gragas,Jayce,Kai'Sa,Braum
+2019-08-13,LPL,Kennen,Sylas,Qiyana,Xayah,Yuumi
+2019-08-13,LPL,Irelia,Xin Zhao,Lissandra,Sivir,Bard
+2019-08-13,LPL,Jax,Karthus,Jayce,Varus,Tahm Kench
+2019-08-13,LPL,Aatrox,Sylas,Irelia,Lucian,Braum
+2019-08-13,LPL,Gangplank,Sylas,Akali,Varus,Tahm Kench
+2019-08-13,LPL,Tristana,Gragas,Qiyana,Kog'Maw,Braum
+2019-08-12,LPL,Irelia,Karthus,Aatrox,Kai'Sa,Alistar
+2019-08-12,LPL,Renekton,Sejuani,LeBlanc,Kalista,Volibear
+2019-08-12,LPL,Aatrox,Gragas,Zoe,Lucian,Yuumi
+2019-08-12,LPL,Renekton,Sejuani,Akali,Kai'Sa,Nautilus
+2019-08-12,LPL,Jayce,Gragas,Irelia,Kai'Sa,Morgana
+2019-08-12,LPL,Aatrox,Olaf,Lulu,Xayah,Yuumi
+2019-08-12,LPL,Akali,Trundle,Karma,Kai'Sa,Volibear
+2019-08-12,LPL,Jayce,Olaf,Lulu,Ezreal,Yuumi
+2019-08-11,LPL,Aatrox,Skarner,Akali,Kai'Sa,Volibear
+2019-08-11,LPL,Vladimir,Jarvan IV,Corki,Xayah,Nautilus
+2019-08-11,LPL,Vladimir,Lee Sin,Akali,Kai'Sa,Rakan
+2019-08-11,LPL,Aatrox,Jarvan IV,Corki,Ezreal,Leona
+2019-08-11,LPL,Aatrox,Trundle,Akali,Xayah,Rakan
+2019-08-11,LPL,Gangplank,Sejuani,Zoe,Kai'Sa,Alistar
+2019-08-11,LPL,Zoe,Jarvan IV,Kennen,Sivir,Yuumi
+2019-08-11,LPL,Gangplank,Elise,Pantheon,Kai'Sa,Nautilus
+2019-08-11,LPL,Camille,Jarvan IV,Rumble,Varus,Tahm Kench
+2019-08-11,LPL,Aatrox,Elise,Azir,Kai'Sa,Nautilus
+2019-08-10,LPL,Karma,Sejuani,Qiyana,Xayah,Rakan
+2019-08-10,LPL,Aatrox,Jarvan IV,Neeko,Kai'Sa,Nautilus
+2019-08-10,LPL,Renekton,Jarvan IV,Corki,Xayah,Nautilus
+2019-08-10,LPL,Gnar,Gragas,Akali,Kai'Sa,Alistar
+2019-08-10,LPL,Aatrox,Trundle,Corki,Ezreal,Braum
+2019-08-10,LPL,Kennen,Olaf,Akali,Ashe,Tahm Kench
+2019-08-10,LPL,Gnar,Sylas,Azir,Kai'Sa,Nautilus
+2019-08-10,LPL,Kennen,Gragas,Qiyana,Ezreal,Braum
+2019-08-10,LPL,Gnar,Sylas,Azir,Kai'Sa,Rakan
+2019-08-10,LPL,Aatrox,Olaf,LeBlanc,Ezreal,Nautilus
+2019-08-09,LPL,Fiora,Olaf,Ryze,Kai'Sa,Nautilus
+2019-08-09,LPL,Aatrox,Trundle,Syndra,Ezreal,Yuumi
+2019-08-09,LPL,Camille,Karthus,Corki,Ezreal,Braum
+2019-08-09,LPL,Fiora,Sylas,Irelia,Jinx,Tahm Kench
+2019-08-09,LPL,Sion,Xin Zhao,Karma,Caitlyn,Yuumi
+2019-08-09,LPL,Aatrox,Sylas,Azir,Varus,Braum
+2019-08-09,LPL,Kennen,Skarner,Jayce,Xayah,Rakan
+2019-08-09,LPL,Vladimir,Sylas,Zoe,Caitlyn,Tahm Kench
+2019-08-09,LPL,Jayce,Jarvan IV,Zoe,Varus,Tahm Kench
+2019-08-09,LPL,Ornn,Sylas,Taliyah,Xayah,Rakan
+2019-08-09,LPL,Camille,Jarvan IV,Rumble,Ashe,Tahm Kench
+2019-08-09,LPL,Aatrox,Trundle,Karma,Lucian,Rakan
+2019-08-07,LPL,Renekton,Taliyah,Corki,Lucian,Alistar
+2019-08-07,LPL,Irelia,Karthus,Qiyana,Ezreal,Yuumi
+2019-08-07,LPL,Corki,Jarvan IV,Irelia,Lucian,Volibear
+2019-08-07,LPL,Aatrox,Sylas,Tristana,Kai'Sa,Yuumi
+2019-08-07,LPL,Aatrox,Gragas,Jayce,Kai'Sa,Leona
+2019-08-07,LPL,Akali,Olaf,Karma,Sivir,Tahm Kench
+2019-08-07,LPL,Akali,Sylas,Tristana,Vayne,Alistar
+2019-08-07,LPL,Renekton,Gragas,Corki,Sivir,Yuumi
+2019-08-07,LPL,Vladimir,Sylas,Renekton,Kai'Sa,Rakan
+2019-08-07,LPL,Corki,Gragas,Qiyana,Xayah,Braum
+2019-08-07,LPL,Sylas,Jarvan IV,Lissandra,Kai'Sa,Braum
+2019-08-07,LPL,Vladimir,Gragas,Qiyana,Xayah,Tahm Kench
+2019-08-06,LPL,Aatrox,Olaf,Taliyah,Kai'Sa,Nautilus
+2019-08-06,LPL,Jax,Trundle,Neeko,Xayah,Rakan
+2019-08-06,LPL,Aatrox,Lee Sin,Corki,Xayah,Rakan
+2019-08-06,LPL,Akali,Jarvan IV,Sylas,Ezreal,Alistar
+2019-08-06,LPL,Akali,Olaf,Karma,Kai'Sa,Braum
+2019-08-06,LPL,Sylas,Gragas,Jayce,Varus,Tahm Kench
+2019-08-06,LPL,Aatrox,Sylas,Azir,Varus,Tahm Kench
+2019-08-06,LPL,Jax,Gragas,Irelia,Lucian,Braum
+2019-08-06,LPL,Aatrox,Jarvan IV,Neeko,Jinx,Tahm Kench
+2019-08-06,LPL,Kennen,Gragas,Irelia,Varus,Braum
+2019-08-05,LPL,Camille,Xin Zhao,Corki,Ezreal,Braum
+2019-08-05,LPL,Akali,Jarvan IV,Sylas,Lucian,Nautilus
+2019-08-05,LPL,Renekton,Gragas,Lucian,Xayah,Rakan
+2019-08-05,LPL,LeBlanc,Jarvan IV,Corki,Jhin,Tahm Kench
+2019-08-05,LPL,Aatrox,Jarvan IV,Zoe,Lucian,Pyke
+2019-08-05,LPL,Twisted Fate,Gragas,Neeko,Ezreal,Tahm Kench
+2019-08-05,LPL,Sylas,Jarvan IV,Neeko,Sivir,Nautilus
+2019-08-05,LPL,Vladimir,Olaf,Karma,Ezreal,Alistar
+2019-08-05,LPL,Karma,Xin Zhao,Zoe,Caitlyn,Lux
+2019-08-05,LPL,Aatrox,Gragas,Tristana,Ezreal,Tahm Kench
+2019-08-05,LPL,Corki,Lee Sin,Neeko,Ezreal,Tahm Kench
+2019-08-05,LPL,Karma,Jarvan IV,Zoe,Xayah,Nautilus
+2019-08-04,LPL,Gnar,Jarvan IV,Azir,Ezreal,Tahm Kench
+2019-08-04,LPL,Kennen,Olaf,Neeko,Vayne,Braum
+2019-08-04,LPL,Gangplank,Trundle,Corki,Ezreal,Tahm Kench
+2019-08-04,LPL,Lucian,Olaf,Neeko,Kai'Sa,Braum
+2019-08-04,LPL,Aatrox,Gragas,Corki,Xayah,Rakan
+2019-08-04,LPL,Neeko,Kindred,LeBlanc,Varus,Tahm Kench
+2019-08-04,LPL,Irelia,Skarner,Tristana,Vayne,Karma
+2019-08-04,LPL,Gangplank,Sejuani,Corki,Kai'Sa,Braum
+2019-08-04,LPL,Gangplank,Sejuani,Corki,Caitlyn,Tahm Kench
+2019-08-04,LPL,Irelia,Gragas,Tristana,Sivir,Braum
+2019-08-03,LPL,Renekton,Sejuani,Lulu,Sivir,Tahm Kench
+2019-08-03,LPL,Jax,Gragas,Zoe,Kai'Sa,Alistar
+2019-08-03,LPL,Vladimir,Jarvan IV,Rumble,Xayah,Nautilus
+2019-08-03,LPL,Gangplank,Kindred,Sylas,Kai'Sa,Volibear
+2019-08-03,LPL,Aatrox,Sejuani,Corki,Ezreal,Yuumi
+2019-08-03,LPL,Gangplank,Jarvan IV,Sylas,Kai'Sa,Nautilus
+2019-08-03,LPL,Sylas,Jarvan IV,Corki,Lucian,Alistar
+2019-08-03,LPL,Akali,Rek'Sai,Cassiopeia,Kai'Sa,Yuumi
+2019-08-03,LPL,Camille,Poppy,Corki,Xayah,Nautilus
+2019-08-03,LPL,Fiora,Rek'Sai,Aatrox,Sivir,Rakan
+2019-08-02,LPL,Camille,Poppy,Corki,Ezreal,Tahm Kench
+2019-08-02,LPL,Aatrox,Nocturne,Sylas,Kai'Sa,Rakan
+2019-08-02,LPL,Renekton,Sylas,LeBlanc,Kalista,Bard
+2019-08-02,LPL,Jax,Olaf,Corki,Ezreal,Tahm Kench
+2019-08-02,LPL,Karma,Jarvan IV,Zoe,Sivir,Rakan
+2019-08-02,LPL,Corki,Gragas,Gangplank,Jhin,Tahm Kench
+2019-08-02,LPL,Karma,Lee Sin,Qiyana,Ezreal,Braum
+2019-08-02,LPL,Akali,Jarvan IV,Corki,Sivir,Tahm Kench
+2019-07-31,LPL,Neeko,Gragas,Qiyana,Ezreal,Tahm Kench
+2019-07-31,LPL,Vladimir,Aatrox,Kled,Kai'Sa,Nautilus
+2019-07-31,LPL,Karma,Jarvan IV,Zoe,Ezreal,Braum
+2019-07-31,LPL,Corki,Gragas,Qiyana,Varus,Tahm Kench
+2019-07-31,LPL,Corki,Sylas,Irelia,Sivir,Braum
+2019-07-31,LPL,Vladimir,Gragas,Qiyana,Kai'Sa,Alistar
+2019-07-31,LPL,Irelia,Poppy,Corki,Ezreal,Braum
+2019-07-31,LPL,Vladimir,Gragas,Qiyana,Kai'Sa,Volibear
+2019-07-30,LPL,Corki,Jarvan IV,Azir,Ezreal,Braum
+2019-07-30,LPL,Akali,Lee Sin,Cassiopeia,Xayah,Rakan
+2019-07-30,LPL,Irelia,Lee Sin,Lulu,Sivir,Karma
+2019-07-30,LPL,Akali,Gragas,Azir,Ezreal,Braum
+2019-07-30,LPL,Poppy,Skarner,Tristana,Ezreal,Braum
+2019-07-30,LPL,Gangplank,Elise,Corki,Jinx,Tahm Kench
+2019-07-30,LPL,Sion,Sylas,Corki,Ezreal,Yuumi
+2019-07-30,LPL,Aatrox,Sejuani,Tristana,Sivir,Braum
+2019-07-29,LPL,Aatrox,Rek'Sai,Sylas,Karma,Rakan
+2019-07-29,LPL,Camille,Jarvan IV,Corki,Ezreal,Tahm Kench
+2019-07-29,LPL,Camille,Gragas,Zoe,Sivir,Tahm Kench
+2019-07-29,LPL,Aatrox,Karthus,Sylas,Ezreal,Lux
+2019-07-29,LPL,Corki,Lee Sin,Sylas,Kalista,Pantheon
+2019-07-29,LPL,Vladimir,Olaf,Zoe,Lucian,Yuumi
+2019-07-29,LPL,Yasuo,Sylas,Kennen,Xayah,Nautilus
+2019-07-29,LPL,Vladimir,Gragas,Irelia,Ezreal,Tahm Kench
+2019-07-28,LPL,Kennen,Gragas,Qiyana,Ezreal,Pyke
+2019-07-28,LPL,Sion,Elise,Corki,Sivir,Tahm Kench
+2019-07-28,LPL,Renekton,Olaf,Ryze,Ezreal,Braum
+2019-07-28,LPL,Gnar,Elise,Corki,Varus,Tahm Kench
+2019-07-28,LPL,Karma,Jarvan IV,Corki,Ezreal,Gragas
+2019-07-28,LPL,Rumble,Sejuani,Qiyana,Ashe,Tahm Kench
+2019-07-28,LPL,Renekton,Gragas,Yasuo,Xayah,Yuumi
+2019-07-28,LPL,Jax,Jarvan IV,Corki,Varus,Braum
+2019-07-28,LPL,Renekton,Olaf,Neeko,Ezreal,Nautilus
+2019-07-28,LPL,Akali,Trundle,Corki,Xayah,Rakan
+2019-07-28,LPL,Gangplank,Olaf,Corki,Ezreal,Braum
+2019-07-28,LPL,Irelia,Sejuani,Zoe,Varus,Tahm Kench
+2019-07-27,LPL,Renekton,Xin Zhao,Corki,Xayah,Volibear
+2019-07-27,LPL,Irelia,Gragas,Ryze,Ezreal,Nautilus
+2019-07-27,LPL,Vladimir,Sejuani,Irelia,Ashe,Tahm Kench
+2019-07-27,LPL,Jax,Gragas,Poppy,Lucian,Pyke
+2019-07-27,LPL,Karma,Lee Sin,Corki,Varus,Braum
+2019-07-27,LPL,Gangplank,Jarvan IV,Neeko,Ezreal,Tahm Kench
+2019-07-27,LPL,Vladimir,Gragas,Qiyana,Lucian,Yuumi
+2019-07-27,LPL,Akali,Karthus,Renekton,Kai'Sa,Alistar
+2019-07-26,LPL,Renekton,Jarvan IV,Corki,Kalista,Leona
+2019-07-26,LPL,Talon,Lee Sin,Azir,Lucian,Volibear
+2019-07-26,LPL,Aatrox,Lee Sin,Corki,Varus,Bard
+2019-07-26,LPL,Ryze,Olaf,Zed,Jinx,Tahm Kench
+2019-07-26,LPL,Aatrox,Sylas,Corki,Ezreal,Braum
+2019-07-26,LPL,Vladimir,Xin Zhao,Zoe,Varus,Tahm Kench
+2019-07-26,LPL,Renekton,Sejuani,Zoe,Varus,Tahm Kench
+2019-07-26,LPL,Poppy,Rek'Sai,Corki,Ezreal,Braum
+2019-07-24,LPL,Vladimir,Sylas,Qiyana,Lucian,Yuumi
+2019-07-24,LPL,Kennen,Lee Sin,Azir,Ezreal,Lux
+2019-07-24,LPL,Kennen,Lee Sin,Azir,Kalista,Lux
+2019-07-24,LPL,Corki,Olaf,Zoe,Lucian,Yuumi
+2019-07-24,LPL,Neeko,Gragas,Camille,Caitlyn,Lux
+2019-07-24,LPL,Renekton,Sylas,Corki,Varus,Tahm Kench
+2019-07-24,LPL,Vladimir,Jarvan IV,Ryze,Caitlyn,Lux
+2019-07-24,LPL,Neeko,Olaf,Viktor,Lucian,Pyke
+2019-07-23,LPL,Renekton,Sylas,Qiyana,Varus,Braum
+2019-07-23,LPL,Mordekaiser,Rek'Sai,Rumble,Ezreal,Tahm Kench
+2019-07-23,LPL,Mordekaiser,Olaf,Rumble,Varus,Braum
+2019-07-23,LPL,Kennen,Sejuani,Qiyana,Ashe,Tahm Kench
+2019-07-23,LPL,Camille,Olaf,Taliyah,Caitlyn,Lux
+2019-07-23,LPL,Kennen,Jarvan IV,Corki,Jinx,Tahm Kench
+2019-07-23,LPL,Mordekaiser,Xin Zhao,Azir,Sivir,Yuumi
+2019-07-23,LPL,Jax,Gragas,Corki,Caitlyn,Lux
+2019-07-23,LPL,Gangplank,Rek'Sai,Corki,Caitlyn,Lux
+2019-07-23,LPL,Kennen,Xin Zhao,Azir,Varus,Tahm Kench
+2019-07-22,LPL,Twisted Fate,Karthus,Neeko,Lucian,Lux
+2019-07-22,LPL,Viktor,Sylas,Corki,Ashe,Tahm Kench
+2019-07-22,LPL,Zoe,Olaf,Corki,Lucian,Yuumi
+2019-07-22,LPL,Kennen,Aatrox,Azir,Kalista,Volibear
+2019-07-22,LPL,Aatrox,Jarvan IV,Rumble,Ezreal,Yuumi
+2019-07-22,LPL,Aurelion Sol,Rek'Sai,Camille,Lucian,Pantheon
+2019-07-22,LPL,Mordekaiser,Sejuani,Irelia,Ezreal,Galio
+2019-07-22,LPL,Qiyana,Gragas,Aatrox,Kalista,Alistar
+2019-07-21,LPL,Vladimir,Jarvan IV,Taliyah,Varus,Tahm Kench
+2019-07-21,LPL,Gangplank,Olaf,Nautilus,Caitlyn,Lux
+2019-07-21,LPL,Mordekaiser,Sylas,Aatrox,Caitlyn,Lux
+2019-07-21,LPL,Kennen,Olaf,Corki,Varus,Tahm Kench
+2019-07-21,LPL,Renekton,Rek'Sai,Taliyah,Lucian,Yuumi
+2019-07-21,LPL,Gangplank,Sylas,Ryze,Caitlyn,Lux
+2019-07-21,LPL,Mordekaiser,Olaf,Azir,Kai'Sa,Nautilus
+2019-07-21,LPL,Jax,Sylas,Corki,Xayah,Rakan
+2019-07-21,LPL,Mordekaiser,Sylas,Varus,Kai'Sa,Leona
+2019-07-21,LPL,Fiora,Olaf,Azir,Jinx,Nautilus
+2019-07-21,LPL,Gangplank,Karthus,Azir,Ezreal,Pyke
+2019-07-21,LPL,Aatrox,Sylas,Corki,Kai'Sa,Rakan
+2019-07-20,LPL,Renekton,Sylas,Aatrox,Ezreal,Yuumi
+2019-07-20,LPL,Irelia,Gragas,Vladimir,Sivir,Sejuani
+2019-07-20,LPL,Mordekaiser,Olaf,Rumble,Sivir,Yuumi
+2019-07-20,LPL,Camille,Karthus,Azir,Ezreal,Alistar
+2019-07-20,LPL,Twisted Fate,Karthus,Kennen,Sivir,Lux
+2019-07-20,LPL,Aatrox,Taliyah,Yasuo,Tristana,Nautilus
+2019-07-20,LPL,Kennen,Jarvan IV,Ryze,Caitlyn,Lux
+2019-07-20,LPL,Aatrox,Elise,Qiyana,Sivir,Yuumi
+2019-07-19,LPL,Gangplank,Jarvan IV,Neeko,Lucian,Yuumi
+2019-07-19,LPL,Vladimir,Xin Zhao,Aatrox,Kai'Sa,Nautilus
+2019-07-19,LPL,Vladimir,Jarvan IV,Azir,Sivir,Yuumi
+2019-07-19,LPL,Sion,Sejuani,Zoe,Lucian,Lux
+2019-07-19,LPL,Renekton,Olaf,Akali,Ezreal,Lux
+2019-07-19,LPL,Sion,Xin Zhao,Azir,Kalista,Thresh
+2019-07-19,LPL,Mordekaiser,Xin Zhao,Azir,Ashe,Tahm Kench
+2019-07-19,LPL,Neeko,Jarvan IV,Xerath,Sivir,Braum
+2019-07-17,LPL,Aatrox,Lee Sin,Akali,Caitlyn,Lux
+2019-07-17,LPL,Irelia,Jarvan IV,Ryze,Ashe,Tahm Kench
+2019-07-17,LPL,Renekton,Jarvan IV,Irelia,Ezreal,Tahm Kench
+2019-07-17,LPL,Kennen,Sylas,Aatrox,Sivir,Bard
+2019-07-17,LPL,Mordekaiser,Kha'Zix,Taliyah,Vladimir,Yuumi
+2019-07-17,LPL,Jayce,Sylas,Azir,Kalista,Lux
+2019-07-17,LPL,Jayce,Nidalee,Neeko,Ezreal,Tahm Kench
+2019-07-17,LPL,Vladimir,Karthus,Irelia,Sivir,Rakan
+2019-07-16,LPL,Aatrox,Rek'Sai,Lulu,Kai'Sa,Yuumi
+2019-07-16,LPL,Sion,Sylas,Irelia,Kalista,Alistar
+2019-07-16,LPL,Vladimir,Jarvan IV,Azir,Xayah,Rakan
+2019-07-16,LPL,Sion,Olaf,Qiyana,Kai'Sa,Nautilus
+2019-07-16,LPL,Gangplank,Sylas,Azir,Caitlyn,Morgana
+2019-07-16,LPL,Aatrox,Karthus,Varus,Kai'Sa,Fiddlesticks
+2019-07-16,LPL,Sion,Olaf,Lulu,Kai'Sa,Yuumi
+2019-07-16,LPL,Aatrox,Sylas,Qiyana,Lucian,Nautilus
+2019-07-16,LPL,Gangplank,Sylas,Azir,Kai'Sa,Galio
+2019-07-16,LPL,Gnar,Karthus,Irelia,Xayah,Rakan
+2019-07-16,LPL,Gnar,Sylas,Azir,Ezreal,Tahm Kench
+2019-07-16,LPL,Aatrox,Karthus,Corki,Sivir,Volibear
+2019-07-15,LPL,Kennen,Lee Sin,Taliyah,Caitlyn,Tahm Kench
+2019-07-15,LPL,Irelia,Gragas,LeBlanc,Xayah,Rakan
+2019-07-15,LPL,Aatrox,Xin Zhao,Taliyah,Kog'Maw,Tahm Kench
+2019-07-15,LPL,Camille,Sylas,Irelia,Sivir,Braum
+2019-07-15,LPL,Kennen,Sylas,Qiyana,Lucian,Yuumi
+2019-07-15,LPL,Vladimir,Aatrox,Taliyah,Kalista,Pantheon
+2019-07-15,LPL,Zed,Aatrox,Ryze,Ashe,Lux
+2019-07-15,LPL,Renekton,Xin Zhao,Taliyah,Varus,Tahm Kench
+2019-07-15,LPL,Jayce,Rek'Sai,Taliyah,Caitlyn,Lux
+2019-07-15,LPL,Aatrox,Sylas,Corki,Ezreal,Tahm Kench
+2019-07-15,LPL,Syndra,Rek'Sai,Kennen,Caitlyn,Lux
+2019-07-15,LPL,Camille,Sylas,Corki,Ezreal,Tahm Kench
+2019-07-14,LPL,Renekton,Sylas,Azir,Ezreal,Tahm Kench
+2019-07-14,LPL,Camille,Sejuani,Irelia,Kai'Sa,Braum
+2019-07-14,LPL,Camille,Sylas,Zoe,Ezreal,Yuumi
+2019-07-14,LPL,Jayce,Xin Zhao,LeBlanc,Kalista,Lux
+2019-07-14,LPL,Mordekaiser,Rek'Sai,Taliyah,Caitlyn,Lux
+2019-07-14,LPL,Gangplank,Jarvan IV,LeBlanc,Lucian,Yuumi
+2019-07-14,LPL,Gangplank,Sejuani,Irelia,Viktor,Tahm Kench
+2019-07-14,LPL,Aatrox,Gragas,Jayce,Kalista,Nautilus
+2019-07-13,LPL,Gnar,Rek'Sai,Azir,Lucian,Yuumi
+2019-07-13,LPL,Kennen,Lee Sin,Camille,Kai'Sa,Lux
+2019-07-13,LPL,Sion,Karthus,Zoe,Sivir,Karma
+2019-07-13,LPL,Aatrox,Sejuani,Akali,Ashe,Tahm Kench
+2019-07-13,LPL,Karma,Aatrox,Jayce,Kai'Sa,Alistar
+2019-07-13,LPL,Camille,Sejuani,Azir,Sivir,Nautilus
+2019-07-13,LPL,Gangplank,Lee Sin,Ryze,Caitlyn,Lux
+2019-07-13,LPL,Vladimir,Xin Zhao,Syndra,Ashe,Tahm Kench
+2019-07-13,LPL,Mordekaiser,Rek'Sai,Nautilus,Varus,Tahm Kench
+2019-07-13,LPL,Camille,Xin Zhao,Taliyah,Caitlyn,Lux
+2019-07-12,LPL,Renekton,Taliyah,Pantheon,Kai'Sa,Tahm Kench
+2019-07-12,LPL,Sion,Sylas,Irelia,Lucian,Braum
+2019-07-12,LPL,Sion,Sylas,Jayce,Jinx,Tahm Kench
+2019-07-12,LPL,Renekton,Lee Sin,Zoe,Sivir,Fiddlesticks
+2019-07-12,LPL,Viktor,Olaf,Azir,Vayne,Tahm Kench
+2019-07-12,LPL,Mordekaiser,Karthus,Jayce,Ashe,Pyke
+2019-07-12,LPL,Fiora,Elise,Azir,Caitlyn,Lux
+2019-07-12,LPL,Mordekaiser,Lee Sin,Taliyah,Sivir,Nautilus
+2019-07-12,LPL,Aatrox,Nidalee,Azir,Kai'Sa,Alistar
+2019-07-12,LPL,Camille,Sylas,Qiyana,Xayah,Rakan
+2019-06-30,LPL,Jayce,Gragas,Syndra,Vayne,Lux
+2019-06-30,LPL,Renekton,Sejuani,Ryze,Kai'Sa,Nautilus
+2019-06-30,LPL,Hecarim,Xin Zhao,Karma,Xayah,Yuumi
+2019-06-30,LPL,Sylas,Lee Sin,Jayce,Sona,Tahm Kench
+2019-06-30,LPL,Renekton,Sejuani,Jayce,Kai'Sa,Lux
+2019-06-30,LPL,Ryze,Gragas,Camille,Ashe,Tahm Kench
+2019-06-30,LPL,Tahm Kench,Xin Zhao,Sylas,Kai'Sa,Alistar
+2019-06-30,LPL,Neeko,Skarner,Azir,Sivir,Lux
+2019-06-30,LPL,Kennen,Sejuani,Yasuo,Ashe,Tahm Kench
+2019-06-30,LPL,Irelia,Trundle,Vladimir,Xayah,Rakan
+2019-06-29,LPL,Renekton,Gragas,Karma,Kai'Sa,Galio
+2019-06-29,LPL,Gnar,Jarvan IV,Sylas,Xayah,Rakan
+2019-06-29,LPL,Renekton,Gragas,Sylas,Kai'Sa,Fiddlesticks
+2019-06-29,LPL,Ryze,Kindred,Karma,Sivir,Lux
+2019-06-29,LPL,Aatrox,Elise,Azir,Kalista,Nautilus
+2019-06-29,LPL,Kennen,Xin Zhao,Jayce,Ezreal,Yuumi
+2019-06-29,LPL,Ryze,Olaf,Corki,Lucian,Yuumi
+2019-06-29,LPL,Neeko,Jarvan IV,Kassadin,Xayah,Nautilus
+2019-06-29,LPL,Ryze,Sejuani,Jayce,Kai'Sa,Galio
+2019-06-29,LPL,Ornn,Aatrox,Neeko,Lucian,Braum
+2019-06-28,LPL,Aatrox,Gragas,Yasuo,Kai'Sa,Braum
+2019-06-28,LPL,Ryze,Sejuani,Irelia,Xayah,Rakan
+2019-06-28,LPL,Ryze,Rek'Sai,Karma,Sivir,Yuumi
+2019-06-28,LPL,Aatrox,Gragas,Irelia,Kai'Sa,Thresh
+2019-06-28,LPL,Gangplank,Olaf,Taliyah,Varus,Tahm Kench
+2019-06-28,LPL,Irelia,Trundle,Neeko,Kai'Sa,Lux
+2019-06-28,LPL,Gangplank,Olaf,Lissandra,Kai'Sa,Alistar
+2019-06-28,LPL,Akali,Gragas,Irelia,Xayah,Lux
+2019-06-28,LPL,Ryze,Sejuani,Irelia,Xayah,Lux
+2019-06-28,LPL,Renekton,Trundle,Neeko,Sivir,Tahm Kench
+2019-06-28,LPL,Renekton,Sejuani,Corki,Ashe,Tahm Kench
+2019-06-28,LPL,Neeko,Trundle,Azir,Xayah,Lux
+2019-06-26,LPL,Renekton,Elise,Ryze,Kai'Sa,Alistar
+2019-06-26,LPL,Sylas,Sejuani,Riven,Sivir,Nautilus
+2019-06-26,LPL,Sylas,Trundle,Irelia,Pyke,Morgana
+2019-06-26,LPL,Aatrox,Olaf,Nautilus,Lucian,Yuumi
+2019-06-26,LPL,Karma,Aatrox,Nautilus,Lucian,Pyke
+2019-06-26,LPL,Yasuo,Gragas,Ryze,Xayah,Morgana
+2019-06-26,LPL,Rumble,Jarvan IV,Neeko,Xayah,Rakan
+2019-06-26,LPL,Gangplank,Kindred,Azir,Sivir,Lux
+2019-06-26,LPL,Gangplank,Olaf,Azir,Kai'Sa,Nautilus
+2019-06-26,LPL,Ryze,Jarvan IV,Zoe,Sivir,Galio
+2019-06-26,LPL,Kennen,Trundle,Jayce,Sivir,Lux
+2019-06-26,LPL,Renekton,Olaf,Ryze,Varus,Tahm Kench
+2019-06-25,LPL,Rumble,Olaf,Renekton,Xayah,Alistar
+2019-06-25,LPL,Kennen,Jarvan IV,Irelia,Ezreal,Yuumi
+2019-06-25,LPL,Aatrox,Gragas,Yasuo,Kai'Sa,Alistar
+2019-06-25,LPL,Fiora,Sejuani,Irelia,Xayah,Yuumi
+2019-06-25,LPL,Sion,Aatrox,Zoe,Ezreal,Yuumi
+2019-06-25,LPL,Karma,Olaf,LeBlanc,Sivir,Lux
+2019-06-25,LPL,Karma,Olaf,Sylas,Xayah,Morgana
+2019-06-25,LPL,Neeko,Trundle,Azir,Kai'Sa,Nautilus
+2019-06-25,LPL,Karma,Sejuani,Yasuo,Kai'Sa,Alistar
+2019-06-25,LPL,Hecarim,Gragas,Sylas,Sivir,Yuumi
+2019-06-24,LPL,Renekton,Gragas,Sylas,Lucian,Yuumi
+2019-06-24,LPL,Neeko,Vi,Jayce,Xayah,Lux
+2019-06-24,LPL,Kennen,Xin Zhao,Sylas,Yuumi,Pyke
+2019-06-24,LPL,Neeko,Rek'Sai,Irelia,Xayah,Lux
+2019-06-24,LPL,Kennen,Camille,Irelia,Sona,Taric
+2019-06-24,LPL,Jayce,Aatrox,Sylas,Yuumi,Pyke
+2019-06-24,LPL,Gangplank,Jarvan IV,Sylas,Sona,Taric
+2019-06-24,LPL,Vladimir,Rek'Sai,Taliyah,Sivir,Yuumi
+2019-06-24,LPL,Kennen,Xin Zhao,Sylas,Sivir,Nautilus
+2019-06-24,LPL,Ryze,Jarvan IV,Lucian,Kai'Sa,Lux
+2019-06-23,LPL,Kennen,Rek'Sai,Sylas,Xayah,Lux
+2019-06-23,LPL,Karma,Elise,Aatrox,Sivir,Nautilus
+2019-06-23,LPL,Sion,Elise,Sylas,Lucian,Karma
+2019-06-23,LPL,Gangplank,Gragas,Renekton,Kai'Sa,Lux
+2019-06-23,LPL,Kennen,Rek'Sai,Corki,Sivir,Morgana
+2019-06-23,LPL,Sylas,Olaf,Ryze,Varus,Tahm Kench
+2019-06-23,LPL,Sylas,Lee Sin,Karma,Xayah,Yuumi
+2019-06-23,LPL,Aatrox,Olaf,Zoe,Sivir,Nautilus
+2019-06-22,LPL,Irelia,Gragas,Vladimir,Ezreal,Yuumi
+2019-06-22,LPL,Kennen,Kindred,Sylas,Sivir,Lux
+2019-06-22,LPL,Camille,Sejuani,Sylas,Kai'Sa,Karma
+2019-06-22,LPL,Vladimir,Gragas,Jayce,Sivir,Lux
+2019-06-22,LPL,Akali,Xin Zhao,Irelia,Sivir,Yuumi
+2019-06-22,LPL,Renekton,Gragas,Vladimir,Kalista,Lux
+2019-09-06,LPL,Aatrox,Jarvan IV,Neeko,Kai'Sa,Gragas
+2019-09-06,LPL,Mordekaiser,Elise,Qiyana,Lucian,Nautilus
+2019-09-06,LPL,Gangplank,Elise,Ryze,Kai'Sa,Alistar
+2019-09-06,LPL,Camille,Gragas,Corki,Quinn,Nautilus
+2019-09-06,LPL,Gnar,Gragas,Karma,Kai'Sa,Alistar
+2019-09-06,LPL,Aatrox,Elise,Zoe,Ezreal,Nautilus
+2019-09-06,LPL,Renekton,Elise,Corki,Kai'Sa,Morgana
+2019-09-06,LPL,Akali,Gragas,Yasuo,Lucian,Nautilus
+2019-09-04,LPL,Akali,Qiyana,Neeko,Kai'Sa,Nautilus
+2019-09-04,LPL,Corki,Skarner,Ryze,Xayah,Rakan
+2019-09-04,LPL,Camille,Sejuani,Corki,Ezreal,Tahm Kench
+2019-09-04,LPL,Jayce,Gragas,Kassadin,Xayah,Rakan
+2019-09-04,LPL,Gnar,Skarner,Corki,Ezreal,Tahm Kench
+2019-09-04,LPL,Vladimir,Jarvan IV,Ekko,Varus,Rakan
+2019-09-01,LPL,Gnar,Skarner,Neeko,Sivir,Yuumi
+2019-09-01,LPL,Aatrox,Elise,Qiyana,Kai'Sa,Alistar
+2019-09-01,LPL,Aatrox,Rek'Sai,Karma,Ezreal,Tahm Kench
+2019-09-01,LPL,Renekton,Elise,Corki,Kai'Sa,Pyke
+2019-09-01,LPL,Kennen,Jarvan IV,Zoe,Ezreal,Tahm Kench
+2019-09-01,LPL,Vladimir,Sejuani,Irelia,Xayah,Rakan
+2019-09-01,LPL,Renekton,Jarvan IV,Vladimir,Xayah,Rakan
+2019-09-01,LPL,Irelia,Sejuani,Corki,Ezreal,Tahm Kench
+2019-08-31,LPL,Akali,Kindred,Azir,Varus,Tahm Kench
+2019-08-31,LPL,Gangplank,Rek'Sai,Ryze,Kai'Sa,Nautilus
+2019-08-31,LPL,Kennen,Qiyana,Neeko,Ezreal,Tahm Kench
+2019-08-31,LPL,Mordekaiser,Sylas,Pantheon,Kai'Sa,Nautilus
+2019-08-31,LPL,Poppy,Sylas,Akali,Ezreal,Rakan
+2019-08-31,LPL,Gangplank,Elise,Qiyana,Varus,Tahm Kench
+2019-08-31,LPL,Akali,Qiyana,Neeko,Xayah,Rakan
+2019-08-31,LPL,Gangplank,Jarvan IV,Rumble,Varus,Tahm Kench
+2019-08-25,LPL,Aatrox,Jarvan IV,Zoe,Xayah,Morgana
+2019-08-25,LPL,Akali,Sejuani,Tristana,Kai'Sa,Volibear
+2019-08-25,LPL,Mordekaiser,Jarvan IV,Rumble,Xayah,Rakan
+2019-08-25,LPL,Akali,Rek'Sai,Corki,Kai'Sa,Alistar
+2019-08-25,LPL,Camille,Gragas,Tristana,Kai'Sa,Nautilus
+2019-08-25,LPL,Aatrox,Skarner,Karma,Ezreal,Morgana
+2019-08-25,LPL,Riven,Gragas,Tristana,Kai'Sa,Alistar
+2019-08-25,LPL,Aatrox,Skarner,Karma,Sivir,Morgana
+2019-08-24,LPL,Aatrox,Olaf,Karma,Xayah,Alistar
+2019-08-24,LPL,Rumble,Jarvan IV,Jayce,Kai'Sa,Leona
+2019-08-24,LPL,Renekton,Gragas,Sylas,Kai'Sa,Volibear
+2019-08-24,LPL,Aatrox,Jarvan IV,Corki,Xayah,Nautilus
+2019-08-24,LPL,Aatrox,Olaf,Karma,Sivir,Yuumi
+2019-08-24,LPL,Camille,Gragas,Azir,Xayah,Leona
+2019-08-24,LPL,Camille,Jarvan IV,Sylas,Xayah,Rakan
+2019-08-24,LPL,Aatrox,Sejuani,Azir,Kai'Sa,Leona
+2019-08-24,LPL,Poppy,Shyvana,Corki,Varus,Tahm Kench
+2019-08-24,LPL,Aatrox,Trundle,Azir,Ezreal,Braum
+2019-08-23,LPL,Karma,Gragas,Qiyana,Xayah,Volibear
+2019-08-23,LPL,Vladimir,Jarvan IV,Jayce,Kai'Sa,Alistar
+2019-08-23,LPL,Kennen,Karthus,Sylas,Varus,Tahm Kench
+2019-08-23,LPL,Vladimir,Gragas,Tristana,Kai'Sa,Braum
+2019-08-23,LPL,Aatrox,Skarner,Karma,Varus,Tahm Kench
+2019-08-23,LPL,Camille,Sejuani,Corki,Kai'Sa,Rakan
+2019-08-22,LPL,Camille,Gragas,Azir,Kai'Sa,Rakan
+2019-08-22,LPL,Akali,Sejuani,Aatrox,Xayah,Nautilus
+2019-08-22,LPL,Gangplank,Gragas,Azir,Kai'Sa,Rakan
+2019-08-22,LPL,Akali,Sejuani,Vladimir,Xayah,Nautilus
+2019-08-22,LPL,Renekton,Gragas,Jayce,Ezreal,Alistar
+2019-08-22,LPL,Akali,Jarvan IV,Aatrox,Xayah,Rakan
+2019-08-22,LPL,Gangplank,Gragas,Jayce,Kai'Sa,Leona
+2019-08-22,LPL,Akali,Skarner,Aatrox,Xayah,Rakan
+2019-09-08,LPL,Kennen,Jarvan IV,Corki,Ezreal,Alistar
+2019-09-08,LPL,Vladimir,Sejuani,Lucian,Xayah,Rakan
+2019-09-08,LPL,Aatrox,Elise,LeBlanc,Kai'Sa,Nautilus
+2019-09-08,LPL,Renekton,Jarvan IV,Zoe,Xayah,Rakan
+2019-09-08,LPL,Karma,Sejuani,Irelia,Kai'Sa,Rakan
+2019-09-08,LPL,Kennen,Elise,Qiyana,Ezreal,Braum
+2019-09-08,LPL,Aatrox,Rek'Sai,Taliyah,Kai'Sa,Nautilus
+2019-09-08,LPL,Kennen,Nocturne,Corki,Xayah,Rakan
+2019-09-08,LPL,Aatrox,Sejuani,Qiyana,Kai'Sa,Leona
+2019-09-08,LPL,Kennen,Olaf,Zoe,Lucian,Alistar
+2019-09-07,LPL,Akali,Jarvan IV,Corki,Kai'Sa,Nautilus
+2019-09-07,LPL,Aatrox,Elise,Jayce,Lucian,Leona
+2019-09-07,LPL,Aatrox,Olaf,Karma,Kai'Sa,Leona
+2019-09-07,LPL,Gnar,Sejuani,Irelia,Xayah,Alistar
+2019-09-07,LPL,Aatrox,Sejuani,Irelia,Ezreal,Tahm Kench
+2019-09-07,LPL,Gangplank,Olaf,Karma,Kai'Sa,Jarvan IV
+2019-09-07,LPL,Mordekaiser,Olaf,Karma,Lucian,Leona
+2019-09-07,LPL,Akali,Gragas,Jayce,Ezreal,Alistar
+2019-09-07,LPL,Gnar,Kindred,Karma,Kai'Sa,Fiddlesticks
+2019-09-07,LPL,Aatrox,Jarvan IV,Akali,Ezreal,Nautilus
+2019-03-31,LMS,Kennen,Lee Sin,Lissandra,Jinx,Tahm Kench
+2019-03-31,LMS,Akali,Jarvan IV,Taliyah,Kai'Sa,Galio
+2019-03-30,LMS,Yasuo,Gragas,Vladimir,Kai'Sa,Galio
+2019-03-30,LMS,Sion,Xin Zhao,Zoe,Ashe,Braum
+2019-03-30,LMS,Kennen,Olaf,Zoe,Ashe,Braum
+2019-03-30,LMS,Aatrox,Kindred,Morgana,Lucian,Alistar
+2019-03-30,LMS,Hecarim,Gragas,Sylas,Kog'Maw,Braum
+2019-03-30,LMS,Vladimir,Zac,Vayne,Ezreal,Tahm Kench
+2019-03-30,LMS,Kayle,Rek'Sai,Sylas,Neeko,Braum
+2019-03-30,LMS,Vladimir,Jarvan IV,Lissandra,Jinx,Thresh
+2019-03-29,LMS,Kennen,Kayn,Sylas,Lucian,Braum
+2019-03-29,LMS,Yorick,Jarvan IV,Lissandra,Ashe,Galio
+2019-03-29,LMS,Kennen,Lee Sin,Lissandra,Jinx,Tahm Kench
+2019-03-29,LMS,Vladimir,Jarvan IV,Galio,Kai'Sa,Braum
+2019-03-29,LMS,Akali,Jarvan IV,Morgana,Kai'Sa,Tahm Kench
+2019-03-29,LMS,Gangplank,Rek'Sai,LeBlanc,Lucian,Thresh
+2019-03-29,LMS,Jayce,Olaf,Lissandra,Kai'Sa,Alistar
+2019-03-29,LMS,Sion,Lee Sin,Vladimir,Tristana,Thresh
+2019-03-28,LMS,Kennen,Rek'Sai,Lissandra,Tristana,Alistar
+2019-03-28,LMS,Gangplank,Gragas,Galio,Kalista,Braum
+2019-03-28,LMS,Hecarim,Jarvan IV,Ryze,Kalista,Thresh
+2019-03-28,LMS,Sion,Xin Zhao,Cassiopeia,Kai'Sa,Galio
+2019-03-28,LMS,Yorick,Lee Sin,Lissandra,Jinx,Tahm Kench
+2019-03-28,LMS,Kennen,Jarvan IV,Sion,Lucian,Galio
+2019-03-28,LMS,Sion,Jarvan IV,Corki,Vayne,Morgana
+2019-03-28,LMS,Kayle,Olaf,Vel'Koz,Neeko,Galio
+2019-03-27,LMS,Kayle,Pantheon,Lissandra,Kai'Sa,Galio
+2019-03-27,LMS,Yorick,Lee Sin,LeBlanc,Neeko,Morgana
+2019-03-27,LMS,Lissandra,Rek'Sai,Fizz,Kai'Sa,Galio
+2019-03-27,LMS,Vladimir,Taliyah,Sion,Ashe,Tahm Kench
+2019-03-27,LMS,Jayce,Aatrox,Lissandra,Tristana,Alistar
+2019-03-27,LMS,Sion,Jarvan IV,Corki,Kai'Sa,Braum
+2019-03-27,LMS,Hecarim,Sejuani,Lissandra,Ashe,Tahm Kench
+2019-03-27,LMS,Vladimir,Jarvan IV,Galio,Kalista,Braum
+2019-03-27,LMS,Jayce,Gragas,Galio,Lucian,Braum
+2019-03-27,LMS,Sion,Jarvan IV,Lissandra,Jinx,Tahm Kench
+2019-03-23,LMS,Jayce,Rek'Sai,Galio,Tristana,Tahm Kench
+2019-03-23,LMS,Irelia,Sejuani,Vel'Koz,Lucian,Braum
+2019-03-23,LMS,Poppy,Gragas,Sylas,Kalista,Thresh
+2019-03-23,LMS,Yorick,Olaf,LeBlanc,Lucian,Braum
+2019-03-23,LMS,Sylas,Kayn,Lissandra,Ashe,Tahm Kench
+2019-03-23,LMS,Fiora,Olaf,Zoe,Lucian,Braum
+2019-03-23,LMS,Poppy,Nocturne,LeBlanc,Vayne,Galio
+2019-03-23,LMS,Jayce,Jarvan IV,Zoe,Tristana,Braum
+2019-03-23,LMS,Sion,Lee Sin,Lissandra,Vayne,Galio
+2019-03-23,LMS,Poppy,Jarvan IV,Cassiopeia,Tristana,Braum
+2019-03-23,LMS,Yorick,Nocturne,Lissandra,Ezreal,Galio
+2019-03-23,LMS,Renekton,Jarvan IV,Heimerdinger,Kai'Sa,Braum
+2019-03-22,LMS,Aatrox,Lee Sin,Sylas,Kalista,Galio
+2019-03-22,LMS,Kennen,Jarvan IV,Lissandra,Sivir,Braum
+2019-03-22,LMS,Kennen,Olaf,Sylas,Neeko,Tahm Kench
+2019-03-22,LMS,Yorick,Rek'Sai,Vladimir,Vayne,Alistar
+2019-03-22,LMS,Jayce,Karthus,Taliyah,Sivir,Galio
+2019-03-22,LMS,Sion,Kayn,Vel'Koz,Ezreal,Tahm Kench
+2019-03-22,LMS,Sylas,Jarvan IV,Lissandra,Tristana,Braum
+2019-03-22,LMS,Jayce,Rek'Sai,Corki,Kai'Sa,Alistar
+2019-03-21,LMS,Vladimir,Nocturne,Lissandra,Ashe,Tahm Kench
+2019-03-21,LMS,Kennen,Rek'Sai,Zoe,Lucian,Galio
+2019-03-21,LMS,Cho'Gath,Lee Sin,Lissandra,Vayne,Galio
+2019-03-21,LMS,Vladimir,Rek'Sai,Zoe,Tristana,Braum
+2019-03-21,LMS,Vladimir,Nocturne,Sylas,Vayne,Galio
+2019-03-21,LMS,Irelia,Rek'Sai,Zoe,Tristana,Braum
+2019-03-21,LMS,Jayce,Jarvan IV,Sylas,Ezreal,Alistar
+2019-03-21,LMS,Ryze,Rek'Sai,Lissandra,Ashe,Galio
+2019-03-21,LMS,Akali,Nocturne,Lissandra,Lucian,Galio
+2019-03-21,LMS,Aatrox,Rek'Sai,Ryze,Ashe,Tahm Kench
+2019-03-16,LMS,Gangplank,Jarvan IV,Vladimir,Ezreal,Galio
+2019-03-16,LMS,Camille,Skarner,Corki,Kai'Sa,Alistar
+2019-03-16,LMS,Poppy,Gragas,Yasuo,Tristana,Braum
+2019-03-16,LMS,Vladimir,Jarvan IV,Akali,Kai'Sa,Galio
+2019-03-16,LMS,Akali,Jarvan IV,Vladimir,Kai'Sa,Galio
+2019-03-16,LMS,Aatrox,Sejuani,Corki,Vayne,Braum
+2019-03-16,LMS,Yorick,Gragas,Yasuo,Tristana,Braum
+2019-03-16,LMS,Renekton,Sejuani,Fizz,Vayne,Galio
+2019-03-16,LMS,Vladimir,Rek'Sai,Lissandra,Tristana,Rakan
+2019-03-16,LMS,Karma,Jarvan IV,Lulu,Vayne,Braum
+2019-03-15,LMS,Gangplank,Lee Sin,Lissandra,Ashe,Tahm Kench
+2019-03-15,LMS,Riven,Zac,Vel'Koz,Lucian,Braum
+2019-03-15,LMS,Sion,Taliyah,Galio,Kalista,Alistar
+2019-03-15,LMS,Jayce,Olaf,Akali,Vayne,Braum
+2019-03-15,LMS,Aatrox,Jarvan IV,LeBlanc,Neeko,Thresh
+2019-03-15,LMS,Sion,Skarner,Zoe,Kai'Sa,Alistar
+2019-03-15,LMS,Aatrox,Jarvan IV,Zoe,Sivir,Braum
+2019-03-15,LMS,Fiora,Kindred,LeBlanc,Kai'Sa,Galio
+2019-03-15,LMS,Gangplank,Jarvan IV,Ryze,Neeko,Galio
+2019-03-15,LMS,Sion,Rek'Sai,LeBlanc,Kai'Sa,Tahm Kench
+2019-03-14,LMS,Sion,Rek'Sai,LeBlanc,Lucian,Braum
+2019-03-14,LMS,Yorick,Jarvan IV,Zoe,Ezreal,Tahm Kench
+2019-03-14,LMS,Vladimir,Rek'Sai,LeBlanc,Kalista,Galio
+2019-03-14,LMS,Aatrox,Kindred,Zoe,Ezreal,Tahm Kench
+2019-03-14,LMS,Kennen,Lee Sin,Jayce,Vayne,Braum
+2019-03-14,LMS,Cho'Gath,Olaf,Syndra,Kai'Sa,Alistar
+2019-03-14,LMS,Vladimir,Lee Sin,Lissandra,Kai'Sa,Nautilus
+2019-03-14,LMS,Yorick,Olaf,Syndra,Vayne,Galio
+2019-03-09,LMS,Aatrox,Rek'Sai,Viktor,Kai'Sa,Galio
+2019-03-09,LMS,Poppy,Jax,Ryze,Ashe,Tahm Kench
+2019-03-09,LMS,Aatrox,Jarvan IV,Lissandra,Vayne,Galio
+2019-03-09,LMS,Ryze,Olaf,Sion,Ezreal,Tahm Kench
+2019-03-09,LMS,Sion,Jarvan IV,Orianna,Kai'Sa,Galio
+2019-03-09,LMS,Yorick,Elise,Jayce,Lucian,Braum
+2019-03-09,LMS,Jayce,Karthus,Vladimir,Kai'Sa,Thresh
+2019-03-09,LMS,Yorick,Gragas,Yasuo,Ezreal,Tahm Kench
+2019-03-08,LMS,Yorick,Lee Sin,Zoe,Xayah,Braum
+2019-03-08,LMS,Jax,Sejuani,Syndra,Kalista,Galio
+2019-03-08,LMS,Ryze,Jarvan IV,Lissandra,Sivir,Galio
+2019-03-08,LMS,Ornn,Lee Sin,Zoe,Kai'Sa,Alistar
+2019-03-08,LMS,Yorick,Lee Sin,LeBlanc,Tristana,Braum
+2019-03-08,LMS,Urgot,Nocturne,Syndra,Kai'Sa,Alistar
+2019-03-08,LMS,Gangplank,Nocturne,Orianna,Kalista,Thresh
+2019-03-08,LMS,Sion,Nidalee,Fizz,Lucian,Braum
+2019-03-08,LMS,Aatrox,Lee Sin,Zoe,Kai'Sa,Galio
+2019-03-08,LMS,Urgot,Nidalee,Ryze,Ezreal,Alistar
+2019-03-07,LMS,Yorick,Kindred,Galio,Ezreal,Tahm Kench
+2019-03-07,LMS,Fiora,Sejuani,Sylas,Lucian,Braum
+2019-03-07,LMS,Ryze,Olaf,Lissandra,Kai'Sa,Galio
+2019-03-07,LMS,Jayce,Elise,Sylas,Sivir,Alistar
+2019-03-07,LMS,Vladimir,Jarvan IV,Ryze,Ezreal,Tahm Kench
+2019-03-07,LMS,Sion,Rek'Sai,Syndra,Kai'Sa,Braum
+2019-03-07,LMS,Jax,Sejuani,Lissandra,Lucian,Braum
+2019-03-07,LMS,Aatrox,Jarvan IV,Zoe,Kai'Sa,Alistar
+2019-03-07,LMS,Aatrox,Jarvan IV,Lissandra,Kai'Sa,Braum
+2019-03-07,LMS,Riven,Lee Sin,Sylas,Lucian,Alistar
+2019-03-07,LMS,Ryze,Lee Sin,Zoe,Varus,Tahm Kench
+2019-03-07,LMS,Aatrox,Rek'Sai,Sylas,Ashe,Galio
+2019-03-02,LMS,Yorick,Lee Sin,LeBlanc,Xayah,Galio
+2019-03-02,LMS,Urgot,Aatrox,Syndra,Kai'Sa,Tahm Kench
+2019-03-02,LMS,Sion,Lee Sin,Syndra,Vayne,Galio
+2019-03-02,LMS,Urgot,Aatrox,Cassiopeia,Ezreal,Braum
+2019-03-02,LMS,Sylas,Olaf,LeBlanc,Ezreal,Tahm Kench
+2019-03-02,LMS,Jayce,Jarvan IV,Lissandra,Sivir,Galio
+2019-03-02,LMS,Aatrox,Gragas,LeBlanc,Lucian,Braum
+2019-03-02,LMS,Sion,Lee Sin,Heimerdinger,Ashe,Tahm Kench
+2019-03-01,LMS,Jayce,Karthus,Zoe,Ezreal,Tahm Kench
+2019-03-01,LMS,Urgot,Xin Zhao,Heimerdinger,Kai'Sa,Galio
+2019-03-01,LMS,Sion,Jarvan IV,Lissandra,Kalista,Alistar
+2019-03-01,LMS,Yorick,Aatrox,Jayce,Kai'Sa,Galio
+2019-03-01,LMS,Aatrox,Xin Zhao,Lissandra,Kalista,Thresh
+2019-03-01,LMS,Urgot,Lee Sin,Sylas,Ezreal,Tahm Kench
+2019-03-01,LMS,Urgot,Jarvan IV,Lissandra,Kalista,Thresh
+2019-03-01,LMS,Renekton,Lee Sin,Sylas,Ezreal,Braum
+2019-02-28,LMS,Urgot,Rek'Sai,Vladimir,Lucian,Braum
+2019-02-28,LMS,Sion,Jarvan IV,Galio,Ezreal,Tahm Kench
+2019-02-28,LMS,Jayce,Kindred,Zoe,Lucian,Braum
+2019-02-28,LMS,Urgot,Aatrox,Cassiopeia,Ezreal,Tahm Kench
+2019-02-28,LMS,Jayce,Jarvan IV,Cassiopeia,Ezreal,Braum
+2019-02-28,LMS,Urgot,Lee Sin,Heimerdinger,Ashe,Tahm Kench
+2019-02-28,LMS,Volibear,Nocturne,Sylas,Lucian,Galio
+2019-02-28,LMS,Urgot,Olaf,Lissandra,Ashe,Tahm Kench
+2019-02-28,LMS,Urgot,Jarvan IV,Lissandra,Ashe,Braum
+2019-02-28,LMS,Yorick,Aatrox,LeBlanc,Ezreal,Tahm Kench
+2019-02-23,LMS,Vladimir,Jarvan IV,Zoe,Ezreal,Tahm Kench
+2019-02-23,LMS,Urgot,Zac,Syndra,Kai'Sa,Alistar
+2019-02-23,LMS,Urgot,Sejuani,LeBlanc,Kai'Sa,Alistar
+2019-02-23,LMS,Sylas,Olaf,Zoe,Ezreal,Tahm Kench
+2019-02-23,LMS,Vladimir,Olaf,Zoe,Ezreal,Thresh
+2019-02-23,LMS,Sion,Lee Sin,Lissandra,Kai'Sa,Alistar
+2019-02-23,LMS,Ryze,Aatrox,Lissandra,Kai'Sa,Braum
+2019-02-23,LMS,Urgot,Olaf,Zoe,Xayah,Tahm Kench
+2019-02-23,LMS,Yorick,Aatrox,Vladimir,Ezreal,Braum
+2019-02-23,LMS,Urgot,Lee Sin,Lissandra,Kai'Sa,Thresh
+2019-02-23,LMS,Sion,Aatrox,Galio,Sivir,Tahm Kench
+2019-02-23,LMS,Urgot,Gragas,LeBlanc,Kalista,Thresh
+2019-02-22,LMS,Urgot,Olaf,Malzahar,Kai'Sa,Alistar
+2019-02-22,LMS,Aatrox,Lee Sin,Lissandra,Vayne,Galio
+2019-02-22,LMS,Sylas,Lee Sin,Syndra,Lucian,Galio
+2019-02-22,LMS,Urgot,Gragas,Lissandra,Kalista,Braum
+2019-02-22,LMS,Sion,Olaf,Cassiopeia,Yasuo,Gragas
+2019-02-22,LMS,Sylas,Jarvan IV,Jayce,Ezreal,Galio
+2019-02-22,LMS,Urgot,Xin Zhao,Corki,Kalista,Thresh
+2019-02-22,LMS,Vladimir,Jarvan IV,Lissandra,Ezreal,Tahm Kench
+2019-02-22,LMS,Sylas,Xin Zhao,Zoe,Lucian,Galio
+2019-02-22,LMS,Aatrox,Nocturne,Lissandra,Kalista,Thresh
+2019-02-21,LMS,Urgot,Gragas,Cassiopeia,Lucian,Galio
+2019-02-21,LMS,Vladimir,Taliyah,Jayce,Kai'Sa,Alistar
+2019-02-21,LMS,Urgot,Xin Zhao,Heimerdinger,Kalista,Thresh
+2019-02-21,LMS,Jayce,Lee Sin,Zoe,Cassiopeia,Alistar
+2019-02-21,LMS,Volibear,Sejuani,Yasuo,Kai'Sa,Galio
+2019-02-21,LMS,Urgot,Xin Zhao,Vladimir,Lucian,Braum
+2019-02-21,LMS,Sion,Olaf,Heimerdinger,Lucian,Braum
+2019-02-21,LMS,Aatrox,Kindred,Lissandra,Ezreal,Tahm Kench
+2019-02-21,LMS,Urgot,Zac,Lissandra,Ezreal,Tahm Kench
+2019-02-21,LMS,Sion,Lee Sin,Syndra,Vayne,Braum
+2019-02-21,LMS,Urgot,Kindred,Lulu,Sivir,Alistar
+2019-02-21,LMS,Yorick,Sejuani,Viktor,Ezreal,Tahm Kench
+2019-02-16,LMS,Jayce,Karthus,Urgot,Viktor,Tahm Kench
+2019-02-16,LMS,Sylas,Taliyah,Zoe,Ezreal,Alistar
+2019-02-16,LMS,Kennen,Nocturne,Lissandra,Ezreal,Braum
+2019-02-16,LMS,Yorick,Lee Sin,Sylas,Kai'Sa,Alistar
+2019-02-16,LMS,Aatrox,Camille,Syndra,Lucian,Shen
+2019-02-16,LMS,Sion,Lee Sin,Fizz,Karthus,Alistar
+2019-02-16,LMS,Sion,Lee Sin,Syndra,Lucian,Braum
+2019-02-16,LMS,Urgot,Xin Zhao,Akali,Cassiopeia,Alistar
+2019-02-15,LMS,Urgot,Lee Sin,Syndra,Lucian,Gragas
+2019-02-15,LMS,Sion,Xin Zhao,LeBlanc,Kai'Sa,Alistar
+2019-02-15,LMS,Jayce,Kindred,Lulu,Kai'Sa,Alistar
+2019-02-15,LMS,Yorick,Lee Sin,Akali,Ezreal,Tahm Kench
+2019-02-15,LMS,Sylas,Zac,Sion,Xayah,Rakan
+2019-02-15,LMS,Urgot,Aatrox,Lissandra,Kai'Sa,Braum
+2019-02-15,LMS,Urgot,Lee Sin,Galio,Sivir,Tahm Kench
+2019-02-15,LMS,Yorick,Zac,Sion,Kai'Sa,Gragas
+2019-02-15,LMS,Aatrox,Zac,Lissandra,Lucian,Braum
+2019-02-15,LMS,Urgot,Gragas,Sion,Ezreal,Thresh
+2019-02-14,LMS,Sion,Camille,Lissandra,Kai'Sa,Nautilus
+2019-02-14,LMS,Urgot,Olaf,Sylas,Ezreal,Tahm Kench
+2019-02-14,LMS,Sion,Elise,Jayce,Varus,Braum
+2019-02-14,LMS,Aatrox,Nocturne,Sylas,Kai'Sa,Alistar
+2019-02-14,LMS,Urgot,Olaf,Syndra,Sivir,Alistar
+2019-02-14,LMS,Yorick,Lee Sin,Zoe,Kai'Sa,Braum
+2019-02-14,LMS,Sion,Lee Sin,Lissandra,Ezreal,Tahm Kench
+2019-02-14,LMS,Urgot,Nocturne,Galio,Sivir,Braum
+2019-02-14,LMS,Aatrox,Zac,Cassiopeia,Sivir,Tahm Kench
+2019-02-14,LMS,Urgot,Kha'Zix,Lissandra,Kai'Sa,Braum
+2019-02-14,LMS,Sion,Xin Zhao,Cassiopeia,Caitlyn,Morgana
+2019-02-14,LMS,Urgot,Jarvan IV,LeBlanc,Kai'Sa,Soraka
+2019-01-26,LMS,Aatrox,Camille,Galio,Sivir,Thresh
+2019-01-26,LMS,Urgot,Xin Zhao,Lissandra,Kai'Sa,Braum
+2019-01-26,LMS,Sion,Lee Sin,Galio,Kai'Sa,Braum
+2019-01-26,LMS,Jax,Gragas,Irelia,Xayah,Rakan
+2019-01-26,LMS,Renekton,Nidalee,Galio,Ezreal,Thresh
+2019-01-26,LMS,Poppy,Kha'Zix,Lissandra,Kai'Sa,Alistar
+2019-01-26,LMS,Urgot,Nidalee,Fizz,Ezreal,Alistar
+2019-01-26,LMS,Aatrox,Skarner,Ryze,Kai'Sa,Braum
+2019-01-26,LMS,Rumble,Lee Sin,LeBlanc,Lucian,Braum
+2019-01-26,LMS,Ryze,Gragas,Sion,Xayah,Rakan
+2019-01-25,LMS,Urgot,Camille,Galio,Kai'Sa,Braum
+2019-01-25,LMS,Vayne,Xin Zhao,Sion,Ezreal,Alistar
+2019-01-25,LMS,Urgot,Zac,Aatrox,Viktor,Thresh
+2019-01-25,LMS,Sion,Olaf,Lissandra,Ashe,Tahm Kench
+2019-01-25,LMS,Aatrox,Sejuani,Sion,Ezreal,Tahm Kench
+2019-01-25,LMS,Urgot,Kha'Zix,LeBlanc,Lucian,Braum
+2019-01-25,LMS,Kled,Sejuani,Lissandra,Kai'Sa,Alistar
+2019-01-25,LMS,Urgot,Zac,Sion,Viktor,Thresh
+2019-01-25,LMS,Urgot,Kha'Zix,Lissandra,Kai'Sa,Thresh
+2019-01-25,LMS,Viktor,Camille,Zoe,Lucian,Rakan
+2019-01-25,LMS,Urgot,Zac,Lissandra,Ezreal,Morgana
+2019-01-25,LMS,Darius,Kha'Zix,Akali,Lucian,Alistar
+2019-01-24,LMS,Urgot,Kha'Zix,Syndra,Ezreal,Ornn
+2019-01-24,LMS,Sion,Camille,Zoe,Kai'Sa,Rakan
+2019-01-24,LMS,Sion,Xin Zhao,Lissandra,Varus,Braum
+2019-01-24,LMS,Vladimir,Olaf,Urgot,Kai'Sa,Ornn
+2019-01-24,LMS,Sion,Kha'Zix,Galio,Kai'Sa,Alistar
+2019-01-24,LMS,Jayce,Karthus,Lissandra,Ezreal,Braum
+2019-01-24,LMS,Urgot,Nidalee,LeBlanc,Varus,Braum
+2019-01-24,LMS,Aatrox,Evelynn,Sion,Ezreal,Tahm Kench
+2019-01-24,LMS,Urgot,Kindred,Lulu,Caitlyn,Morgana
+2019-01-24,LMS,Aatrox,Nocturne,Lissandra,Kai'Sa,Alistar
+2019-01-19,LMS,Jayce,Sejuani,Galio,Sivir,Rakan
+2019-01-19,LMS,Poppy,Xin Zhao,Lissandra,Ezreal,Thresh
+2019-01-19,LMS,Sion,Kha'Zix,Galio,Caitlyn,Rakan
+2019-01-19,LMS,Irelia,Gragas,Vel'Koz,Ezreal,Tahm Kench
+2019-01-19,LMS,Urgot,Taliyah,Vladimir,Lucian,Alistar
+2019-01-19,LMS,Irelia,Camille,Galio,Viktor,Thresh
+2019-01-19,LMS,Viktor,Kha'Zix,Galio,Kai'Sa,Leona
+2019-01-19,LMS,Akali,Xin Zhao,Sion,Ezreal,Braum
+2019-01-19,LMS,Sion,Gragas,Lucian,Viktor,Tahm Kench
+2019-01-19,LMS,Urgot,Kha'Zix,Galio,Kai'Sa,Thresh
+2019-01-18,LMS,Urgot,Gragas,Vladimir,Ezreal,Tahm Kench
+2019-01-18,LMS,Viktor,Camille,Irelia,Sivir,Sejuani
+2019-01-18,LMS,Jayce,Kha'Zix,Galio,Xayah,Rakan
+2019-01-18,LMS,Urgot,Sejuani,Lucian,Kai'Sa,Thresh
+2019-01-18,LMS,Urgot,Lee Sin,Syndra,Varus,Tahm Kench
+2019-01-18,LMS,Akali,Xin Zhao,Lissandra,Ezreal,Braum
+2019-01-18,LMS,Urgot,Sejuani,Zoe,Ezreal,Tahm Kench
+2019-01-18,LMS,Sion,Lee Sin,Lissandra,Kai'Sa,Alistar
+2019-01-18,LMS,Vladimir,Sejuani,Irelia,Ezreal,Tahm Kench
+2019-01-18,LMS,Urgot,Gragas,LeBlanc,Kai'Sa,Rakan
+2019-01-18,LMS,Urgot,Jarvan IV,Zoe,Ashe,Tahm Kench
+2019-01-18,LMS,Poppy,Nidalee,Lissandra,Lucian,Braum
+2019-01-17,LMS,Sion,Kha'Zix,Galio,Caitlyn,Morgana
+2019-01-17,LMS,Vladimir,Gragas,Urgot,Kai'Sa,Soraka
+2019-01-17,LMS,Sion,Aatrox,Lissandra,Kai'Sa,Leona
+2019-01-17,LMS,Urgot,Gragas,Galio,Ezreal,Rakan
+2019-01-17,LMS,Urgot,Kha'Zix,LeBlanc,Kai'Sa,Alistar
+2019-01-17,LMS,Vladimir,Skarner,Irelia,Sivir,Rakan
+2019-01-17,LMS,Urgot,Gragas,Lissandra,Xayah,Alistar
+2019-01-17,LMS,Sion,Zac,Vladimir,Ezreal,Rakan
+2019-04-20,LMS,Hecarim,Jarvan IV,Azir,Jhin,Braum
+2019-04-20,LMS,Vladimir,Rek'Sai,Sylas,Varus,Tahm Kench
+2019-04-20,LMS,Akali,Nocturne,Vladimir,Kai'Sa,Galio
+2019-04-20,LMS,Sion,Rek'Sai,Lissandra,Ezreal,Braum
+2019-04-20,LMS,Vladimir,Kindred,Syndra,Ashe,Braum
+2019-04-20,LMS,Kennen,Rek'Sai,Sylas,Varus,Tahm Kench
+2019-04-13,LMS,Kennen,Nocturne,Azir,Xayah,Tahm Kench
+2019-04-13,LMS,Vladimir,Zac,Vel'Koz,Kai'Sa,Alistar
+2019-04-13,LMS,Renekton,Zac,LeBlanc,Kai'Sa,Galio
+2019-04-13,LMS,Cho'Gath,Olaf,Nautilus,Vayne,Braum
+2019-04-13,LMS,Ornn,Jarvan IV,Azir,Varus,Tahm Kench
+2019-04-13,LMS,Kennen,Sejuani,LeBlanc,Ashe,Thresh
+2019-04-13,LMS,Kennen,Skarner,Ryze,Jinx,Galio
+2019-04-13,LMS,Ornn,Xin Zhao,Corki,Vayne,Braum
+2019-04-13,LMS,Kennen,Nocturne,Corki,Kai'Sa,Galio
+2019-04-13,LMS,Gangplank,Kindred,Azir,Varus,Tahm Kench
+2019-04-12,LMS,Nautilus,Taliyah,Ryze,Tristana,Alistar
+2019-04-12,LMS,Irelia,Olaf,Jayce,Caitlyn,Morgana
+2019-04-12,LMS,Kennen,Jarvan IV,Azir,Varus,Thresh
+2019-04-12,LMS,Gangplank,Lee Sin,Akali,Lucian,Braum
+2019-04-12,LMS,Hecarim,Jarvan IV,Ryze,Sivir,Braum
+2019-04-12,LMS,Gangplank,Lee Sin,Zoe,Ashe,Tahm Kench
+2019-04-12,LMS,Kennen,Rek'Sai,Ryze,Ezreal,Gragas
+2019-04-12,LMS,Yorick,Sejuani,Taliyah,Vayne,Alistar
+2019-08-04,LMS,Aatrox,Sylas,Corki,Varus,Tahm Kench
+2019-08-04,LMS,Kled,Gragas,Azir,Lucian,Braum
+2019-08-04,LMS,Neeko,Olaf,Azir,Lucian,Yuumi
+2019-08-04,LMS,Kennen,Jarvan IV,Corki,Kai'Sa,Volibear
+2019-08-04,LMS,Aatrox,Elise,Azir,Ezreal,Volibear
+2019-08-04,LMS,Kled,Jarvan IV,Corki,Sivir,Yuumi
+2019-08-04,LMS,Renekton,Skarner,Azir,Ezreal,Braum
+2019-08-04,LMS,Sylas,Rek'Sai,Kled,Kai'Sa,Nautilus
+2019-08-04,LMS,Sylas,Sejuani,Jayce,Kai'Sa,Nautilus
+2019-08-04,LMS,Aatrox,Gragas,Azir,Ezreal,Braum
+2019-08-04,LMS,Renekton,Sejuani,Cassiopeia,Varus,Tahm Kench
+2019-08-04,LMS,Corki,Sylas,Gangplank,Sivir,Braum
+2019-08-03,LMS,Kled,Sejuani,Corki,Xayah,Braum
+2019-08-03,LMS,Akali,Gragas,Camille,Kai'Sa,Nautilus
+2019-08-03,LMS,Vladimir,Sejuani,Kled,Lucian,Yuumi
+2019-08-03,LMS,Aatrox,Xin Zhao,Lissandra,Ezreal,Braum
+2019-08-03,LMS,Kennen,Trundle,Sylas,Jinx,Tahm Kench
+2019-08-03,LMS,Renekton,Sejuani,Zoe,Kai'Sa,Braum
+2019-08-03,LMS,Renekton,Sejuani,Qiyana,Ezreal,Braum
+2019-08-03,LMS,Kennen,Karthus,Jayce,Xayah,Rakan
+2019-08-03,LMS,Renekton,Sejuani,Corki,Jhin,Tahm Kench
+2019-08-03,LMS,Rumble,Sylas,Jayce,Xayah,Rakan
+2019-08-02,LMS,Aatrox,Skarner,Corki,Neeko,Tahm Kench
+2019-08-02,LMS,Gangplank,Gragas,Taliyah,Lucian,Pantheon
+2019-08-02,LMS,Jayce,Sejuani,Azir,Ezreal,Rakan
+2019-08-02,LMS,Vladimir,Jarvan IV,Qiyana,Xayah,Braum
+2019-08-02,LMS,Sion,Elise,Corki,Xayah,Rakan
+2019-08-02,LMS,Camille,Gragas,Azir,Ashe,Braum
+2019-08-02,LMS,Camille,Jarvan IV,Karma,Sivir,Tahm Kench
+2019-08-02,LMS,Gangplank,Sejuani,Corki,Kai'Sa,Braum
+2019-07-28,LMS,Kennen,Rek'Sai,Sylas,Sivir,Braum
+2019-07-28,LMS,Renekton,Jarvan IV,Corki,Sona,Tahm Kench
+2019-07-28,LMS,Aatrox,Olaf,Akali,Lucian,Yuumi
+2019-07-28,LMS,Renekton,Sylas,Azir,Sivir,Lux
+2019-07-28,LMS,Renekton,Xin Zhao,Rumble,Ezreal,Yuumi
+2019-07-28,LMS,Neeko,Jarvan IV,Qiyana,Kai'Sa,Nautilus
+2019-07-28,LMS,Renekton,Rek'Sai,Corki,Ezreal,Yuumi
+2019-07-28,LMS,Aatrox,Olaf,Sylas,Kai'Sa,Volibear
+2019-07-27,LMS,Aatrox,Gragas,Corki,Ashe,Tahm Kench
+2019-07-27,LMS,Kennen,Olaf,Azir,Sivir,Nautilus
+2019-07-27,LMS,Kled,Sylas,Azir,Ezreal,Braum
+2019-07-27,LMS,Aatrox,Olaf,Corki,Lucian,Lux
+2019-07-27,LMS,Renekton,Jarvan IV,Ziggs,Ezreal,Braum
+2019-07-27,LMS,Sion,Lee Sin,Azir,Lucian,Yuumi
+2019-07-27,LMS,Renekton,Trundle,Vladimir,Lucian,Yuumi
+2019-07-27,LMS,Gnar,Olaf,Ryze,Sivir,Nautilus
+2019-07-26,LMS,Renekton,Gragas,Rumble,Ezreal,Braum
+2019-07-26,LMS,Kled,Jarvan IV,Corki,Kai'Sa,Nautilus
+2019-07-26,LMS,Sylas,Trundle,Ziggs,Kai'Sa,Nautilus
+2019-07-26,LMS,Jax,Olaf,Azir,Ezreal,Braum
+2019-07-26,LMS,Renekton,Olaf,Rumble,Ezreal,Braum
+2019-07-26,LMS,Gnar,Sejuani,Ryze,Kai'Sa,Rakan
+2019-07-26,LMS,Camille,Xin Zhao,Zoe,Ezreal,Yuumi
+2019-07-26,LMS,Gnar,Sylas,Syndra,Lucian,Volibear
+2019-07-26,LMS,Kennen,Karthus,Twisted Fate,Ezreal,Tahm Kench
+2019-07-26,LMS,Gangplank,Sylas,Vladimir,Sivir,Lux
+2019-07-21,LMS,Aatrox,Sejuani,Corki,Sivir,Braum
+2019-07-21,LMS,Akali,Olaf,Cassiopeia,Kai'Sa,Nautilus
+2019-07-21,LMS,Akali,Rek'Sai,Irelia,Kai'Sa,Nautilus
+2019-07-21,LMS,Renekton,Gragas,Corki,Lucian,Braum
+2019-07-21,LMS,Jayce,Trundle,Azir,Varus,Braum
+2019-07-21,LMS,Aatrox,Xin Zhao,Corki,Kai'Sa,Nautilus
+2019-07-21,LMS,Mordekaiser,Xin Zhao,Aatrox,Lucian,Yuumi
+2019-07-21,LMS,Jax,Sylas,Azir,Kai'Sa,Volibear
+2019-07-21,LMS,Mordekaiser,Karthus,Jayce,Varus,Tahm Kench
+2019-07-21,LMS,Vayne,Sejuani,Irelia,Ezreal,Lux
+2019-07-20,LMS,Aatrox,Taliyah,Jayce,Varus,Tahm Kench
+2019-07-20,LMS,Mordekaiser,Jarvan IV,Corki,Ashe,Braum
+2019-07-20,LMS,Mordekaiser,Xin Zhao,Corki,Ezreal,Pyke
+2019-07-20,LMS,Aatrox,Sylas,Jayce,Varus,Tahm Kench
+2019-07-20,LMS,Kennen,Jarvan IV,Corki,Jinx,Tahm Kench
+2019-07-20,LMS,Jayce,Rek'Sai,Azir,Ashe,Braum
+2019-07-20,LMS,Camille,Poppy,Corki,Sivir,Nautilus
+2019-07-20,LMS,Aatrox,Gragas,Azir,Xayah,Yuumi
+2019-07-20,LMS,Gnar,Sylas,Azir,Xayah,Rakan
+2019-07-20,LMS,Camille,Karthus,Corki,Kai'Sa,Nautilus
+2019-07-19,LMS,Kennen,Olaf,Taliyah,Sivir,Yuumi
+2019-07-19,LMS,Aatrox,Qiyana,Neeko,Kai'Sa,Rakan
+2019-07-19,LMS,Camille,Sylas,Zoe,Kalista,Braum
+2019-07-19,LMS,Mordekaiser,Olaf,Taliyah,Xayah,Nautilus
+2019-07-19,LMS,Jayce,Trundle,Azir,Caitlyn,Morgana
+2019-07-19,LMS,Gnar,Sejuani,Corki,Xayah,Pyke
+2019-07-19,LMS,Gnar,Sejuani,Azir,Kai'Sa,Braum
+2019-07-19,LMS,Aatrox,Olaf,Corki,Ashe,Tahm Kench
+2019-07-14,LMS,Camille,Gragas,Corki,Ezreal,Yuumi
+2019-07-14,LMS,Aatrox,Jarvan IV,Azir,Kai'Sa,Lux
+2019-07-14,LMS,Gangplank,Olaf,Syndra,Ashe,Tahm Kench
+2019-07-14,LMS,Aatrox,Sejuani,Ziggs,Ezreal,Braum
+2019-07-14,LMS,Aatrox,Olaf,Corki,Kai'Sa,Nautilus
+2019-07-14,LMS,Fiora,Karthus,Azir,Ashe,Tahm Kench
+2019-07-14,LMS,Aatrox,Xin Zhao,Akali,Ashe,Tahm Kench
+2019-07-14,LMS,Jayce,Lee Sin,Corki,Kalista,Braum
+2019-07-14,LMS,Aatrox,Rek'Sai,Corki,Lucian,Karma
+2019-07-14,LMS,Irelia,Lee Sin,Azir,Jinx,Tahm Kench
+2019-07-13,LMS,Camille,Jarvan IV,Zoe,Kai'Sa,Nautilus
+2019-07-13,LMS,Aatrox,Sejuani,Azir,Sivir,Lux
+2019-07-13,LMS,Camille,Lee Sin,Zoe,Ezreal,Yuumi
+2019-07-13,LMS,Mordekaiser,Rek'Sai,Azir,Kai'Sa,Nautilus
+2019-07-13,LMS,Irelia,Karthus,Jayce,Ezreal,Tahm Kench
+2019-07-13,LMS,Gnar,Sejuani,Ryze,Kai'Sa,Braum
+2019-07-13,LMS,Aatrox,Sejuani,Azir,Ezreal,Yuumi
+2019-07-13,LMS,Camille,Gragas,Jayce,Kai'Sa,Lux
+2019-07-12,LMS,Gangplank,Lee Sin,Corki,Ashe,Nautilus
+2019-07-12,LMS,Renekton,Gragas,Lucian,Sivir,Lux
+2019-07-12,LMS,Aatrox,Gragas,Azir,Lucian,Sylas
+2019-07-12,LMS,Camille,Lee Sin,Taliyah,Kai'Sa,Nautilus
+2019-07-12,LMS,Sion,Lee Sin,Corki,Ashe,Tahm Kench
+2019-07-12,LMS,Camille,Elise,Jayce,Ezreal,Braum
+2019-07-12,LMS,Camille,Karthus,Zoe,Kalista,Braum
+2019-07-12,LMS,Gnar,Jarvan IV,Azir,Sivir,Nautilus
+2019-07-12,LMS,Gnar,Xin Zhao,Neeko,Sivir,Lux
+2019-07-12,LMS,Jayce,Sylas,Orianna,Kalista,Nautilus
+2019-07-12,LMS,Gnar,Jarvan IV,Azir,Xayah,Lux
+2019-07-12,LMS,Mordekaiser,Sylas,Neeko,Sivir,Nautilus
+2019-06-30,LMS,Aatrox,Lee Sin,Azir,Jinx,Braum
+2019-06-30,LMS,Gnar,Gragas,Corki,Varus,Tahm Kench
+2019-06-30,LMS,Gnar,Gragas,Corki,Ashe,Tahm Kench
+2019-06-30,LMS,Aatrox,Jarvan IV,Vladimir,Sivir,Pyke
+2019-06-30,LMS,Kennen,Olaf,Neeko,Sivir,Braum
+2019-06-30,LMS,Aatrox,Jarvan IV,Zoe,Lucian,Yuumi
+2019-06-30,LMS,Gnar,Lee Sin,Azir,Kai'Sa,Nautilus
+2019-06-30,LMS,Kennen,Jarvan IV,LeBlanc,Xayah,Yuumi
+2019-06-29,LMS,Aatrox,Gragas,Jayce,Xayah,Rakan
+2019-06-29,LMS,Poppy,Xin Zhao,Corki,Ezreal,Tahm Kench
+2019-06-29,LMS,Gnar,Skarner,Azir,Yuumi,Pyke
+2019-06-29,LMS,Aatrox,Gragas,Corki,Ezreal,Lux
+2019-06-29,LMS,Aatrox,Sejuani,Zoe,Ezreal,Lux
+2019-06-29,LMS,Ornn,Trundle,Azir,Xayah,Rakan
+2019-06-29,LMS,Irelia,Sejuani,Corki,Kai'Sa,Nautilus
+2019-06-29,LMS,Aatrox,Jarvan IV,Azir,Lucian,Yuumi
+2019-06-29,LMS,Renekton,Xin Zhao,Corki,Sona,Tahm Kench
+2019-06-29,LMS,Kennen,Jarvan IV,Azir,Kalista,Nautilus
+2019-06-28,LMS,Rumble,Jarvan IV,Vel'Koz,Lucian,Yuumi
+2019-06-28,LMS,Vladimir,Poppy,Azir,Sivir,Lux
+2019-06-28,LMS,Jayce,Olaf,LeBlanc,Sona,Tahm Kench
+2019-06-28,LMS,Kennen,Trundle,Zoe,Sivir,Yuumi
+2019-06-28,LMS,Jayce,Gragas,Neeko,Caitlyn,Lux
+2019-06-28,LMS,Aatrox,Jarvan IV,Corki,Yuumi,Pyke
+2019-06-28,LMS,Sion,Lee Sin,Azir,Sona,Pyke
+2019-06-28,LMS,Neeko,Nocturne,Lissandra,Varus,Tahm Kench
+2019-06-28,LMS,Aatrox,Xin Zhao,Taliyah,Sivir,Lux
+2019-06-28,LMS,Camille,Olaf,Vladimir,Lucian,Yuumi
+2019-06-23,LMS,Aatrox,Skarner,Corki,Xayah,Rakan
+2019-06-23,LMS,Kennen,Rek'Sai,Neeko,Sivir,Tahm Kench
+2019-06-23,LMS,Gragas,Olaf,Corki,Sivir,Nautilus
+2019-06-23,LMS,Renekton,Lee Sin,LeBlanc,Ezreal,Yuumi
+2019-06-23,LMS,Aatrox,Gragas,Azir,Sivir,Pyke
+2019-06-23,LMS,Renekton,Rek'Sai,Zilean,Vayne,Lux
+2019-06-23,LMS,Renekton,Poppy,Neeko,Ezreal,Yuumi
+2019-06-23,LMS,Gangplank,Skarner,Irelia,Viktor,Tahm Kench
+2019-06-23,LMS,Aatrox,Skarner,Irelia,Viktor,Tahm Kench
+2019-06-23,LMS,Fiora,Poppy,Neeko,Ezreal,Yuumi
+2019-06-22,LMS,Renekton,Sejuani,Azir,Lucian,Braum
+2019-06-22,LMS,Aatrox,Jarvan IV,Neeko,Xayah,Nautilus
+2019-06-22,LMS,Kennen,Xin Zhao,Jayce,Sona,Tahm Kench
+2019-06-22,LMS,Aatrox,Lee Sin,Azir,Varus,Yuumi
+2019-06-22,LMS,Renekton,Lee Sin,Corki,Sona,Pyke
+2019-06-22,LMS,Neeko,Jarvan IV,Irelia,Kai'Sa,Galio
+2019-06-22,LMS,Jayce,Olaf,Akali,Xayah,Rakan
+2019-06-22,LMS,Ornn,Jarvan IV,Corki,Sivir,Yuumi
+2019-06-22,LMS,Akali,Olaf,Vladimir,Sona,Taric
+2019-06-22,LMS,Renekton,Lee Sin,Azir,Draven,Tahm Kench
+2019-06-22,LMS,Kennen,Sejuani,LeBlanc,Xayah,Rakan
+2019-06-22,LMS,Vladimir,Olaf,Renekton,Sona,Tahm Kench
+2019-06-21,LMS,Aatrox,Skarner,Akali,Xayah,Rakan
+2019-06-21,LMS,Vladimir,Jarvan IV,Lissandra,Sivir,Yuumi
+2019-06-21,LMS,Aatrox,Olaf,Syndra,Sivir,Braum
+2019-06-21,LMS,Irelia,Trundle,Neeko,Kai'Sa,Nautilus
+2019-06-21,LMS,Kennen,Trundle,Neeko,Sivir,Lux
+2019-06-21,LMS,Ornn,Rek'Sai,Azir,Jinx,Yuumi
+2019-06-21,LMS,Aatrox,Gragas,Yasuo,Lucian,Lux
+2019-06-21,LMS,Neeko,Xin Zhao,Lulu,Sivir,Yuumi
+2019-06-21,LMS,Kennen,Rek'Sai,Neeko,Sivir,Braum
+2019-06-21,LMS,Ornn,Gragas,Yasuo,Sona,Galio
+2019-06-15,LMS,Sylas,Jarvan IV,Ryze,Jinx,Thresh
+2019-06-15,LMS,Neeko,Gragas,Irelia,Xayah,Rakan
+2019-06-15,LMS,Jax,Sejuani,Camille,Ezreal,Tahm Kench
+2019-06-15,LMS,Renekton,Kayn,Corki,Jinx,Braum
+2019-06-15,LMS,Rumble,Kayn,Zoe,Lucian,Yuumi
+2019-06-15,LMS,Yorick,Rek'Sai,Neeko,Kai'Sa,Nautilus
+2019-06-15,LMS,Gangplank,Skarner,Sylas,Xayah,Rakan
+2019-06-15,LMS,Renekton,Rek'Sai,Karma,Ezreal,Thresh
+2019-06-15,LMS,Renekton,Olaf,Karma,Lucian,Lux
+2019-06-15,LMS,Kennen,Jarvan IV,LeBlanc,Sivir,Yuumi
+2019-06-14,LMS,Ornn,Rek'Sai,Sylas,Xayah,Rakan
+2019-06-14,LMS,Kennen,Jarvan IV,Orianna,Ezreal,Yuumi
+2019-06-14,LMS,Kennen,Sejuani,Irelia,Ezreal,Braum
+2019-06-14,LMS,Sylas,Elise,Renekton,Vayne,Tahm Kench
+2019-06-14,LMS,Kennen,Jarvan IV,Sylas,Xayah,Rakan
+2019-06-14,LMS,Jayce,Skarner,Orianna,Sivir,Yuumi
+2019-06-14,LMS,Jayce,Olaf,Neeko,Xayah,Thresh
+2019-06-14,LMS,Renekton,Taliyah,Sylas,Sivir,Lux
+2019-06-14,LMS,Irelia,Sejuani,Nautilus,Xayah,Lux
+2019-06-14,LMS,Renekton,Rek'Sai,Neeko,Sivir,Galio
+2019-06-13,LMS,Kennen,Jarvan IV,Corki,Ezreal,Yuumi
+2019-06-13,LMS,Neeko,Xin Zhao,Azir,Sivir,Thresh
+2019-06-13,LMS,Renekton,Taliyah,Neeko,Xayah,Rakan
+2019-06-13,LMS,Sylas,Rek'Sai,Anivia,Sivir,Nautilus
+2019-06-13,LMS,Ryze,Jarvan IV,Corki,Ashe,Tahm Kench
+2019-06-13,LMS,Renekton,Rek'Sai,Zoe,Lucian,Nautilus
+2019-06-13,LMS,Sylas,Lee Sin,Zoe,Kai'Sa,Nautilus
+2019-06-13,LMS,Neeko,Jarvan IV,Corki,Sivir,Thresh
+2019-06-13,LMS,Ryze,Jarvan IV,Corki,Jinx,Thresh
+2019-06-13,LMS,Akali,Olaf,Nautilus,Sivir,Yuumi
+2019-08-31,LMS,Renekton,Skarner,Neeko,Xayah,Rakan
+2019-08-31,LMS,Aatrox,Sejuani,Sylas,Kai'Sa,Leona
+2019-08-31,LMS,Renekton,Sejuani,Azir,Xayah,Pyke
+2019-08-31,LMS,Aatrox,Trundle,Ziggs,Kai'Sa,Thresh
+2019-08-31,LMS,Gangplank,Jarvan IV,Akali,Varus,Tahm Kench
+2019-08-31,LMS,Vladimir,Gragas,Aatrox,Kai'Sa,Pyke
+2019-08-31,LMS,Aatrox,Jarvan IV,LeBlanc,Varus,Tahm Kench
+2019-08-31,LMS,Gangplank,Olaf,Karma,Sivir,Thresh
+2019-08-25,LMS,Camille,Trundle,Akali,Lucian,Rakan
+2019-08-25,LMS,Aatrox,Sejuani,Corki,Kai'Sa,Braum
+2019-08-25,LMS,Mordekaiser,Elise,Irelia,Jinx,Tahm Kench
+2019-08-25,LMS,Gangplank,Olaf,Karma,Varus,Braum
+2019-08-25,LMS,Gangplank,Sejuani,Sylas,Lucian,Leona
+2019-08-25,LMS,Aatrox,Elise,Corki,Kai'Sa,Volibear
+2019-08-25,LMS,Gnar,Sejuani,Ryze,Xayah,Rakan
+2019-08-25,LMS,Renekton,Elise,Kassadin,Kai'Sa,Leona
+2019-08-25,LMS,Gangplank,Gragas,Corki,Xayah,Rakan
+2019-08-25,LMS,Vladimir,Taliyah,Renekton,Tristana,Nautilus
+2019-08-23,LMS,Akali,Gragas,Qiyana,Kai'Sa,Volibear
+2019-08-23,LMS,Sion,Nocturne,Neeko,Xayah,Thresh
+2019-08-23,LMS,Renekton,Gragas,Akali,Varus,Alistar
+2019-08-23,LMS,Karma,Kha'Zix,Neeko,Xayah,Rakan
+2019-08-23,LMS,Renekton,Elise,Akali,Jinx,Thresh
+2019-08-23,LMS,Aatrox,Nocturne,Neeko,Xayah,Rakan
+2019-08-23,LMS,Sion,Aatrox,Zoe,Xayah,Braum
+2019-08-23,LMS,Renekton,Elise,Irelia,Sona,Tahm Kench
+2019-09-08,LMS,Gangplank,Elise,Corki,Xayah,Rakan
+2019-09-08,LMS,Aatrox,Jarvan IV,Ryze,Ezreal,Tahm Kench
+2019-09-08,LMS,Kled,Elise,Rumble,Ezreal,Tahm Kench
+2019-09-08,LMS,Mordekaiser,Sejuani,Qiyana,Xayah,Rakan
+2019-09-08,LMS,Renekton,Elise,Azir,Ezreal,Rakan
+2019-09-08,LMS,Aatrox,Sejuani,Qiyana,Xayah,Alistar
+2019-09-07,LMS,Karma,Jarvan IV,Gangplank,Ezreal,Nautilus
+2019-09-07,LMS,Vladimir,Gragas,Qiyana,Xayah,Thresh
+2019-09-07,LMS,Karma,Jarvan IV,Jayce,Ezreal,Nautilus
+2019-09-07,LMS,Irelia,Gragas,Qiyana,Xayah,Pyke
+2019-09-07,LMS,Neeko,Gragas,Renekton,Kai'Sa,Alistar
+2019-09-07,LMS,Karma,Olaf,Corki,Garen,Yuumi
+2019-09-06,LMS,Akali,Jarvan IV,Zoe,Lucian,Thresh
+2019-09-06,LMS,Gangplank,Gragas,Sylas,Xayah,Rakan
+2019-09-06,LMS,Aatrox,Sejuani,Syndra,Ezreal,Thresh
+2019-09-06,LMS,Gnar,Elise,Sylas,Kai'Sa,Rakan
+2019-09-06,LMS,Camille,Sejuani,Syndra,Ezreal,Nautilus
+2019-09-06,LMS,Aatrox,Jarvan IV,Sylas,Lucian,Yuumi
+2019-09-06,LMS,Aatrox,Jarvan IV,Neeko,Xayah,Braum
+2019-09-06,LMS,Gnar,Gragas,Akali,Ezreal,Tahm Kench
+2019-11-10,WCS,Gangplank,Lee Sin,Galio,Xayah,Thresh
+2019-11-10,WCS,Ryze,Jarvan IV,Veigar,Ezreal,Nautilus
+2019-11-10,WCS,Akali,Elise,Tristana,Yasuo,Gragas
+2019-11-10,WCS,Kled,Lee Sin,Ryze,Kai'Sa,Galio
+2019-11-10,WCS,Gangplank,Lee Sin,Nautilus,Sivir,Thresh
+2019-11-10,WCS,Ryze,Elise,Pyke,Varus,Tahm Kench
+2019-11-03,WCS,Ornn,Olaf,Syndra,Yasuo,Gragas
+2019-11-03,WCS,Vladimir,Elise,Qiyana,Varus,Nautilus
+2019-11-03,WCS,Renekton,Rek'Sai,Ryze,Kai'Sa,Leona
+2019-11-03,WCS,Camille,Elise,Orianna,Xayah,Nautilus
+2019-11-03,WCS,Ornn,Jarvan IV,Ryze,Ezreal,Galio
+2019-11-03,WCS,Renekton,Lee Sin,LeBlanc,Yasuo,Gragas
+2019-11-03,WCS,Renekton,Gragas,Neeko,Kai'Sa,Leona
+2019-11-03,WCS,Kled,Rek'Sai,Ryze,Xayah,Rakan
+2019-11-02,WCS,Kayle,Olaf,Galio,Kai'Sa,Rakan
+2019-11-02,WCS,Gangplank,Gragas,Nautilus,Varus,Tahm Kench
+2019-11-02,WCS,Gangplank,Qiyana,Nautilus,Xayah,Thresh
+2019-11-02,WCS,Lucian,Gragas,Jayce,Ezreal,Alistar
+2019-11-02,WCS,Vladimir,Gragas,Lucian,Varus,Tahm Kench
+2019-11-02,WCS,Mordekaiser,Lee Sin,Nautilus,Kai'Sa,Blitzcrank
+2019-11-02,WCS,Renekton,Qiyana,Rumble,Ezreal,Nautilus
+2019-11-02,WCS,Quinn,Gragas,Syndra,Varus,Alistar
+2019-10-27,WCS,Ryze,Gragas,Yasuo,Xayah,Nautilus
+2019-10-27,WCS,Irelia,Taliyah,Kayle,Kai'Sa,Ornn
+2019-10-27,WCS,Yorick,Rek'Sai,Ryze,Kai'Sa,Nautilus
+2019-10-27,WCS,Jayce,Lee Sin,Corki,Yasuo,Gragas
+2019-10-27,WCS,Jayce,Elise,Renekton,Orianna,Alistar
+2019-10-27,WCS,Kennen,Lee Sin,Ryze,Kai'Sa,Leona
+2019-10-27,WCS,Jayce,Gragas,Syndra,Xayah,Rakan
+2019-10-27,WCS,Kayle,Lee Sin,LeBlanc,Kai'Sa,Leona
+2019-10-27,WCS,Quinn,Gragas,Ryze,Varus,Leona
+2019-10-27,WCS,Renekton,Taliyah,Syndra,Kai'Sa,Thresh
+2019-10-27,WCS,Renekton,Skarner,Azir,Draven,Thresh
+2019-10-27,WCS,Ornn,Rek'Sai,Ryze,Kai'Sa,Nautilus
+2019-10-27,WCS,Fiora,Elise,Tristana,Kai'Sa,Nautilus
+2019-10-27,WCS,Poppy,Olaf,Ryze,Ezreal,Pyke
+2019-10-27,WCS,Gangplank,Gragas,LeBlanc,Kai'Sa,Blitzcrank
+2019-10-27,WCS,Lucian,Elise,Lissandra,Draven,Thresh
+2019-10-26,WCS,Camille,Gragas,Ryze,Varus,Tahm Kench
+2019-10-26,WCS,Kayle,Lee Sin,Cassiopeia,Kai'Sa,Pyke
+2019-10-26,WCS,Renekton,Rek'Sai,Ryze,Lucian,Nautilus
+2019-10-26,WCS,Ornn,Lee Sin,Veigar,Kai'Sa,Alistar
+2019-10-26,WCS,Gangplank,Lee Sin,Twisted Fate,Kai'Sa,Alistar
+2019-10-26,WCS,Gnar,Gragas,Kayle,Varus,Tahm Kench
+2019-10-26,WCS,Camille,Olaf,Ryze,Xayah,Rakan
+2019-10-26,WCS,Rengar,Elise,Twisted Fate,Garen,Yuumi
+2019-10-26,WCS,Jayce,Karthus,Sion,Xayah,Rakan
+2019-10-26,WCS,Kayle,Gragas,Aatrox,Kai'Sa,Leona
+2019-10-26,WCS,Vladimir,Lee Sin,Qiyana,Kai'Sa,Morgana
+2019-10-26,WCS,Kayle,Elise,Sion,Xayah,Rakan
+2019-10-26,WCS,Jayce,Jarvan IV,Galio,Xayah,Rakan
+2019-10-26,WCS,Kayle,Lee Sin,LeBlanc,Kai'Sa,Nautilus
+2019-10-26,WCS,Yasuo,Gragas,Qiyana,Kog'Maw,Lulu
+2019-10-26,WCS,Gnar,Elise,Poppy,Garen,Yuumi
+2019-10-20,WCS,Vladimir,Gragas,Qiyana,Kai'Sa,Alistar
+2019-10-20,WCS,Aatrox,Olaf,LeBlanc,Xayah,Nautilus
+2019-10-20,WCS,Renekton,Taliyah,Yasuo,Xayah,Ornn
+2019-10-20,WCS,Sion,Lee Sin,Zilean,Kai'Sa,Nautilus
+2019-10-20,WCS,Vladimir,Lee Sin,Akali,Kai'Sa,Leona
+2019-10-20,WCS,Jayce,Rek'Sai,Orianna,Syndra,Nautilus
+2019-10-20,WCS,Gangplank,Gragas,LeBlanc,Xayah,Rakan
+2019-10-20,WCS,Cho'Gath,Jarvan IV,Lissandra,Ezreal,Yuumi
+2019-10-20,WCS,Sion,Lee Sin,Anivia,Kai'Sa,Nautilus
+2019-10-20,WCS,Kayle,Rek'Sai,Corki,Yasuo,Gragas
+2019-10-20,WCS,Gangplank,Gragas,Viktor,Kai'Sa,Nautilus
+2019-10-20,WCS,Jayce,Olaf,Orianna,Xayah,Morgana
+2019-10-19,WCS,Gangplank,Gragas,Cassiopeia,Xayah,Pyke
+2019-10-19,WCS,Gnar,Lee Sin,Ryze,Ezreal,Lulu
+2019-10-19,WCS,Akali,Elise,Camille,Xayah,Rakan
+2019-10-19,WCS,Ezreal,Skarner,Ryze,Heimerdinger,Nautilus
+2019-10-19,WCS,Qiyana,Rek'Sai,Kayle,Kai'Sa,Rakan
+2019-10-19,WCS,Aatrox,Jarvan IV,Akali,Ezreal,Morgana
+2019-10-19,WCS,Vladimir,Lee Sin,Akali,Kai'Sa,Alistar
+2019-10-19,WCS,Gangplank,Gragas,Veigar,Xayah,Leona
+2019-10-19,WCS,Gangplank,Lee Sin,Ryze,Heimerdinger,Pyke
+2019-10-19,WCS,Urgot,Elise,Cassiopeia,Xayah,Leona
+2019-10-19,WCS,Mordekaiser,Jarvan IV,Kayle,Ezreal,Galio
+2019-10-19,WCS,Gangplank,Lee Sin,Ryze,Kai'Sa,Leona
+2019-10-18,WCS,Jayce,Qiyana,Cassiopeia,Zoe,Shen
+2019-10-18,WCS,Ornn,Lee Sin,Galio,Xayah,Rakan
+2019-10-18,WCS,Kayle,Lee Sin,Ryze,Yasuo,Gragas
+2019-10-18,WCS,Jayce,Qiyana,Akali,Kai'Sa,Shen
+2019-10-18,WCS,Cho'Gath,Lee Sin,Ryze,Jinx,Thresh
+2019-10-18,WCS,Jax,Ekko,Yasuo,Kai'Sa,Nautilus
+2019-10-18,WCS,Kayle,Lee Sin,Cassiopeia,Caitlyn,Thresh
+2019-10-18,WCS,Ryze,Rek'Sai,Syndra,Kai'Sa,Blitzcrank
+2019-10-18,WCS,Gangplank,Lee Sin,Syndra,Xayah,Rakan
+2019-10-18,WCS,Jayce,Elise,Camille,Garen,Yuumi
+2019-10-18,WCS,Kayle,Olaf,Ryze,Xayah,Rakan
+2019-10-18,WCS,Aatrox,Lee Sin,Syndra,Ezreal,Yuumi
+2019-10-18,WCS,Akali,Elise,Camille,Xayah,Rakan
+2019-10-18,WCS,Shen,Nocturne,Kayle,Kai'Sa,Galio
+2019-10-17,WCS,Ryze,Gragas,Renekton,Vayne,Thresh
+2019-10-17,WCS,Gangplank,Elise,Syndra,Kai'Sa,Rakan
+2019-10-17,WCS,Renekton,Elise,Ryze,Varus,Tahm Kench
+2019-10-17,WCS,Ornn,Gragas,Azir,Kai'Sa,Pyke
+2019-10-17,WCS,Gangplank,Qiyana,Ryze,Jinx,Thresh
+2019-10-17,WCS,Fiora,Lee Sin,Jayce,Kai'Sa,Nautilus
+2019-10-17,WCS,Cho'Gath,Rek'Sai,Akali,Xayah,Rakan
+2019-10-17,WCS,Gangplank,Lee Sin,Galio,Kai'Sa,Nautilus
+2019-10-17,WCS,Akali,Lee Sin,Ryze,Tristana,Volibear
+2019-10-17,WCS,Renekton,Gragas,Azir,Kai'Sa,Alistar
+2019-10-17,WCS,Kled,Jarvan IV,Kayle,Xayah,Alistar
+2019-10-17,WCS,Gnar,Gragas,Cassiopeia,Kai'Sa,Thresh
+2019-10-17,WCS,Renekton,Nocturne,Kled,Heimerdinger,Shen
+2019-10-17,WCS,Gangplank,Gragas,Malphite,Kai'Sa,Nautilus
+2019-10-15,WCS,Gangplank,Gragas,Orianna,Xayah,Thresh
+2019-10-15,WCS,Vladimir,Lee Sin,Syndra,Yasuo,Rakan
+2019-10-15,WCS,Fiora,Elise,Zoe,Sona,Tahm Kench
+2019-10-15,WCS,Gangplank,Lee Sin,LeBlanc,Garen,Yuumi
+2019-10-15,WCS,Sion,Karthus,Syndra,Tristana,Leona
+2019-10-15,WCS,Gangplank,Gragas,LeBlanc,Kai'Sa,Nautilus
+2019-10-15,WCS,Renekton,Qiyana,Kayle,Vayne,Nautilus
+2019-10-15,WCS,Kennen,Lee Sin,Jayce,Kai'Sa,Galio
+2019-10-15,WCS,Vladimir,Sejuani,Qiyana,Xayah,Rakan
+2019-10-15,WCS,Aatrox,Lee Sin,Akali,Yasuo,Gragas
+2019-10-15,WCS,Gnar,Rek'Sai,Ryze,Xayah,Karma
+2019-10-15,WCS,Shen,Lee Sin,Kayle,Morgana,Blitzcrank
+2019-10-14,WCS,Vladimir,Qiyana,Zoe,Xayah,Rakan
+2019-10-14,WCS,Aatrox,Elise,Tristana,Cassiopeia,Nautilus
+2019-10-14,WCS,Jayce,Lee Sin,Ezreal,Irelia,Nautilus
+2019-10-14,WCS,Sion,Rek'Sai,Akali,Syndra,Leona
+2019-10-14,WCS,Gangplank,Elise,Lucian,Syndra,Thresh
+2019-10-14,WCS,Akali,Nocturne,Kled,Kai'Sa,Nautilus
+2019-10-14,WCS,Renekton,Lee Sin,Ryze,Kai'Sa,Leona
+2019-10-14,WCS,Gangplank,Gragas,Tristana,Veigar,Thresh
+2019-10-14,WCS,Rumble,Sylas,Qiyana,Kai'Sa,Nautilus
+2019-10-14,WCS,Renekton,Gragas,Orianna,Xayah,Rakan
+2019-10-14,WCS,Akali,Gragas,Lucian,Ezreal,Nautilus
+2019-10-14,WCS,Jayce,Taliyah,Kayle,Kai'Sa,Poppy
+2019-10-13,WCS,Renekton,Elise,Irelia,Heimerdinger,Nautilus
+2019-10-13,WCS,Akali,Gragas,Tristana,Garen,Yuumi
+2019-10-13,WCS,Renekton,Taliyah,Irelia,Lucian,Nautilus
+2019-10-13,WCS,Ornn,Elise,Orianna,Kai'Sa,Leona
+2019-10-13,WCS,Rumble,Jarvan IV,Qiyana,Xayah,Rakan
+2019-10-13,WCS,Camille,Lee Sin,Akali,Kai'Sa,Leona
+2019-10-13,WCS,Gangplank,Gragas,Akali,Xayah,Rakan
+2019-10-13,WCS,Vladimir,Olaf,Orianna,Kai'Sa,Fiddlesticks
+2019-10-13,WCS,Shen,Lee Sin,Akali,Garen,Yuumi
+2019-10-13,WCS,Tristana,Elise,Orianna,Lucian,Bard
+2019-10-13,WCS,Renekton,Gragas,Twisted Fate,Ezreal,Thresh
+2019-10-13,WCS,Mordekaiser,Lee Sin,Zoe,Xayah,Blitzcrank
+2019-10-12,WCS,Akali,Kha'Zix,Tristana,Syndra,Pyke
+2019-10-12,WCS,Gangplank,Gragas,LeBlanc,Ezreal,Nautilus
+2019-10-12,WCS,Gnar,Jarvan IV,Akali,Xayah,Nautilus
+2019-10-12,WCS,Mordekaiser,Elise,Sion,Kai'Sa,Galio
+2019-10-12,WCS,Vladimir,Gragas,Yasuo,Veigar,Alistar
+2019-10-12,WCS,Aatrox,Jarvan IV,LeBlanc,Kai'Sa,Galio
+2019-10-12,WCS,Gangplank,Gragas,Jayce,Ezreal,Alistar
+2019-10-12,WCS,Gnar,Lee Sin,Akali,Kai'Sa,Nautilus
+2019-10-12,WCS,Renekton,Lee Sin,Kayle,Xayah,Blitzcrank
+2019-10-12,WCS,Gnar,Nocturne,Syndra,Lucian,Rakan
+2019-10-12,WCS,Gangplank,Rek'Sai,Ryze,Garen,Yuumi
+2019-10-12,WCS,Akali,Lee Sin,Tristana,Kayle,Nautilus
+2019-10-08,WCS,Cho'Gath,Qiyana,Syndra,Kai'Sa,Nautilus
+2019-10-08,WCS,Renekton,Karthus,Orianna,Xayah,Morgana
+2019-10-08,WCS,Renekton,Karthus,Qiyana,Heimerdinger,Morgana
+2019-10-08,WCS,Shen,Nocturne,Lissandra,Xayah,Rakan
+2019-10-08,WCS,Gnar,Olaf,Akali,Xayah,Karma
+2019-10-08,WCS,Camille,Elise,Ryze,Caitlyn,Morgana
+2019-10-08,WCS,Kennen,Qiyana,Cassiopeia,Kai'Sa,Nautilus
+2019-10-08,WCS,Aatrox,Skarner,Corki,Ashe,Thresh
+2019-10-08,WCS,Gangplank,Kha'Zix,Kayle,Kai'Sa,Morgana
+2019-10-08,WCS,Cho'Gath,Nocturne,Akali,Jhin,Thresh
+2019-10-08,WCS,Gangplank,Skarner,Corki,Xayah,Rakan
+2019-10-08,WCS,Tristana,Jarvan IV,Syndra,Veigar,Nautilus
+2019-10-08,WCS,Gnar,Lee Sin,Corki,Ezreal,Rakan
+2019-10-08,WCS,Irelia,Nocturne,Akali,Xayah,Thresh
+2019-10-08,WCS,Kled,Elise,Akali,Xayah,Thresh
+2019-10-08,WCS,Gangplank,Lee Sin,Twisted Fate,Ezreal,Rakan
+2019-10-08,WCS,Gnar,Lee Sin,Twisted Fate,Syndra,Pyke
+2019-10-08,WCS,Jayce,Skarner,Akali,Vladimir,Yuumi
+2019-10-07,WCS,Ezreal,Rek'Sai,Syndra,Lucian,Thresh
+2019-10-07,WCS,Jayce,Jarvan IV,Orianna,Kai'Sa,Blitzcrank
+2019-10-07,WCS,Rumble,Jarvan IV,Neeko,Kai'Sa,Pyke
+2019-10-07,WCS,Renekton,Elise,Irelia,Ezreal,Thresh
+2019-10-07,WCS,Rumble,Elise,Lucian,Kai'Sa,Nautilus
+2019-10-07,WCS,Kled,Olaf,LeBlanc,Jinx,Thresh
+2019-10-07,WCS,Aatrox,Nidalee,Yasuo,Ezreal,Gragas
+2019-10-07,WCS,Kennen,Lee Sin,Akali,Xayah,Yuumi
+2019-10-07,WCS,Jayce,Taliyah,Renekton,Yasuo,Gragas
+2019-10-07,WCS,Gnar,Skarner,Akali,Kai'Sa,Leona
+2019-10-07,WCS,Renekton,Taliyah,Qiyana,Kai'Sa,Alistar
+2019-10-07,WCS,Pyke,Gragas,Twisted Fate,Lucian,Thresh
+2019-10-07,WCS,Ornn,Gragas,Twisted Fate,Tristana,Shen
+2019-10-07,WCS,Vladimir,Qiyana,Akali,Garen,Yuumi
+2019-10-05,WCS,Gangplank,Lee Sin,Twisted Fate,Xayah,Rakan
+2019-10-05,WCS,Camille,Nocturne,LeBlanc,Ashe,Thresh
+2019-10-05,WCS,Camille,Elise,Akali,Caitlyn,Lux
+2019-10-05,WCS,Gangplank,Lee Sin,Lissandra,Xayah,Rakan
+2019-10-05,WCS,Camille,Rek'Sai,Syndra,Sivir,Thresh
+2019-10-05,WCS,Fiora,Lee Sin,LeBlanc,Ezreal,Blitzcrank
+2019-10-05,WCS,Kled,Elise,Akali,Lucian,Thresh
+2019-10-05,WCS,Camille,Xin Zhao,LeBlanc,Xayah,Rakan
+2019-10-05,WCS,Irelia,Rek'Sai,Neeko,Kai'Sa,Pyke
+2019-10-05,WCS,Ryze,Lee Sin,LeBlanc,Xayah,Yuumi
+2019-10-05,WCS,Gnar,Lee Sin,Syndra,Ezreal,Rakan
+2019-10-05,WCS,Akali,Jarvan IV,Galio,Xayah,Nautilus
+2019-10-05,WCS,Vladimir,Rek'Sai,Akali,Kai'Sa,Nautilus
+2019-10-05,WCS,Kled,Lee Sin,Galio,Xayah,Rakan
+2019-10-04,WCS,Irelia,Elise,Syndra,Ashe,Thresh
+2019-10-04,WCS,Mordekaiser,Vi,Vladimir,Kai'Sa,Nautilus
+2019-10-04,WCS,Camille,Sejuani,Syndra,Lucian,Nautilus
+2019-10-04,WCS,Renekton,Nocturne,Vladimir,Kai'Sa,Thresh
+2019-10-04,WCS,Quinn,Jarvan IV,LeBlanc,Lucian,Braum
+2019-10-04,WCS,Gangplank,Gragas,Corki,Jhin,Thresh
+2019-10-04,WCS,Ryze,Rek'Sai,Lissandra,Kai'Sa,Rakan
+2019-10-04,WCS,Gangplank,Jarvan IV,LeBlanc,Xayah,Alistar
+2019-10-04,WCS,Gangplank,Gragas,Syndra,Xayah,Nautilus
+2019-10-04,WCS,Gnar,Skarner,Ziggs,Ezreal,Rakan
+2019-10-04,WCS,Renekton,Rek'Sai,LeBlanc,Syndra,Leona
+2019-10-04,WCS,Kennen,Jarvan IV,Orianna,Xayah,Rakan
+2019-10-04,WCS,Kennen,Hecarim,LeBlanc,Kai'Sa,Nautilus
+2019-10-04,WCS,Gnar,Nocturne,Galio,Ashe,Thresh
+2019-10-04,WCS,Aatrox,Qiyana,Kayle,Heimerdinger,Fiddlesticks
+2019-10-04,WCS,Tristana,Lee Sin,Twisted Fate,Xayah,Rakan
+2019-10-03,WCS,Mordekaiser,Elise,Qiyana,Sivir,Pyke
+2019-10-03,WCS,Gangplank,Gragas,Tristana,Syndra,Leona
+2019-10-03,WCS,Renekton,Karthus,Azir,Kai'Sa,Nautilus
+2019-10-03,WCS,Neeko,Lee Sin,Zoe,Draven,Thresh
+2019-10-03,WCS,Camille,Taliyah,Pantheon,Kai'Sa,Nautilus
+2019-10-03,WCS,Gangplank,Lee Sin,Akali,Syndra,Thresh
+2019-10-03,WCS,Ryze,Taliyah,Renekton,Kai'Sa,Pyke
+2019-10-03,WCS,Aatrox,Rek'Sai,Neeko,Caitlyn,Thresh
+2019-10-03,WCS,Renekton,Rek'Sai,Syndra,Tristana,Thresh
+2019-10-03,WCS,Quinn,Lee Sin,Corki,Xayah,Rakan
+2019-10-03,WCS,Renekton,Qiyana,Sylas,Xayah,Rakan
+2019-10-03,WCS,Vladimir,Lee Sin,LeBlanc,Kai'Sa,Leona
+2019-10-02,WCS,Gnar,Jarvan IV,LeBlanc,Xayah,Rakan
+2019-10-02,WCS,Gangplank,Lee Sin,Lissandra,Kai'Sa,Nautilus
+2019-10-02,WCS,Karma,Nocturne,Azir,Kai'Sa,Nautilus
+2019-10-02,WCS,Tristana,Elise,Orianna,Sivir,Rakan
+2019-10-02,WCS,Kayle,Ekko,Karma,Xayah,Rakan
+2019-10-02,WCS,Gnar,Gragas,Ryze,Ezreal,Leona
+2019-10-02,WCS,Gangplank,Skarner,Syndra,Tristana,Nautilus
+2019-10-02,WCS,Renekton,Ekko,Corki,Kai'Sa,Alistar
+2019-10-02,WCS,Gnar,Ekko,Nocturne,Lucian,Thresh
+2019-10-02,WCS,Kennen,Hecarim,Ryze,Xayah,Rakan
+2019-10-02,WCS,Akali,Ekko,Renekton,Xayah,Rakan
+2019-10-02,WCS,Neeko,Rek'Sai,Tristana,Heimerdinger,Morgana
