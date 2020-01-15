@@ -40,8 +40,7 @@ def calculate_champions_frequency(df, champions):
     return champions_count / total
 
 
-def generate_pick_rules():
-    df = pd.read_csv("match_picks.csv")
+def generate_pick_rules(df):
     data = df.loc[:, "top": "support"].values
     rules = find_rules(data, 2, 0.2)
 
